@@ -1,0 +1,2493 @@
+{
+  "header": {
+    "Travel Destination": "Điểm đến du lịch",
+    "Cultural Heritage": "Di sản văn hóa",
+    "Contemporary Life": "Cuộc sống đương đại",
+    "Heritage Award": "Giải thưởng di sản",
+    "podcart": "podcart",
+    "Advertising": "Quảng cáo",
+    "vietnam heritage": "Di sản Việt Nam",
+    "Select Language": "Chọn ngôn ngữ",
+    "Destination": "Điểm đến",
+    "Itinerary": "Hành trình",
+    "Retreat": "Nghĩ dưỡng",
+    "Weather": "Thời tiết",
+    "Search": "Tìm kiếm"
+  },
+  "banner": {
+    "Ho Chi Minh Mausoleum": "Lăng Chủ tịch Hồ Chí Minh",
+    "Giong Temple in Soc Son": "Đền Gióng ở Sóc Sơn",
+    "Hanoi’s Signature Cuisine": "Ẩm thực đặc trưng Hà Nội",
+    "Relaxing Retreat at West Lake": "Khu nghỉ dưỡng thư giãn tại Hồ Tây",
+    "Domestic": "Trong nước",
+    "Sightseeing": "Tham quan",
+    "History": "Lịch sử",
+    "Cuisine": "Ẩm thực",
+    "Relaxation": "Thư giãn"
+  },
+  "Travel Destinations": {
+    "Travel Destinations": "Điểm đến du lịch",
+    "The Temple of Literature": "Văn Miếu - Quốc Tử Giám",
+    "detail": "Văn Miếu – Quốc Tử Giám là một trong những quần thể lịch sử đa dạng và quan trọng nhất tại Hà Nội, nằm phía nam Kinh thành Thăng Long. Đây được công nhận là trường đại học đầu tiên của Việt Nam. Quần thể được bao quanh bởi tường gạch và chia thành năm sân, mỗi sân có những nét kiến trúc riêng biệt. Các sân được ngăn cách bởi các bức tường gạch với ba cổng nối chúng. Từ ngoài vào trong, các cổng là: Cổng Văn Miếu, Cổng Đại Trung, Khuê Văn Các, Cổng Đại Thành và Cổng Thái Học.",
+    "Vietnam Museum of Ethnology": "Bảo tàng Dân tộc học Việt Nam",
+    "Ho Chi Minh’s Stilt House": "Nhà sàn Chủ tịch Hồ Chí Minh",
+    "Vietnam Women’s Museum": "Bảo tàng Phụ nữ Việt Nam",
+    "Tay Ho Temple": "Đền Tây Hồ",
+    "Hoan Kiem Lake": "Hồ Hoàn Kiếm",
+    "Hoa Lo Prison": "Nhà tù Hỏa Lò",
+    "title0": "Ngày Quốc Khánh 2/9: Hà Nội Miễn Phí Vé Tham Quan 5 Điểm Đến",
+    "title1": "Cầu Long Biên – Chứng Nhân Lịch Sử",
+    "title2": "Phố Cổ Hà Nội – Được Đổi Mới Mỗi Ngày",
+    "title3": "Chùa Thầy – Linh Thiêng, Tráng Lệ và Đẹp",
+    "Hanoi Old Quarter": "Phố Cổ Hà Nội",
+    "Dong Xuan Market": "Chợ Đồng Xuân",
+    "West Lake": "Hồ Tây",
+    "Long Bien Bridge": "Cầu Long Biên",
+    "Ho Chi Minh Museum": "Bảo tàng Hồ Chí Minh",
+    "Giong Temple": "Đền Gióng",
+    "Ba Da Pagoda": "Chùa Bà Đá"
+  },
+  "Travel Journey": {
+    "Travel Journey": "Hành Trình Du Lịch",
+    "Ancient City Tour": "Tham Quan Thành Phố Cổ",
+    "Culture And Spiritual": "Văn Hóa Và Tâm Linh",
+    "Premium And Night": "Trải Nghiệm Cao Cấp & Ban Đêm",
+    "Vacation And Relax": "Kỳ Nghỉ & Thư Giãn",
+    "Spa And Relax Ancient Town": "Spa & Thư Giãn Tại Phố Cổ",
+    "Hoan Kiem Lake Family Resort": "Khu Nghỉ Dưỡng Gia Đình Hồ Hoàn Kiếm",
+    "Luxury West Lake Resort": "Khu Nghỉ Dưỡng Cao Cấp Hồ Tây",
+    "Relax Spa Old Quarter And Hoan Kiem Lake": "Spa Thư Giãn Phố Cổ & Hồ Hoàn Kiếm",
+    "Spiritual And Cultural Retreat": "Kỳ Nghỉ Văn Hóa & Tâm Linh",
+    "Traditional Hanoi Cuisine": "Ẩm Thực Truyền Thống Hà Nội",
+    "Night Cuisine of Hanoi Old Quarter": "Ẩm Thực Đêm Phố Cổ Hà Nội",
+    "3 Days 2 Nights Hanoi Culinary Journey": "Hành Trình Ẩm Thực Hà Nội 3 Ngày 2 Đêm"
+  },
+  "Hanoi Old Quarter": {
+    "name": "Phố Cổ Hà Nội",
+    "introduction": "Phố Cổ Hà Nội là trung tâm lịch sử của thủ đô, nổi tiếng với 36 phố gắn liền với các nghề truyền thống. Nơi đây lưu giữ những ngôi nhà ống cổ, các đền chùa linh thiêng và không khí nhộn nhịp của các khu chợ. Đi bộ qua các con phố, du khách có thể khám phá văn hóa ngàn năm tuổi, thưởng thức các món ăn đặc trưng như phở, bún chả, bánh cuốn và hòa mình vào lối sống giản dị nhưng đặc sắc của người Hà Nội.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7447.887925057722!2d105.84514704191967!3d21.03492808638189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abbf21b895f7%3A0x641bc6c48732c7a4!2zUGjhu5EgY-G7lSBIw6AgTuG7mWksIEhvw6BuIEtp4bq_bSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475090004!5m2!1svi!2s",
+    "location": "Khu vực này bao phủ khoảng 100 ha với 10 phường và 76 phố, tạo thành một hình tam giác: phía bắc giáp phố Hàng Đâu, phía tây giáp phố Phùng Hưng, phía nam giáp các phố Hàng Bông - Hàng Gai - Cầu Gỗ - Hàng Thùng, phía đông giáp các phố Trần Quang Khải và Trần Nhật Duật. Phố Cổ nằm gần Hồ Hoàn Kiếm và sông Hồng.",
+    "description": [
+      {
+        "title": "Lịch sử và Tổng quan",
+        "image": "OldTownHistory",
+        "content": [
+          "Phố Cổ hình thành từ thời Lý - Trần (thế kỷ 11) là khu dân cư đông đúc phía đông Kinh thành Thăng Long, nơi nghề thủ công và thương mại phát triển, tạo nên các phố nghề chuyên biệt (như Hàng Mã bán đồ cúng, Hàng Bạc bán bạc, Hàng Đào bán lụa). Dưới thời Lê, thuộc huyện Phụng Thiên; dưới thời Pháp, được cải tạo với ảnh hưởng kiến trúc Pháp, Trung Quốc và Ấn Độ. Ngày nay, đây vẫn là khu vực buôn bán sầm uất nhất Hà Nội, với nhà ống hẹp (2-3m rộng, 50-60m sâu), mái ngói, sân trời, và các công trình như cổng Ô Quan Chưởng, đền Bạch Mã, chùa Cầu Đông và đình Quang Đông. Nó phản ánh văn hóa thương mại cổ với các phố như Hàng Buồm và Hàng Ngang (nơi Chủ tịch Hồ Chí Minh soạn Tuyên ngôn Độc lập năm 1945)."
+        ]
+      }
+    ],
+    "image": "OldTown",
+    "activities": [
+      {
+        "image": "OldTown1",
+        "content": [
+          "Dạo qua 36 phố nghề (Hàng Mã, Hàng Đào, Tạ Hiện); thăm các điểm đến nổi bật như cổng Ô Quan Chưởng, đền Bạch Mã, ngôi Nhà Cổ số 87 Mã Mây (triển lãm, xưởng thủ công); mua sắm tại chợ Đồng Xuân; đi dạo phố đi bộ Hồ Hoàn Kiếm (chụp ảnh, xem biểu diễn); tham gia tour xích lô hoặc tour ẩm thực (đường phố); trải nghiệm phố đường tàu (các quán cà phê dọc đường sắt – xem lịch tàu); tham gia các lễ hội như Tết Trung Thu (rước đèn).",
+          "Phố Cổ Hà Nội giữ vị trí độc đáo với nhiều di sản văn hóa vật thể và phi vật thể. Qua thời gian, những ngôi nhà nhỏ lợp ngói vẫn tồn tại trong ký ức của nhiều thế hệ người Hà Nội. Trong đó có những ngôi nhà độc đáo, lối sống đặc trưng và những con phố đầy hoài niệm.",
+          "Phố Cổ Hà Nội là di sản đô thị với kiến trúc đặc sắc, các phố nghề truyền thống, các phố buôn bán chuyên biệt và nhiều di tích văn hóa lịch sử gắn với Thăng Long – Đông Đô – Hà Nội. Kiến trúc sư To Thị Toan, nguyên Phó Giám đốc Ban Quản lý Phố Cổ, cho biết mặc dù Hà Nội phát triển mạnh, Phố Cổ vẫn lưu giữ mọi chi tiết kiến trúc, từ nhỏ nhất đến những di sản vật thể và phi vật thể lớn lao được tổ tiên truyền lại."
+        ]
+      },
+      {
+        "image": "OldTown2",
+        "content": [
+          "Về kiến trúc, hầu hết các ngôi nhà trong Phố Cổ là nhà ống với mặt tiền hẹp, sân trời và mái ngói dốc sơn vôi vàng. Cuộc sống hàng ngày của hàng nghìn cư dân vẫn tiếp diễn trong những ngôi nhà cổ này, mỗi ngôi mang dấu ấn văn hóa và lối sống truyền thống của người Hà Nội."
+        ]
+      },
+      {
+        "image": "OldTown3",
+        "content": [
+          "Cách bố trí và thiết kế nội thất của các ngôi nhà truyền thống phản ánh gu thẩm mỹ và sự tinh tế của người Hà Nội. Bàn thờ tổ tiên là không gian linh thiêng nhất, trang trí với câu đối, hoành phi, và hương trầm quanh năm. Đồ nội thất cổ như giường, tủ chạm khắc, sách xưa, bình cổ và đồng hồ quả lắc cũ làm nổi bật chiều sâu, sự tinh tế và tinh thần trầm tư của người xưa."
+        ]
+      }
+    ]
+  },
+  "Dong Xuan Market": {
+    "name": "Chợ Đồng Xuân",
+    "introduction": "Chợ Đồng Xuân là chợ lớn và lâu đời nhất Hà Nội, nằm ngay trung tâm Phố Cổ. Được xây dựng vào năm 1889 dưới thời Pháp thuộc, đây không chỉ là trung tâm buôn bán sầm uất với các mặt hàng từ vải vóc, quần áo, đồ lưu niệm đến ẩm thực truyền thống, mà còn là điểm đến văn hóa gắn bó mật thiết với đời sống người Hà Nội. Du khách có thể tận hưởng không khí nhộn nhịp, khám phá ẩm thực đường phố và tìm hiểu lịch sử hơn 100 năm của chợ.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.863466040991!2d105.84746377515339!3d21.03814838745631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abb8e6c24487%3A0xd9def483e7f217e6!2zQ2jhu6MgxJDhu5NuZyBYdcOibiwgxJDhu5NuZyBYdcOibiwgSG_DoG4gS2nhur9tLCBIw6AgTuG7mWkgMTAwMDAwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475170965!5m2!1svi!2s",
+    "location": "Chợ Đồng Xuân nằm trong Phố Cổ Hà Nội, thuộc phường Đồng Xuân, quận Hoàn Kiếm. Phía Đông giáp ngõ Đồng Xuân, phía Tây giáp phố Đồng Xuân, phía Nam giáp phố Cầu Đông, phía Bắc giáp phố Hàng Khoai. Chợ cách Hồ Hoàn Kiếm khoảng 800m, gần ga Long Biên và phố Hàng Mã.",
+    "image": "DongXuanMarket",
+    "description": [
+      {
+        "title": "Lịch sử:",
+        "content": [
+          "Theo ghi chép, chợ Đồng Xuân đã tồn tại trước năm 1888, ban đầu nằm phía nam sông Tô Lịch chảy từ phố Hàng Cá theo đường Ngõ Gạch. Khoảng năm 1889, khi sông Tô Lịch và hồ Thái Cực được lấp, người Pháp đã quy hoạch và chuyển tất cả các cửa hàng vào khu đất trống ở phường Đồng Xuân, hình thành Chợ Đồng Xuân.",
+          "Năm 1890, người Pháp chính thức xây dựng Chợ Đồng Xuân với 5 cổng vòm và 5 dãy chợ, mỗi dãy dài 52m, cao 19m, rộng 25m, diện tích khoảng 6.500 m². Mặt tiền theo phong cách kiến trúc Pháp với 5 khối tam giác, lỗ thông gió hình tổ ong và mái tôn gợn sóng.",
+          "Ban đầu, chợ mở cửa hai ngày một lần, nhưng với nhu cầu kinh tế ngày càng tăng, sau đó mở cửa hàng ngày từ sáng đến tối.",
+          "Khoảng năm 1990, chợ được cải tạo: hai dãy bên bị phá bỏ, ba dãy chính được xây lại thành ba tầng. Năm 1994, một trận hỏa hoạn nghiêm trọng phá hủy gần hết các quầy hàng bên trong chợ.",
+          "Năm 1995, Chợ Đồng Xuân được xây dựng lại với số vốn 68 tỷ VND. Ba tầng rộng gần 14.000 m² với khoảng 2.000 quầy. Ngày nay, chợ có các khu vực buôn bán, nhiều cầu thang, lối ra vào các phía, hai cầu thang ngoài trời, năm cầu thang dẫn lên tầng trên và hệ thống thang máy."
+        ],
+        "image": "DongXuanMarketHistory"
+      }
+    ],
+    "activities": [
+      {
+        "image": "DongXuanMarketActivities",
+        "content": [
+          "Mua sắm tại Chợ Đồng Xuân là trải nghiệm thú vị. Là một trong những chợ bán buôn lớn nhất miền Bắc, nơi đây cung cấp nhiều loại hàng hóa — từ thực phẩm, điện tử, quần áo, giày dép đến sản phẩm gia dụng. Du khách có thể dạo qua vô số quầy, khám phá sự đa dạng và không khí đặc trưng của chợ."
+        ]
+      },
+      {
+        "image": "DongXuanMarketActivities1",
+        "content": [
+          "Chợ đêm Đồng Xuân trải dài từ Hồ Hoàn Kiếm qua Hàng Ngang, Hàng Đào đến cuối phố Hàng Dương, hoạt động đến nửa đêm. Dọc đường, bạn sẽ thấy vô số quầy bán quần áo, giày dép và đồ ăn với giá cả phải chăng.",
+          "Đừng bỏ lỡ con phố ẩm thực gần Chợ Đồng Xuân, thường được gọi là 'thiên đường ẩm thực trong con ngõ nhỏ'. Dù chỉ dài khoảng 200m, nơi đây tập trung nhiều quán ăn phục vụ vô số món ngon với giá rất hợp lý, mang đến hương vị Hà Nội đích thực."
+        ]
+      }
+    ]
+  },
+  "West Lake": {
+    "name": "Hồ Tây",
+    "introduction": "Hồ Tây – hồ tự nhiên lớn nhất Hà Nội – được coi là 'lá phổi xanh' của thủ đô. Nơi đây không chỉ mang vẻ đẹp thơ mộng mà còn gắn với nhiều truyền thuyết. Xung quanh hồ là các con đường rợp bóng cây, quán cà phê lãng mạn bên hồ và các địa danh nổi tiếng như chùa Trấn Quốc và phủ Tây Hồ. Du khách có thể đạp xe, dạo bộ, ngắm hoàng hôn và tận hưởng không khí trong lành ngay giữa lòng thành phố.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29786.921698599304!2d105.80322226624347!3d21.058070808122626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aafe7260066b%3A0x4c2c988309aaa3db!2zSOG7kyBUw6J5!5e0!3m2!1svi!2s!4v1759475214634!5m2!1svi!2s",
+    "image": "WestLake",
+    "location": "Hồ Tây nằm ở phía tây bắc Hà Nội, thuộc quận Tây Hồ, cách trung tâm thành phố khoảng 11 km. Đây là hồ tự nhiên lớn nhất Hà Nội, diện tích khoảng 500 ha. Con đường quanh hồ dài 18 km, rợp bóng cây xanh. Hồ Tây hình thành từ một nhánh của sông Hồng khi dòng sông thay đổi, tạo nên hồ nước ngọt rộng lớn.",
+    "description": [
+      {
+        "title": "Lịch sử hình thành:",
+        "image": "WestLake",
+        "content": [
+          "Hồ Tây tồn tại từ thời Hùng Vương, khi đó được gọi là bến Lâm Ấp, một bến sông nối với sông Hồng. Trong thời Lý - Trần, Hồ Tây trở thành khu nghỉ dưỡng cho vua và quý tộc, với nhiều phủ đền được xây dọc bờ hồ.",
+          "Trong lịch sử, Hồ Tây có nhiều tên gọi gắn với truyền thuyết và dân gian: Đầm Xác Cáo, Làng Bắc, Đầm Đầm, Tây Hồ, Đoài Hồ.",
+          "Từ vùng hoang dã và đầm lầy, nhờ nỗ lực khai hoang của nhiều thế hệ, trong đó có sự đóng góp của các phi tần triều đại, Hồ Tây trở thành danh thắng văn hóa và du lịch nổi tiếng của Thăng Long – Hà Nội. Nếu Hồ Tây là nhụy hoa, thì 'Thập Tam Trại' là những cánh hoa tỏa hương thơm ngát."
+        ]
+      },
+      {
+        "title": "Các di tích lịch sử:",
+        "image": "TranQuocPagoda",
+        "content": [
+          "Phủ Thụy Hoa (Thời Lý): nay thuộc khu vực chùa Trấn Quốc.",
+          "Phủ Tư Hoa (Thời Lý): nay là chùa Kim Liên.",
+          "Phủ Thụy Chương (Thời Lê): nay là Trường Chu Văn An."
+        ]
+      },
+      {
+        "title": "Truyền thuyết và câu chuyện lịch sử:",
+        "image": "WestLake3",
+        "content": [
+          "Hồ Tây, trước đây gọi là Đầm Xác Cáo, hồ Kim Ngưu, Làng Bắc, Đầm Đầm, Đoài Hồ, là hồ tự nhiên lớn nhất trong nội thành Hà Nội. Hồ rộng hơn 500 ha với chu vi 18 km, nằm phía tây bắc trung tâm Hà Nội. Địa lý lịch sử chứng minh Hồ Tây từng là một phần của sông Hồng trước khi dòng chảy thay đổi.",
+          "Theo 'Đại Nam Tây Hồ chí', Hồ Tây có từ thời Hùng Vương khi là bến dọc sông Hồng, gọi là bến Lâm Ấp tại làng Long Đỗ. Thời Hai Bà Trưng, bến kết nối với sông Hồng. Xung quanh hồ là rừng tre, gụ, lau và nhiều loài động vật quý hiếm. Bờ tây có hang Gia La (nay là Quận La, phường Xuân La), bờ đông có hang Nhà Lâm (nay là các phố Yên Ninh, Hòe Nhai), bờ nam có hang Bình Sa (sau là Giáp Cổ Xã, nay thuộc quận Hoàn Kiếm). Dân cư thưa thớt, sống chủ yếu bằng săn bắt và đánh cá.",
+          "Về địa hình, Hồ Tây là hồ ngoại sinh hình lòng chảo, chứng minh từng là một phần của sông Hồng cổ. 'Đại Việt sử ký toàn thư' ghi rằng năm 1044, vua Lý Thái Tông dùng Hồ Tây (khi đó gọi là Đầm Đầm) để bẫy voi rừng bằng voi thuần từ Chămpa.",
+          "Qua nhiều thế kỷ, Hồ Tây trở thành danh thắng nổi tiếng. Thời Lý - Trần, các vua xây dựng phủ đền quanh hồ làm khu nghỉ dưỡng và giải trí, như phủ Thụy Hoa và Tư Hoa (Thời Lý, nay là chùa Kim Liên) và phủ Hàm Nguyên (Thời Trần, nay là chùa Trấn Quốc). Truyền thuyết kể rằng công chúa Tư Hoa, con vua Lý Thánh Tông, biến khu vực này thành các đồn điền dâu tằm và trồng tơ cùng các cung nữ, lập làng Nghi Tam làm trung tâm dệt lụa.",
+          "Thời Trần, công chúa Túc Trinh, con vua Trần Thánh Tông, góp phần khai hoang đất đai quanh Hồ Tây, giúp dân nghèo lập làng như làng Cổ Nhuế.",
+          "Thế kỷ 17, phi tần Vũ Thị Ngọc Xuân, vợ Chúa Trịnh Trắc, giúp dân khai hoang Minh Cao – Xuân Đỉnh (nay thuộc quận Tây Hồ). Trước đây, chim di cư như vịt trời từ Hồ Tây được coi là đặc sản dâng vua, nhưng do săn bắn quá mức và thay đổi môi trường, các loài chim này biến mất khoảng năm 1994."
+        ]
+      }
+    ]
+  },
+  "Hoa Lo Prison": {
+    "name": "Nhà tù Hỏa Lò",
+    "introduction": "Nhà tù Hỏa Lò được xây dựng vào cuối thế kỷ 19 dưới thời Pháp thuộc. Đây từng là nơi giam giữ nhiều chiến sĩ cách mạng Việt Nam. Ngày nay, địa điểm này trở thành một trong những điểm tham quan lịch sử nổi bật của Hà Nội, giúp du khách tìm hiểu cuộc đấu tranh giành độc lập, chiêm ngưỡng hiện vật quý giá và cảm nhận tinh thần kiên cường, bất khuất của người Việt.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1836948816194!2d105.84390317515307!3d21.02533468789649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab96aa51de95%3A0x9701e10bee31af54!2zRGkgdMOtY2ggTmjDoCB0w7kgSOG7j2EgTMOy!5e0!3m2!1svi!2s!4v1759475254542!5m2!1svi!2s",
+    "location": "Nhà tù Hỏa Lò nằm tại số 1 phố Hỏa Lò, phường Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội.",
+    "image": "HoaLoPrison",
+    "description": [
+      {
+        "title": "Giờ mở cửa",
+        "content": [
+          "Địa điểm mở cửa hàng ngày, kể cả ngày lễ và cuối tuần, từ 8:00 sáng đến 5:00 chiều.",
+          "Phí vào cửa khá hợp lý, khoảng 30.000 VND/người. Có giảm giá hoặc miễn phí cho một số đối tượng như học sinh, người cao tuổi và những người có công với cách mạng."
+        ]
+      },
+      {
+        "title": "Lịch sử",
+        "image": "HoaLoPrisonHistory",
+        "content": [
+          "Nhà tù Hỏa Lò được xây dựng năm 1896 và ban đầu có tên là Prison Centrale. Tuy nhiên, để tránh sự tò mò và kích động của công chúng, tên được đổi thành Maison Centrale, vẫn được khắc trên cổng chính. Nhà tù được xây ở ngoại ô Hà Nội như một trung tâm giam giữ cho cả Bắc Kỳ và Trung Kỳ, chủ yếu giam giữ tù chính trị và các nhà yêu nước chống thực dân. Trong thủ đô nhộn nhịp, Nhà tù Hỏa Lò là minh chứng u ám về lịch sử đầy biến động của Việt Nam. Được biết đến với tên gọi 'Địa ngục trần gian', nhà tù nổi tiếng với kiến trúc tàn bạo dùng để tra tấn và cưỡng bức. Chiếc máy chém đã khiến Hỏa Lò trở thành một trong những nhà tù khét tiếng nhất thế giới."
+        ]
+      },
+      {
+        "title": "Kiến trúc Nhà tù Hỏa Lò",
+        "image": "HoaLoPrisonArchitecture",
+        "content": [
+          "Nhà tù ban đầu có diện tích hơn 12.000 m². Ngày nay, chỉ còn 2.434 m² được bảo tồn như di tích lịch sử. Nhà tù được xây trên đất làng Phú Khánh, một làng nghề gốm truyền thống với các lò nung ngày đêm, tạo nên tên gọi 'Hỏa Lò'. Thời Pháp thuộc, nhà tù được thiết kế với tường đá cao 4 mét, dày 0,5 mét, có dây thép gai điện. Khuôn viên được chia thành bốn khu: - Khu A và B: dành cho tù nhân đang điều tra, phạm tội nhẹ hoặc vi phạm nội quy. - Khu C: dành cho tù nhân Pháp hoặc người nước ngoài. - Khu D: dành cho tù nhân chờ thi hành án."
+        ]
+      },
+      {
+        "title": "Câu chuyện về Nhà tù Hỏa Lò",
+        "image": "HoaLoPrison2",
+        "content": [
+          "Nhà tù được mệnh danh là 'Địa ngục trần gian', thiết kế để giam khoảng 500 tù nhân. Các phòng giam có điều kiện giam giữ và tra tấn khắc nghiệt và vô nhân đạo.",
+          "Từ một làng nghề gốm nổi tiếng, người Pháp biến Hỏa Lò thành nơi tra tấn thể chất và tinh thần cho hàng nghìn chiến sĩ yêu nước. Dù bị giam cầm khắc nghiệt, các nhà cách mạng Việt Nam biến nhà tù thành trường học cách mạng, truyền bá lý thuyết chính trị và duy trì kháng chiến.",
+          "Nhiều lãnh đạo Việt Nam nổi bật từng bị giam tại đây, bao gồm Phan Bội Châu, Lương Văn Can, Nguyễn Quyền, Hồ Tùng Mậu, Nguyễn Lương Bằng, cũng như năm Tổng Bí thư Đảng Cộng sản Việt Nam: Nguyễn Văn Cừ, Trường Chinh, Lê Duẩn, Nguyễn Văn Linh và Đỗ Mười.",
+          "Du khách vẫn có thể thấy nhiều công cụ tra tấn tàn bạo từng sử dụng ở đây: máy chém, máy sốc điện và gậy. Tất cả cửa, ổ khóa và xích xiềng đều được nhập từ Pháp và quản lý nghiêm ngặt.",
+          "Chiếc máy chém khổng lồ là công cụ khét tiếng nhất, khiến Hỏa Lò trở thành một trong những nhà tù khét tiếng trên thế giới. Du khách thường rùng mình khi nhìn thấy các cảnh phục dựng tra tấn và thi hành án.",
+          "Tù nhân bị xiềng trong nhiều giờ, ngày, thậm chí nhiều năm. Dù chịu đựng nỗi đau khôn cùng, các tù nhân chính trị vẫn kiên cường, khiến người ta ngưỡng mộ tinh thần của họ.",
+          "Hình ảnh các vụ đánh đập, xét xử và tra tấn tàn bạo vẫn in sâu trong ký ức người Việt. Mỗi góc Hỏa Lò mô tả sống động sự hy sinh và đấu tranh của các chiến sĩ cách mạng giành độc lập.",
+          "Nhà tù được bao quanh bởi tường đá và bê tông cao 4 mét, có dây thép gai điện trên đỉnh. Các trại gác ở mỗi góc đảm bảo giám sát toàn diện. Cửa sắt, ổ khóa và xiềng xích đều được nhập từ Pháp. Các phòng giam và phòng biệt giam chật chội, ngột ngạt, do các cai ngục khét tiếng cai trị, không ngần ngại đàn áp tù nhân tàn nhẫn.",
+          "Tuy vậy, tinh thần yêu nước và cách mạng chưa bao giờ chết. Các cuộc họp cách mạng bí mật, giáo dục chính trị và hoạt động tuyên truyền vẫn tiếp tục, ngay cả trong điều kiện tàn bạo.",
+          "Các ấn phẩm cách mạng như 'Đời sống nhà tù' và 'Tạp chí nhà tù' được tạo ra ngay bên trong nhà tù, lan truyền nhận thức và thắp sáng ngọn lửa cách mạng ngay trong nơi giam giữ kẻ thù. Những nỗ lực này mang lại hy vọng và ánh sáng cho một cuộc sống tù đầy tăm tối."
+        ]
+      }
+    ]
+  },
+  "Long Bien Bridge": {
+    "name": "Cầu Long Biên",
+    "introduction": "Cầu Long Biên, được người Pháp xây dựng năm 1902, là cây cầu thép đầu tiên bắc qua sông Hồng và trở thành biểu tượng lịch sử của Hà Nội. Trong hơn một thế kỷ, cầu đã chứng kiến nhiều cuộc chiến tranh và sự kiên cường của thủ đô qua bao thăng trầm. Ngày nay, Cầu Long Biên không chỉ là địa điểm giàu giá trị lịch sử mà còn là nơi lý tưởng để ngắm bình minh, hoàng hôn và thưởng ngoạn vẻ đẹp thơ mộng của sông Hồng.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.7406202206075!2d105.85526187515349!3d21.043061987287384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abc8ca5f2f8f%3A0x6952d77987cbb0b!2zQ-G6p3UgTG9uZyBCacOqbiwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475296359!5m2!1svi!2s",
+    "image": "LongBienBridge",
+    "location": "Cầu Long Biên bắc qua sông Hồng, nối các quận Hoàn Kiếm, Ba Đình và Long Biên của Hà Nội. Mặc dù gần phố cổ, việc di chuyển đến cầu thường gặp tắc đường vào giờ cao điểm từ 06:00 – 09:00 và 16:00 – 19:30.",
+    "description": [
+      {
+        "title": "Thời gian xây dựng",
+        "content": [
+          "Cầu Long Biên được chính quyền Pháp khởi công ngày 12/9/1898 nhằm kết nối giao thông và thuận tiện cho việc khai thác thuộc địa. Sau hơn ba năm, cầu hoàn thành vào ngày 3/2/1902, lễ khánh thành diễn ra ngày 28/2/1902. Ban đầu, cầu được đặt theo tên Toàn quyền Đông Dương Paul Doumer, nhưng người dân gọi phổ biến là 'Cầu Sông Cái'. Năm 1945, Chủ tịch Ủy ban Nhân dân Hà Nội Trần Văn Lai đổi tên thành Cầu Long Biên."
+        ]
+      },
+      {
+        "title": "Kiến trúc độc đáo",
+        "image": "LongBienBridge1",
+        "content": [
+          "Cầu Long Biên dài 2.290 mét, với 896 mét cầu dẫn, gồm 19 nhịp dầm thép và 20 trụ cao. Khi khánh thành, cầu được so sánh như tháp Eiffel nằm ngang, là cầu dài thứ hai thế giới sau cầu Brooklyn ở Mỹ.",
+          "Cầu rộng 4,75 mét, chia ba làn chính: một đường ray xe lửa ở giữa, hai làn bên cho ô tô, xe máy, xe đạp và vỉa hè cho người đi bộ ở hai mép ngoài cùng.",
+          "Kiến trúc cầu nổi bật với thiết kế hài hòa, cấu trúc thép nhiều lớp như rồng uốn lượn — mạnh mẽ, kiêu hãnh nhưng uyển chuyển. Toàn bộ cầu làm bằng thép chất lượng cao, sử dụng kỹ thuật xây dựng tiên tiến, đảm bảo thẩm mỹ và an toàn.",
+          "Hiện nay, Hà Nội có nhiều cầu bắc qua sông Hồng như Chương Dương, Thăng Long, Thanh Trì, Vĩnh Tuy và Nhật Tân. Tuy nhiên, Cầu Long Biên vẫn là biểu tượng không thể thay thế của thủ đô, nhờ kiến trúc lịch sử và hơn 120 năm tồn tại."
+        ]
+      },
+      {
+        "title": "Bối cảnh lịch sử",
+        "image": "LongBienBridgeHistory",
+        "content": [
+          "Cây cầu hơn 120 năm tuổi này xuất phát từ ý tưởng của Toàn quyền Đông Dương. Năm 1897, Paul Doumer ra lệnh nghiên cứu và quyết định nhanh chóng về việc xây cầu qua sông Hồng tại Hà Nội.",
+          "Khi đó, Hà Nội tách biệt với các tỉnh bờ trái sông Hồng bởi dòng sông rộng hơn 1.700 mét với các bãi cát dịch chuyển. Việc bắc cầu gặp khó khăn, tốn kém và nguy hiểm, vì sông Hồng nổi tiếng dữ dội, nhất là mùa lũ.",
+          "Với độ sâu hơn 20 mét và mực nước dâng lên 8 mét khi lũ, lòng sông luôn thay đổi tạo thách thức lớn cho kỹ sư. Nhiều người nghi ngờ việc xây trụ trong điều kiện này là rủi ro.",
+          "Một cuộc thầu công khai được đăng trên Indochina Gazette năm 1897. Sáu công ty nộp hồ sơ, Daydé & Pillé thắng với phương án B, chi phí gần 5,4 triệu franc, gồm 19 nhịp dầm khung treo — thiết kế từng áp dụng tại cầu Tolbiac ở đường sắt Paris-Orléans. Daydé & Pillé có nhiều kinh nghiệm, từng xây cầu kênh Briare, cầu Mirabeau, ga Bordeaux-Saint-Jean và Grand Palais ở Paris.",
+          "Ngày 12/9/1898, viên đá nền được đặt. Công việc khó nhất là xây trụ ở độ sâu 30 mét, sử dụng kỹ thuật khí nén do kỹ sư Jacques Triger phát minh. Tài liệu và minh họa lưu trữ mô tả toàn bộ quá trình: hạ caisson khí nén, điều chỉnh áp suất, đào đất, đổ bê tông. Công trình thi công bảy tháng mỗi năm, ngưng mùa lũ."
+        ]
+      },
+      {
+        "title": "Nhân chứng lịch sử",
+        "image": "LongBienBridge2",
+        "content": [
+          "Suốt 120 năm, Cầu Long Biên đã chứng kiến nhiều sự kiện lịch sử ở Hà Nội. Năm 1902, Hoàng đế Thành Thái và Toàn quyền mới lên tàu từ ga Hà Nội để khánh thành cầu. Qua các năm, cầu được tu sửa, mở rộng, bao gồm mở rộng hai vỉa hè từ 1,3m lên 2,2m để phục vụ giao thông và người đi bộ.",
+          "Năm 1945, ông Trần Văn Lai, Chủ tịch Ủy ban Nhân dân Hà Nội đầu tiên, đổi tên cầu từ Doumer thành Long Biên. Năm 1946–1947, cả quân Pháp và Việt Nam bảo vệ cầu. Năm 1954, cầu chứng kiến lịch sử khi quân Pháp rút về Hải Phòng qua cầu, trong khi quân Việt tiếp quản sau Giải phóng Hà Nội ngày 10/10.",
+          "Trong chiến tranh chống Mỹ, cầu Long Biên chịu nhiều trận đánh và bị ném bom nặng, khiến nhiều phần cầu bị phá hủy nhiều lần.",
+          "Năm 1972, trong chiến dịch ném bom 12 ngày của Mỹ, cầu bị hư hại nặng. Việc xe quân sự lớn đi qua cũng góp phần làm cầu xuống cấp, cần nhiều lần sửa chữa. Một số ảnh hiếm cho thấy nhịp cầu sập sau bom, kèm theo tài liệu và hình ảnh phục dựng.",
+          "Bên cạnh đó, ký ức cộng đồng về cầu Long Biên cũng được lưu giữ, gồm ảnh của năm nhiếp ảnh gia, tranh của họa sĩ Trần Anh Tuấn và mô hình tre của cầu được tặng Trung tâm Lưu trữ Quốc gia I.",
+          "Ngày nay, Cầu Long Biên vẫn là biểu tượng về sự kiên cường của Hà Nội trong chiến tranh. Các triển lãm và câu chuyện về cầu giúp thế hệ trẻ hiểu không chỉ vai trò lịch sử mà còn phần quan trọng trong quá khứ Hà Nội."
+        ]
+      }
+    ]
+  },
+  "Ho Chi Minh Museum": {
+    "name": "Bảo tàng Hồ Chí Minh",
+    "introduction": "Bảo tàng Hồ Chí Minh là một trong những công trình văn hóa lớn nhất Việt Nam, khánh thành năm 1990 nhân kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh. Bảo tàng trưng bày hàng chục nghìn hiện vật và tài liệu quý giá về cuộc đời, sự nghiệp cách mạng và tư tưởng của Người. Tham quan bảo tàng giúp du khách hiểu sâu hơn về vị lãnh tụ vĩ đại cũng như cuộc đấu tranh giành độc lập của Việt Nam.",
+    "map": "[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9260209792596!2d105.83008817515338!3d21.035645887542305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba02e1deb6f%3A0x949d893f040b49d1!2zQuG6o28gdMOgbmcgSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1759475330555!5m2!1svi!2s](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9260209792596!2d105.83008817515338!3d21.035645887542305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba02e1deb6f%3A0x949d893f040b49d1!2zQuG6o28gdMOgbmcgSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1759475330555!5m2!1svi!2s)",
+    "image": "HoChiMinhMuseum",
+    "location": "Nằm tại số 19 Ngọc Hà, quận Ba Đình, Hà Nội, gần Lăng Chủ tịch Hồ Chí Minh, bảo tàng là điểm dừng chân quan trọng trong bất kỳ lịch trình tham quan Hà Nội nào. Công trình bắt đầu xây dựng năm 1985 và chính thức mở cửa ngày 19/5/1990, nhân kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh.",
+    "description": [
+      {
+        "title": "Thời gian mở cửa",
+        "content": [
+          "Thứ Ba, Tư, Năm, Thứ Bảy, Chủ Nhật: 8:00 - 12:00 | 14:00 - 16:30. Bảo tàng thu phí vào cửa đối với khách nước ngoài: 40.000 VND/người. Giảm 50% cho học sinh, trẻ em dưới 14 tuổi. Miễn phí cho cựu chiến binh Việt Nam, người khuyết tật và thành viên Hội đồng Bảo tàng Quốc tế (ICOM)."
+        ]
+      },
+      {
+        "title": "Thời gian xây dựng",
+        "image": "HoChiMinhMuseum1",
+        "content": [
+          "Bảo tàng Hồ Chí Minh bắt đầu xây dựng ngày 31/8/1985, hoàn thành đúng dịp kỷ niệm 100 năm ngày sinh Chủ tịch Hồ Chí Minh vào ngày 19/5/1990. Nhân dân Liên Xô đóng góp quan trọng vào thiết kế và thi công. Bảo tàng có ba tầng và gây ấn tượng với kiến trúc độc đáo cùng bộ sưu tập hiện vật rộng lớn."
+        ]
+      },
+      {
+        "title": "Kiến trúc bảo tàng",
+        "image": "HoChiMinhMuseum2",
+        "content": [
+          "Tầng 1 – trưng bày tiểu sử Hồ Chí Minh: Du khách bước vào đại sảnh chính thấy bức chân dung bằng đồng ấn tượng của Chủ tịch Hồ Chí Minh. Triển lãm tiếp tục với hình ảnh, tài liệu và hiện vật về cuộc đời và các mốc quan trọng trong phong trào cách mạng và xây dựng đất nước theo di nguyện của Người. Các hiện vật được chia thành 9 chủ đề chính:",
+          "Chủ đề 1: Hiện vật và hình ảnh về thời thơ ấu và thanh niên của Hồ Chí Minh ở Nghệ An (1890–1910). Chủ đề 2: Hành trình tìm đường cứu nước đầy gian khó từ 1911–1920, làm việc, học tập và nghiên cứu phương pháp cách mạng. Chủ đề 3: Hình ảnh và tài liệu về hoạt động của Hồ Chí Minh tại Pháp. Chủ đề 4: Tài liệu về hình thành tư tưởng Hồ Chí Minh và các hoạt động thực tiễn dẫn đến việc thành lập Đảng Cộng sản Việt Nam. Chủ đề 5: Hiện vật giai đoạn thành lập Đảng và đấu tranh giành độc lập, bao gồm tài liệu trong thời gian bị giam tại Hồng Kông và Quảng Tây. Chủ đề 6: Hiện vật minh họa cuộc sống của Hồ Chí Minh trong 9 năm kháng chiến ở rừng Tây Bắc (1945–1954). Chủ đề 7: Triển lãm về hoạt động ngoại giao và xây dựng đất nước ở miền Bắc và đấu tranh giành độc lập ở miền Nam. Chủ đề 8: Tài liệu về những năm cuối đời và sự ra đi của Hồ Chí Minh (1969). Chủ đề 9: Tóm tắt hoạt động và di sản Người để lại cho dân tộc."
+        ]
+      },
+      {
+        "image": "HoChiMinhMuseum3",
+        "content": [
+          "Tầng 2 – tái hiện các chiến công vẻ vang dưới sự lãnh đạo của Hồ Chí Minh: Các chủ đề từ tầng 1 được mở rộng để cung cấp cái nhìn sâu hơn về cuộc đấu tranh giành độc lập và những chiến thắng dưới sự lãnh đạo của Người. Hiện vật và tài liệu phản ánh Việt Nam và thế giới thời bấy giờ, cũng như ý nghĩa của Cách mạng Tháng Mười Nga và vai trò của Việt Nam trong phong trào cách mạng quốc tế. Phần còn lại của tầng hai trưng bày triển lãm về Việt Nam trong thời kỳ đổi mới."
+        ]
+      },
+      {
+        "content": [
+          "Tầng 3 – điểm lại các cột mốc lịch sử quan trọng trong cuộc đời Hồ Chí Minh: Tầng ba giới thiệu các hiện vật về các sự kiện lịch sử khu vực và thế giới ảnh hưởng lớn đến Nguyễn Tất Thành trẻ trên con đường trở thành lãnh tụ dân tộc."
+        ]
+      },
+      {
+        "title": "Quy định tham quan",
+        "content": [
+          "Là bảo tàng trang nghiêm, có ý nghĩa lịch sử lớn, du khách phải tuân thủ các quy định:",
+          "Ăn mặc lịch sự, gọn gàng, không đội mũ, đi theo lộ trình hướng dẫn, không chen lấn, nhường đường cho người cao tuổi hoặc người khuyết tật.",
+          "Không mang chất ma túy, vật dễ cháy, vũ khí, chất nguy hại hoặc gây ô nhiễm vào bảo tàng.",
+          "Đặt hành lý, ba lô, túi xách tại khu vực quy định.",
+          "Giữ vệ sinh, không hút thuốc, không ăn uống, tránh gây ồn ào.",
+          "Không chạm vào hình ảnh, tài liệu, hiện vật hay thiết bị trong bảo tàng.",
+          "Trẻ em dưới 10 tuổi phải có người lớn hoặc nhóm tổ chức đi kèm.",
+          "Liên hệ quản lý bảo tàng nếu muốn quay phim hoặc chụp ảnh."
+        ]
+      }
+    ]
+  },
+  "Ho Chi Minh Stilt House": {
+    "name": "Nhà sàn Hồ Chí Minh",
+    "introduction": "Nhà sàn Hồ Chí Minh, nằm trong khuôn viên Dinh Tổng thống, được xây dựng năm 1958 và là nơi ở cũng như làm việc của Chủ tịch Hồ Chí Minh trong 11 năm cuối đời. Ngôi nhà gỗ đơn giản này, xung quanh là vườn cây và ao cá yên bình, phản ánh lối sống giản dị và gần gũi với thiên nhiên của Người. Tham quan ngôi nhà giúp du khách hiểu về đời sống hàng ngày của Chủ tịch và trân trọng hơn tấm gương đạo đức cùng lối sống giản dị của vị lãnh tụ kính yêu này.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.8630960645824!2d105.83059557515342!3d21.03816318745575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba6cb40909b%3A0x15d0fe7c07f55c3b!2zTmjDoCBzw6BuIELDoWMgSOG7kw!5e0!3m2!1svi!2s!4v1759475373642!5m2!1svi!2s",
+    "image": "StiltHouse",
+    "location": "Nhà sàn Hồ Chí Minh nằm trong Khu di tích Lịch sử Dinh Tổng thống, phường Ngọc Hà, quận Ba Đình, Hà Nội.",
+    "description": [
+      {
+        "image": "StiltHouse2",
+        "content": [
+          "Bên cạnh ngôi nhà sàn của Hồ Chí Minh ở Nghệ An, nhà sàn tại Hà Nội cũng là điểm du lịch được nhiều người yêu thích. Với giá trị lịch sử và văn hóa lớn, nơi đây đã trở thành một trong những điểm đến nổi tiếng nhất của Hà Nội.",
+          "Nhà sàn Hồ Chí Minh được khánh thành vào ngày 17/5/1958, nhân dịp kỷ niệm sinh nhật lần thứ 68 của Chủ tịch Hồ Chí Minh. Ẩn mình dưới những tán cây xanh tươi trong vườn Dinh Tổng thống, ngôi nhà được bao quanh bởi hàng rào hoa dâm bụt xanh và cổng chào bằng những cành cây đan xen. Nằm giữa khu vườn xanh mát, ngôi nhà là biểu tượng rõ rệt của lối sống giản dị của Người.",
+          "Đây là nơi Chủ tịch Hồ Chí Minh sống và làm việc lâu nhất trong quá trình hoạt động cách mạng. Đây cũng là nơi đón tiếp các nhà lãnh đạo, đoàn khách chính thức và hàng triệu du khách Việt Nam từ khắp mọi miền đất nước.",
+          "Hướng dẫn đi lại: Ngôi nhà gần Lăng Chủ tịch Hồ Chí Minh và có thể dễ dàng tiếp cận bằng phương tiện cá nhân hoặc công cộng. Nếu đi bằng xe cá nhân, du khách có thể đi theo nhiều tuyến đường khác nhau. Sau khi đến Lăng, gửi xe tại số 19 phố Ngọc Hà, gần cổng Bảo tàng Hồ Chí Minh hoặc trên phố Ông Ích Khiêm đối diện Bộ Quốc phòng. Nếu sử dụng xe buýt công cộng, đi các tuyến 09, 18, 22, 33, 45 hoặc 50; tất cả đều dừng tại số 18A phố Lê Hồng Phong."
+        ]
+      },
+      {
+        "title": "Giờ mở cửa",
+        "content": [
+          "Mùa hè (1/4 - 31/10): Buổi sáng: 7:30 - 11:00 | Buổi chiều: 13:30 - 16:00",
+          "Mùa đông (1/11 - 31/3): Buổi sáng: 8:00 - 11:00 | Buổi chiều: 13:30 - 16:00"
+        ]
+      },
+      {
+        "title": "Nhà sàn Hồ Chí Minh",
+        "image": "StiltHouse1",
+        "content": [
+          "Du khách có thể chiêm ngưỡng kiến trúc độc đáo của Nhà sàn Hồ Chí Minh, được thiết kế theo kiểu nhà sàn truyền thống của các dân tộc thiểu số. Ngôi nhà dài 10,5 mét, rộng 6,2 mét, gồm hai tầng. Tầng trệt là nơi làm việc của Chủ tịch Hồ Chí Minh vào mùa hè, phòng họp Bộ Chính trị và khu tiếp khách thân mật. Tầng trên có hai phòng, mỗi phòng khoảng 10m², dùng để nghỉ ngơi và làm việc.",
+          "Ngôi nhà được làm từ gỗ chắc chắn, mái ngói và rèm bao quanh, tạo cảm giác ấm cúng và gần gũi. Khi tham quan, du khách sẽ hiểu thêm về lối sống giản dị của Chủ tịch Hồ Chí Minh thông qua các vật dụng hàng ngày như giường, bàn, ghế, giá sách và máy đánh chữ. Hướng dẫn viên sẽ giải thích chi tiết về ngôi nhà, giúp du khách hiểu sâu hơn về đời sống hằng ngày của Người.",
+          "Bên cạnh khám phá kiến trúc, du khách còn có thể nghỉ ngơi và thưởng thức không gian rộng rãi của 'Ao cá Hồ Chí Minh', nơi Người thư giãn và cho cá ăn sau giờ làm việc."
+        ]
+      },
+      {
+        "title": "Quy định dành cho khách tham quan",
+        "content": [
+          "Ăn mặc lịch sự, đúng mực; tránh mặc trang phục quá ngắn.",
+          "Đi nhẹ, nói khẽ, xếp hàng đúng trật tự, tránh gây ồn ào.",
+          "Tuân thủ quy định gửi hành lý của bảo tàng.",
+          "Không mang thiết bị điện tử, trang sức giá trị, thức ăn, vật dụng bằng kim loại.",
+          "Cấm chụp ảnh hoặc quay phim ở khu vực cấm.",
+          "Trẻ em dưới 3 tuổi không được vào bên trong."
+        ]
+      }
+    ]
+  },
+  "Vietnam Museum of Ethnology": {
+    "name": "Bảo tàng Dân tộc học Việt Nam",
+    "introduction": "Bảo tàng Dân tộc học Việt Nam lưu giữ và trưng bày hơn 15.000 hiện vật, hình ảnh và phim tư liệu về 54 dân tộc trên cả nước. Với không gian triển lãm cả trong nhà và ngoài trời, du khách có thể chiêm ngưỡng trang phục truyền thống, nhạc cụ, vật dụng gia đình và những ngôi nhà dân tộc được tái hiện chân thực. Đây là điểm đến lý tưởng để khám phá văn hóa, phong tục và sự đa dạng phong phú của các cộng đồng dân tộc Việt Nam.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.808496822009!2d105.7961604751534!3d21.040347187380686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab394353b821%3A0x47c950bb0f081a1c!2zQuG6o28gdMOgbmcgRMOibiB04buZYyBo4buNYyBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759474766377!5m2!1svi!2s",
+    "image": "VietnamMuseumOfEthnology",
+    "location": "Nằm trên phố Nguyễn Văn Huyên, Hà Nội, Bảo tàng Dân tộc học Việt Nam là một trong những bảo tàng nổi tiếng của thành phố, cách trung tâm khoảng 8 km, thuộc quận Cầu Giấy.",
+    "description": [
+      {
+        "title": "Lịch sử",
+        "content": [
+          "Bảo tàng Dân tộc học Việt Nam bắt đầu xây dựng năm 1981 với diện tích ban đầu 3,27 ha. Sau đó mở rộng thêm 1 ha, tổng diện tích lên 4,4 ha. Bảo tàng được coi như một thế giới thu nhỏ, giới thiệu lịch sử và văn hóa 54 dân tộc Việt Nam thông qua nhiều hiện vật như trang phục, trang sức, vũ khí, nhạc cụ và nhiều hơn nữa.",
+          "Đây là điểm đến lý tưởng cho học sinh, người yêu văn hóa và du khách. Bảo tàng cung cấp kiến thức thực tế về phong tục, đời sống hàng ngày và đặc điểm của từng dân tộc. Ngoài ra, bảo tàng còn tổ chức nhiều hoạt động giáo dục được du khách đánh giá cao."
+        ],
+        "image": "VietnamMuseumOfEthnology1"
+      },
+      {
+        "title": "Giờ mở cửa",
+        "content": [
+          "Mở cửa hàng ngày từ 8:30 - 17:30.",
+          "Đóng cửa vào thứ Hai và dịp Tết Nguyên đán."
+        ]
+      },
+      {
+        "title": "Giá vé tham quan",
+        "content": [
+          "Người lớn: 40.000 VND/người",
+          "Sinh viên: 15.000 VND/người",
+          "Học sinh: 10.000 VND/người",
+          "Người cao tuổi / Người khuyết tật / Dân tộc thiểu số: giảm 50%",
+          "Trẻ em dưới 6 tuổi / Người khuyết tật nặng / Thành viên ICOM / Nhà báo / Nhà tài trợ: miễn phí",
+          "Dịch vụ bổ sung: Tham quan trong & ngoài nhà có hướng dẫn bằng tiếng Việt: 50.000 VND; Hướng dẫn trong nhà bằng tiếng Anh hoặc Pháp: 100.000 VND"
+        ]
+      },
+      {
+        "title": "Bố cục bảo tàng",
+        "content": [
+          "Bảo tàng được chia thành ba khu vực chính, cả trong nhà và ngoài trời, để du khách khám phá:",
+          "Vườn Kiến trúc: Khu vực ngoài trời rộng 2 ha này trưng bày những ngôi nhà dân tộc miền Trung Tây Nguyên và vùng núi phía Bắc. Du khách có thể khám phá 10 mô hình được tái hiện gồm nhà Rông, nhà sàn, nhà ngói, v.v. Mọi chi tiết, từ cổng, giếng nước đến cầu thang, đều được tái hiện tỉ mỉ, tạo không gian sinh động phản ánh đặc trưng riêng của từng dân tộc."
+        ],
+        "image": "VietnamMuseumOfEthnology2"
+      },
+      {
+        "content": [
+          "Triển lãm Trống Đồng Đông Sơn: Du khách tìm hiểu về nghi lễ tôn giáo truyền thống, chiêm ngưỡng trang phục truyền thống, công cụ lao động xưa và vật dụng gia đình. Với hơn 15.000 hiện vật và hơn 42.000 phim, bản ghi âm, triển lãm này là phần quan trọng của bảo tàng, giới thiệu văn hóa độc đáo của 54 dân tộc Việt Nam."
+        ],
+        "image": "VietnamMuseumOfEthnology3"
+      },
+      {
+        "content": [
+          "Triển lãm Diều: Du khách tìm hiểu phong tục và đời sống hàng ngày thú vị của người dân các nước Đông Nam Á. Khu vực này cũng tổ chức các hoạt động giáo dục, chiếu phim và giao lưu văn hóa về các dân tộc Việt Nam và ASEAN."
+        ],
+        "image": "VietnamMuseumOfEthnology4"
+      },
+      {
+        "content": [
+          "Bảo tàng còn tổ chức các trò chơi dân gian như: ném bóng, đu dây, đi trên cầu treo, trò chơi cân bằng. Đây là những trải nghiệm đặc sắc mà du khách không nên bỏ qua."
+        ],
+        "image": "VietnamMuseumOfEthnology5"
+      },
+      {
+        "content": [
+          "Du khách cũng có thể thưởng thức các màn biểu diễn nghệ thuật dân gian như:",
+          "Múa rối nước: Biểu diễn phản ánh đời sống hàng ngày và câu chuyện dân tộc qua rối nước sinh động. Giá vé: 90.000 VND/người lớn, 70.000 VND/trẻ em. Buổi sáng miễn phí.",
+          "Hát Quan họ Bắc Ninh: Du khách thưởng thức các màn hát Quan họ và tương tác với nghệ sĩ. Những ai tự tin có thể tham gia trình diễn trong buổi biểu diễn."
+        ],
+        "image": "VietnamMuseumOfEthnology6"
+      },
+      {
+        "title": "Quy định dành cho khách tham quan",
+        "content": [
+          "Tránh tham quan theo nhóm lớn để đảm bảo trải nghiệm tốt.",
+          "Có hướng dẫn viên bằng tiếng Việt, Anh và Pháp. Có thể yêu cầu trực tiếp, mua vé tại cổng hoặc đăng ký trước.",
+          "Không mang vũ khí, vật liệu dễ cháy, nổ hoặc độc hại.",
+          "Mang theo tiền và vật dụng có giá trị.",
+          "Giữ vệ sinh và tránh gây ồn.",
+          "Không mang đồ ăn, thức uống vào bảo tàng.",
+          "Không chạm, di chuyển hoặc ngồi lên hiện vật.",
+          "Không mang vật nuôi vào bảo tàng."
+        ]
+      }
+    ]
+  },
+  "Vietnam National Museum of History": {
+    "name": "Bảo tàng Lịch sử Quốc gia Việt Nam",
+    "introduction": "Nằm ngay trung tâm Hà Nội, Bảo tàng Lịch sử Quốc gia Việt Nam lưu giữ và trưng bày hàng chục nghìn hiện vật quý giá phản ánh lịch sử Việt Nam từ thời tiền sử đến hiện đại. Với kiến trúc Pháp cổ độc đáo kết hợp với các màn trưng bày khoa học, bảo tàng mang đến cho du khách hành trình khám phá các nền văn hóa cổ đại, triều đại phong kiến, phong trào cách mạng và di sản lịch sử của dân tộc. Đây là điểm đến không thể bỏ qua đối với những ai muốn hiểu sâu về lịch sử Việt Nam.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.204311178126!2d105.8567948751531!3d21.024509487924828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abe9661234d7%3A0x7d497bffb5ce2892!2zQuG6o28gdMOgbmcgTOG7i2NoIHPhu60gUXXhu5FjIGdpYQ!5e0!3m2!1svi!2s!4v1759475412261!5m2!1svi!2s",
+    "location": "Số 1 Tràng Tiền, Cửa Nam, Hà Nội || Số 216 Trần Quang Khải, Hoàn Kiếm, Hà Nội",
+    "image": "VietnamNationalMuseumOfHistory",
+    "description": [
+      {
+        "title": "Giờ mở cửa",
+        "content": [
+          "Buổi sáng: 8:00 – 12:00",
+          "Buổi chiều: 13:30 – 17:00",
+          "(Mở cửa hàng ngày trừ thứ Hai đầu tháng)"
+        ]
+      },
+      {
+        "title": "Vé vào cửa",
+        "content": [
+          "Người lớn: 40.000 VND/người",
+          "Sinh viên đại học, cao đẳng, trung cấp: 20.000 VND/người",
+          "Học sinh: 10.000 VND/người",
+          "Miễn phí cho trẻ em dưới 6 tuổi và người khuyết tật nặng theo quy định hiện hành",
+          "Giảm giá: 50% cho các nhóm đối tượng ưu tiên, người cao tuổi và người khuyết tật nặng theo quy định"
+        ]
+      },
+      {
+        "title": "Các khoản phí khác",
+        "content": [
+          "Chụp ảnh: 15.000 VND/máy",
+          "Quay phim: 30.000 VND/máy"
+        ]
+      },
+      {
+        "title": "Lịch sử",
+        "image": "VietnamNationalMuseumOfHistory1",
+        "content": [
+          "Bảo tàng Lịch sử Quốc gia Việt Nam được thành lập từ việc hợp nhất Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam. Nằm ở trung tâm Hà Nội, gần nhiều di tích lịch sử thiêng liêng như Tháp Rùa - Hồ Hoàn Kiếm; Cầu Thê Húc - Đền Ngọc Sơn - Tháp Bút, v.v. Bảo tàng giới thiệu lịch sử Việt Nam từ thời tiền sử đến hiện đại qua bộ sưu tập phong phú gồm tài liệu, hiện vật, hình ảnh, trong đó có nhiều Bảo vật Quốc gia. Khu Tràng Tiền trưng bày lịch sử Việt Nam đến cuối triều Nguyễn 1945, trong khi khu Trần Quang Khải trưng bày lịch sử từ giữa thế kỷ 19 đến nay."
+        ]
+      },
+      {
+        "content": [
+          "Hiện tại, bảo tàng lưu giữ và trưng bày hơn 200.000 hiện vật và tài liệu về lịch sử và văn hóa Việt Nam. Từ thời tiền sử đến năm 1945, bảo tồn gần 110.000 hiện vật, bao gồm di tích, đồ cổ và 20 Bảo vật Quốc gia.",
+          "Các bộ sưu tập quý hiếm gồm văn hóa Thời kỳ Đá cũ, Thời kỳ Đồ đồng, Thời kỳ Sắt sơ khai, Văn hóa Đông Sơn, gốm sứ cổ Việt Nam, đồ đồng thời Lê-Nguyễn, điêu khắc Chăm, và các loại hình trang trí từ Trung Quốc, Nhật Bản, Ấn Độ, Đông Nam Á.",
+          "Từ giữa thế kỷ 19 đến nay, bảo tàng lưu giữ khoảng 80.000 hiện vật và tài liệu về lịch sử cách mạng Việt Nam, Đảng Cộng sản Việt Nam, Chủ tịch Hồ Chí Minh và các lãnh đạo Đảng khác.",
+          "Bảo tàng là thành viên của Hội đồng Bảo tàng Quốc tế (ICOM) và là thành viên sáng lập của Hiệp hội Bảo tàng Quốc gia Châu Á (ANMA). Bảo tàng thường xuyên trao đổi kinh nghiệm và hợp tác với gần 30 bảo tàng trong và ngoài nước. Năm 2013, bảo tàng tổ chức Hội nghị ANMA lần thứ 4 tại Hà Nội.",
+          "Tham quan Bảo tàng Lịch sử Quốc gia Việt Nam giúp hiểu sâu về di sản văn hóa lâu đời của đất nước và nuôi dưỡng niềm tự hào về tinh thần kiên cường của các thế hệ đi trước trong xây dựng và bảo vệ Tổ quốc."
+        ],
+        "image": "VietnamNationalMuseumOfHistory2"
+      },
+      {
+        "content": [
+          "Thời tiền sử ở Việt Nam: Triển lãm trưng bày dấu tích con người trên các vùng núi, trung du, đồng bằng và ven biển, bao gồm răng người, công cụ, hóa thạch động vật. Thời kỳ Đá mới cho thấy sự phát triển mới về công cụ đá mài, gốm và nông nghiệp sơ khai.",
+          "Giai đoạn dựng nước: Người Việt cổ làm chủ việc luyện đồng, rèn sắt và sản xuất công cụ, trang sức, vũ khí. Đến giữa thiên niên kỷ 1 TCN, xuất hiện ba trung tâm văn hóa lớn ở Việt Nam, đặt nền tảng cho các quốc gia cổ: Văn hóa Đông Sơn (Văn Lang và Âu Lạc), Văn hóa Đồng Nai và Óc Eo (Vương quốc Phù Nam), Văn hóa Sa Huỳnh (Vương quốc Chăm).",
+          "Thời kỳ sau Công nguyên (thế kỷ 1-10): Năm 111 TCN, Việt Nam chịu sự thống trị của các triều đại phương Bắc. Năm 938, chiến thắng Bạch Đằng của Ngô Quyền kết thúc 1.000 năm Bắc thuộc, mở ra thời kỳ độc lập dưới triều Ngô, Đinh, Tiền Lê (939-1009), Lý-Trần (1009-1400), Hồ (1400-1407), Lê-Mạc (1428-1788), Tây Sơn (1778-1802) và Nguyễn (1802-1945)."
+        ],
+        "image": "VietnamNationalMuseumOfHistory3"
+      },
+      {
+        "content": [
+          "Khu Trần Quang Khải lưu giữ hiện vật và tài liệu lịch sử Việt Nam từ giữa thế kỷ 19. Ban đầu là Sở Thương mại Đông Dương, được chuyển thành bảo tàng năm 1954. Triển lãm gồm:",
+          "Phong trào đấu tranh giành độc lập dân tộc (1858-1945)",
+          "30 năm kháng chiến chống xâm lược (1945-1975)",
+          "Xây dựng đất nước từ 1976 đến nay"
+        ],
+        "image": "VietnamNationalMuseumOfHistory4"
+      },
+      {
+        "content": [
+          "Bảo tàng mang kiến trúc lãng mạn Pháp độc đáo. Mặt tiền được thiết kế tạo không gian triển lãm rộng với đại sảnh hình bát giác, mỗi cạnh dài 11 mét. Hậu sảnh hình chữ nhật kéo dài qua các phòng được bố trí khoa học.",
+          "Tầng trệt chứa không gian triển lãm, kho lưu trữ, nhà kho và văn phòng hành chính. Bảo tàng được thiết kế kiểm soát độ ẩm để giữ hiện vật khô trong thời tiết ẩm ướt Hà Nội. Tòa nhà có mái bát giác nhiều tầng với ba lớp dốc khác nhau. Mái dưới rộng hơn, che nắng, chắn mưa, được chống đỡ bằng cột đôi và hệ thống đòn tay cách điệu, phản ánh thẩm mỹ Đông Á mạnh mẽ."
+        ],
+        "image": "VietnamNationalMuseumOfHistory5"
+      },
+      {
+        "content": [
+          "Tham gia các chương trình giáo dục tại bảo tàng: Du khách có thể chiêm ngưỡng các hiện vật quý giá từ thời tiền sử đến hiện đại. Hoạt động tương tác tại Phòng Khám phá bao gồm thử trang phục truyền thống, làm thủ công và chơi trò chơi dân gian. Trẻ em có thể tham gia các chương trình giáo dục đặc biệt như Câu lạc bộ Lịch sử Trẻ và Bài học Lịch sử, mang đến cách học lịch sử sinh động và hấp dẫn."
+        ],
+        "image": "VietnamNationalMuseumOfHistory6"
+      }
+    ]
+  },
+  "Vietnam Women’s Museum": {
+    "name": "Bảo tàng Phụ nữ Việt Nam",
+    "introduction": "Bảo tàng Phụ nữ Việt Nam là điểm đến độc đáo tại Hà Nội, trưng bày hơn 40.000 hiện vật về vai trò, cuộc sống và đóng góp của phụ nữ trong gia đình, xã hội và lịch sử dân tộc. Với các chủ đề như phụ nữ trong gia đình, phụ nữ trong chiến tranh, thời trang truyền thống và hiện đại, bảo tàng mang đến góc nhìn sâu sắc và cảm xúc về phụ nữ Việt Nam qua các thời kỳ. Đây là nơi giàu giá trị văn hóa và truyền cảm hứng cho cả du khách trong nước và quốc tế.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.204311178126!2d105.8567948751531!3d21.024509487924828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab0015696227%3A0x3826297573752daa!2zQuG6o28gdMOgbmcgUGjhu6UgbuG7ryBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475441712!5m2!1svi!2s",
+    "location": "36 Lý Thường Kiệt, phường Cửa Nam, Hà Nội. (Bảo tàng Phụ nữ Việt Nam nằm ở vị trí trung tâm thuận tiện, cách Hồ Hoàn Kiếm khoảng 10 phút đi bộ.)",
+    "image": "VietnameseWomenMuseum",
+    "description": [
+      {
+        "title": "Lịch sử",
+        "content": [
+          "Bảo tàng Phụ nữ Việt Nam được thành lập năm 1987 và chính thức khánh thành năm 1995, trực thuộc Hội Liên hiệp Phụ nữ Việt Nam. Kể từ khi mở cửa, bảo tàng đã tổ chức nhiều triển lãm để giới thiệu tới du khách trong và ngoài nước các bộ sưu tập có giá trị lịch sử và văn hóa liên quan đến phụ nữ Việt Nam."
+        ]
+      },
+      {
+        "title": "Giờ mở cửa",
+        "content": [
+          "08:00 – 17:00 từ thứ Hai đến Chủ nhật",
+          "Bảo tàng đón khách tham quan hàng ngày từ 8 giờ sáng đến 5 giờ chiều."
+        ]
+      },
+      {
+        "title": "Vé tham quan",
+        "content": [
+          "Người lớn: 40.000 VND/người",
+          "Sinh viên: 20.000 VND/người",
+          "Trẻ em dưới 10 tuổi: miễn phí",
+          "Các mức giá trên chỉ mang tính tham khảo. Giá vé có thể thay đổi tùy theo thời điểm hoặc dịch vụ/sự kiện đi kèm."
+        ]
+      },
+      {
+        "content": [
+          "Triển lãm thường xuyên trải dài tầng 2, 3 và 4, trưng bày hơn 1.000 tài liệu, hiện vật và hình ảnh với ba chủ đề chính: Phụ nữ trong Gia đình, Phụ nữ trong Lịch sử và Thời trang Phụ nữ.",
+          "Phụ nữ trong Gia đình: Tầng 2, làm nổi bật hình ảnh người phụ nữ Việt Nam với vai trò vợ và mẹ, đồng thời giới thiệu các nghi lễ, phong tục liên quan đến hôn nhân, sinh nở và đời sống gia đình.",
+          "Phụ nữ trong Lịch sử: Tầng 3, giới thiệu vai trò và đóng góp của phụ nữ Việt Nam với những phẩm chất như nhân hậu, kiên cường, mạnh mẽ và tài năng, được thể hiện trong các phong trào kháng chiến và xây dựng đất nước hiện đại."
+        ],
+        "image": "VietnameseWomenMuseum2"
+      },
+      {
+        "content": [
+          "Thời trang Phụ nữ: Tầng 4, triển lãm trang phục, trang sức, mỹ phẩm và các vật dụng của phụ nữ 54 dân tộc Việt Nam, phản ánh đặc trưng văn hóa từng vùng."
+        ],
+        "image": "VietnameseWomenMuseum1"
+      },
+      {
+        "content": [
+          "Bảo tàng còn giới thiệu các triển lãm nghiên cứu về lịch sử, văn hóa, các vấn đề xã hội và bình đẳng giới, mang đến góc nhìn đa dạng về phụ nữ Việt Nam.",
+          "Tín ngưỡng thờ Mẫu: Triển lãm “Thờ Mẫu: Tâm – Sắc – Lạc” truyền tải giá trị văn hóa địa phương của tín ngưỡng thờ Mẫu – một hoạt động văn hóa tâm linh liên quan đến phụ nữ.",
+          "Không gian Nghệ thuật đương đại: Tầng 5, nơi các nghệ sĩ trẻ tự do thể hiện sáng tạo trong văn hóa và nghệ thuật.",
+          "Hành trình Khởi nghiệp: Triển lãm giới thiệu 15 phụ nữ Việt Nam tiêu biểu vượt qua khó khăn và đạt thành công bước đầu trong các lĩnh vực như giáo dục trẻ em, đào tạo nghề, chăm sóc người khuyết tật, du lịch cộng đồng và sản xuất thực phẩm sạch."
+        ],
+        "image": "VietnameseWomenMuseum3"
+      },
+      {
+        "content": [
+          "Bảo tàng Phụ nữ Việt Nam còn tổ chức triển lãm trực tuyến trên website, giúp công chúng theo dõi các sự kiện và trưng bày trước đây. Một số triển lãm trực tuyến hiện có:",
+          "Nông thôn đáng sống",
+          "Bình yên sau bão",
+          "Khao khát tỏa sáng",
+          "Nơi tôi sống",
+          "Bảo vệ biên cương",
+          "Nữ tướng khăn vấn"
+        ]
+      },
+      {
+        "content": [
+          "Hiện tại, bảo tàng lưu giữ gần 30.000 tài liệu và hiện vật về phụ nữ Việt Nam qua các thời kỳ lịch sử.",
+          "Để cung cấp cái nhìn chính xác và toàn diện nhất, bảo tàng nghiên cứu, lựa chọn và sắp xếp hiện vật theo chủ đề cho từng bộ sưu tập."
+        ],
+        "image": "VietnameseWomenMuseum4"
+      },
+      {
+        "title": "Dịch vụ tại Bảo tàng Phụ nữ Việt Nam",
+        "content": [
+          "Hướng dẫn nghe tự động – ngôn ngữ tiếng Việt, Anh, Pháp, Nhật, Hàn.",
+          "Hướng dẫn viên đặc biệt cho du khách quốc tế.",
+          "Hoạt động ngoại khóa cho trẻ em.",
+          "Dịch vụ hướng dẫn viên cho nhóm tham quan.",
+          "Cửa hàng quà lưu niệm và quán cà phê.",
+          "Cơ sở tổ chức hội thảo, hội nghị.",
+          "Tiện ích miễn phí: Wi-Fi, tủ đồ, lối đi cho xe lăn, thang máy, v.v."
+        ]
+      }
+    ]
+  },
+  "Giong Temple": {
+    "name": "Đền Gióng",
+    "introduction": "Đền Gióng tại Sóc Sơn, Hà Nội, là một quần thể di tích gắn liền với truyền thuyết Thánh Gióng – vị anh hùng đánh đuổi giặc Ân. Quần thể bao gồm nhiều công trình như Đền Thượng, Đền Hạ, Đền Mẫu, Chùa Kiến Sơ, vừa mang giá trị lịch sử vừa có ý nghĩa tâm linh. Hàng năm, lễ hội Gióng được tổ chức long trọng, thu hút đông đảo du khách đến tưởng nhớ Thánh Gióng và khám phá nét đẹp văn hóa truyền thống Việt Nam.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119149.94397837254!2d105.73732702911167!3d21.055251515617925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a8707f85a527%3A0xcad75e483eb36f9c!2zxJDDqsyAbiBHacOzbmcgUGjDuSDEkOG7lW5n!5e0!3m2!1svi!2s!4v1759475525997!5m2!1svi!2s",
+    "location": "Đền Gióng tại Sóc Sơn, Hà Nội, tọa lạc trên núi Sóc, xã Vê Linh, huyện Sóc Sơn. Ngôi đền linh thiêng này thu hút nhiều du khách và cách trung tâm Hà Nội khoảng 30 km, dễ dàng di chuyển bằng xe buýt hoặc phương tiện cá nhân.",
+    "image": "GiongTemple",
+    "description": [
+      {
+        "content": [
+          "Đền Gióng là quần thể di tích lịch sử nổi tiếng với nhiều đền, gồm Đền Trình, Chùa Non Nước, Đền Mẫu, Chùa Đại Bi, Đền Thượng, Chồng Đá, Tượng Thánh Gióng và nhà bia. Đặc biệt có tượng Thánh Gióng bằng đồng nguyên khối rất giá trị. Quần thể đền Gióng Sóc Sơn được công nhận là Di tích Lịch sử Quốc gia vào năm 1962.",
+          "Ngôi đền nổi tiếng với truyền thống Thánh Gióng đánh đuổi giặc Ân để giành lại tự do cho đất nước. Thánh Gióng biểu tượng cho lòng dũng cảm kiên cường và quyết tâm bảo vệ hòa bình.",
+          "Theo truyền thuyết, Đền Sóc Sơn ban đầu là một đền thờ nhỏ thờ Đông Thiên Vương. Khi vua Lê Hoàn đánh quân Tống, vua đã làm lễ cầu xin Thánh Gióng phù hộ.",
+          "Lịch sử Đền Gióng gắn liền với sự phát triển của tín ngưỡng dân gian Việt Nam qua nhiều triều đại. Dù truyền thuyết Thánh Gióng có từ thời Hùng Vương, kiến trúc hiện nay được xây dựng quy mô lớn chính thức dưới triều Lý Thái Tông (1028-1054)."
+        ],
+        "image": "GiongTemple1"
+      },
+      {
+        "title": "Mốc thời gian phát triển Đền Gióng",
+        "content": [
+          "Triều Lý (1010-1225): Vua Lý Thái Tông xây dựng ngôi đền đầu tiên ở Sóc Sơn và tôn Thánh Gióng là 'Phù Đổng Thiên Vương'.",
+          "Triều Trần (1225-1400): Mở rộng quần thể đền, thêm các kiến trúc và bàn thờ.",
+          "Triều Lê (1428-1788): Nhiều lần trùng tu quy mô lớn, đặc biệt dưới vua Lê Thánh Tông.",
+          "Triều Nguyễn (1802-1945): Tiếp tục tu sửa; nổi bật năm 1823 dưới triều Minh Mạng.",
+          "Hiện đại (1954-nay): Trùng tu lớn vào các năm 1978, 1994, 2004, và dự án bảo tồn toàn diện 2018-2020 với kinh phí 28,5 tỷ đồng.",
+          "Theo Viện Nghiên cứu Bảo tồn Di sản Văn hóa (2019), quần thể Đền Gióng đã trải qua ít nhất 14 lần trùng tu lớn, mỗi lần để lại dấu ấn kiến trúc và nghệ thuật độc đáo. Mặc dù bị chiến tranh tàn phá, đặc biệt trong các cuộc chiến chống Pháp và Mỹ, ngôi đền vẫn được bảo tồn tương đối nguyên vẹn. Năm 2010, khi UNESCO công nhận lễ hội Gióng là Di sản Văn hóa Phi vật thể của Nhân loại, quần thể đền được áp dụng các biện pháp bảo tồn nghiêm ngặt hơn."
+        ],
+        "image": "GiongTemple2"
+      },
+      {
+        "content": [
+          "Đền Gióng Sóc Sơn là một trong những điểm du lịch nổi tiếng gần Hà Nội. Quần thể gồm nhiều đền nhỏ như:",
+          "Đền Trình: Còn gọi là Đền Hạ, là điểm dừng đầu tiên trong quần thể đền Gióng Sóc Sơn. Thờ các vị thần núi Sóc, xây dựng vào thế kỷ 10, năm 980. Đền Hạ kiến trúc hình đình với tiền đường và hậu cung, gồm 5 gian với 1 bàn thờ, 3 bia đá và các dụng cụ lễ nghi.",
+          "Đền Mẫu: Đối diện Chùa Đại Bi, thờ mẹ Thánh Gióng. Mặc dù nhỏ nhưng có kiến trúc tinh xảo và giếng nước trong.",
+          "Chùa Đại Bi: Sau khi tham quan Đền Hạ, đi theo ngói đỏ tới Chùa Đại Bi. Đây là chùa Phật giáo với thiết kế độc đáo, trang trí câu đối mạ vàng và lưu giữ bia khen Phật giáo. Nơi đây cũng từng là nơi Ngô Chân Lưu tu hành (933-1011).",
+          "Đền Thượng: Thờ Thánh Gióng và các vị thần khác. Lối vào có tượng ngựa đầu rồng, tượng trưng cho ngựa Thánh Gióng và rồng hậu duệ. Bên trong có đại điện với mành, trang trí rực rỡ."
+        ],
+        "image": "GiongTemple3"
+      },
+      {
+        "content": [
+          "Tại Đền Gióng, bạn có thể chiêm ngưỡng tượng đồng nguyên khối cao 15m, nặng 85 tấn, dài 16m, đặt ở độ cao 302m so với mực nước biển. Tượng mô tả Thánh Gióng cầm tre thúc ngựa phi lên trời.",
+          "Tượng do nhà điêu khắc nổi tiếng Nguyễn Kim Xuân thực hiện, thuộc Hội Mỹ thuật Hà Nội, nằm trong quần thể Đền – Chùa Sóc, trở thành công trình văn hóa trọng điểm trong dịp kỷ niệm 1000 năm Thăng Long – Hà Nội năm 2010."
+        ],
+        "image": "GiongTemple4"
+      },
+      {
+        "content": [
+          "Chùa Non Nước trong quần thể Đền Sóc có diện tích 260m², cao 14m, gồm 80 cột gỗ chính, đường kính 35cm, dài 14m. Công trình sử dụng 30 tấn đồng để đúc tượng Phật, 600m³ gỗ lim và 30m³ đá xanh.",
+          "Khi tham quan Chùa Non Nước, du khách sẽ trải nghiệm không gian linh thiêng và trang nghiêm. Chùa nằm ở độ cao 110m so với mực nước biển, gần tượng Thánh Gióng 30 tấn, cao hơn 8m, là điểm không thể bỏ qua trong quần thể Đền Gióng Sóc Sơn."
+        ],
+        "image": "GiongTemple5"
+      },
+      {
+        "content": [
+          "Nếu bạn băn khoăn 'Đi Sóc Sơn chơi gì?', hãy tham gia lễ hội Gióng. Diễn ra từ ngày 6 đến 8 tháng Giêng âm lịch, lễ hội tưởng nhớ anh hùng Thánh Gióng. Năm 2010, lễ hội được UNESCO công nhận là Di sản Văn hóa Phi vật thể của Nhân loại.",
+          "Trong lễ hội, du khách có thể xem nghi lễ dâng hương, rước voi, trầu cau, rước cỏ voi, rước kiệu tổng, và các màn trình diễn dân gian. Ngoài ra còn có trò chơi dân gian như bắt vịt, đập nồi, hát quan họ, võ thuật, và các màn múa kết hợp."
+        ],
+        "image": "GiongTemple6"
+      },
+      {
+        "title": "Lưu ý khi tham quan Đền Gióng Sóc Sơn",
+        "content": [
+          "Bạn có thể đến Đền Gióng bất cứ lúc nào vì gần Hà Nội. Tuy nhiên, do quần thể rộng, nên chọn giờ mát mẻ để tránh mệt mỏi.",
+          "Nếu muốn trải nghiệm lễ hội, hãy lên kế hoạch từ ngày 6 đến 8 tháng Giêng âm lịch, khi đông du khách đến lễ, tham quan và vui chơi."
+        ]
+      },
+      {
+        "title": "Truyền thuyết Thánh Gióng và Ý nghĩa văn hóa",
+        "content": [
+          "Truyền thuyết Thánh Gióng là một trong những câu chuyện lâu đời và được yêu thích nhất trong văn hóa Việt Nam. Theo truyền thuyết, thời vua Hùng thứ 6, một cậu bé 3 tuổi ở làng Phù Đổng không biết nói, không biết đi, sống với mẹ già. Khi quân Ân xâm lược, vua sai tìm người giúp nước. Cậu bé đột nhiên nói, xin vua ngựa sắt, roi sắt, mũ sắt.",
+          "Khi được trang bị, cậu lớn thành người khổng lồ, cưỡi ngựa sắt ra trận đánh thắng quân Ân. Sau chiến thắng, Thánh Gióng bay lên trời từ núi Sóc (nay là Sóc Sơn). Vua tôn phong 'Phù Đổng Thiên Vương' và xây đền tại nơi sinh và nơi bay lên trời.",
+          "Truyền thuyết mang ý nghĩa sâu sắc: Sức mạnh dân tộc: cậu bé 3 tuổi hóa khổng lồ tượng trưng sức mạnh tiềm ẩn của Việt Nam chống giặc. Yêu nước: lòng dũng cảm của Thánh Gióng biểu tượng tình yêu đất nước. Khát vọng tự do: bay lên trời là ước muốn tự do, chống áp bức. Đoàn kết: cả làng giúp Gióng lớn lên thể hiện tinh thần cộng đồng. Trong nhận thức người Việt, Thánh Gióng là biểu tượng tinh thần bất khuất, truyền cảm hứng cho nhiều thế hệ. Câu chuyện được đưa vào văn học, nghệ thuật và giáo dục như bài học về yêu nước và tự lực."
+        ],
+        "image": "GiongTemple7"
+      }
+    ]
+  },
+  "Thay Pagoda": {
+    "name": "Chùa Thầy",
+    "introduction": "Chùa Thầy, tọa lạc dưới chân núi Sài Sơn (huyện Quốc Oai, Hà Nội), là ngôi chùa cổ gắn với Thiền sư Từ Đạo Hạnh – danh tăng thời Lý. Quần thể chùa gồm Đền Hạ, Đền Trung, Đền Thượng và Thủy đình độc đáo trên hồ Long Chiểu, nơi tổ chức múa rối nước truyền thống. Tham quan Chùa Thầy, du khách sẽ chiêm ngưỡng kiến trúc cổ, cảnh sắc nên thơ và tìm hiểu đời sống văn hóa dân gian, tâm linh phong phú của người Việt.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.241447043721!2d105.64370757515306!3d21.023022987975807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134512bbe5baab7%3A0x6195ecacc2336c44!2zQ2jDuWEgVGjhuqd5!5e0!3m2!1svi!2s!4v1759475564176!5m2!1svi!2s",
+    "location": "Chùa Thầy, còn gọi là Chùa Ca, tọa lạc dưới chân núi Sài Sơn, cách trung tâm Hà Nội khoảng 25 km về phía Tây Nam. Ngôi chùa chính thức có tên Thiên Phúc Tự, ẩn mình dưới núi Phật Tích (núi Thầy). Đây là di tích lịch sử – văn hóa nổi tiếng với kiến trúc từ thế kỷ 17. Chùa Thầy là một trong những ngôi chùa đẹp và linh thiêng của Hà Nội, thu hút khách tham quan, lễ Phật và tìm hiểu kiến trúc độc đáo.",
+    "image": "ChuaThay",
+    "description": [
+      {
+        "title": "Cách di chuyển tới Chùa Thầy",
+        "content": [
+          "Bằng phương tiện cá nhân (ô tô, xe máy): Từ trung tâm Hà Nội, đi theo Đại lộ Thăng Long (CT08) đến ngã tư Sài Sơn, rẽ phải khỏi đường cao tốc khoảng 3 km theo biển chỉ dẫn. Lưu ý: xe máy không được chạy trên đường gom Đại lộ Thăng Long. Từ Big C – ngã tư Trần Duy Hưng, đi khoảng 15 km đến đường rẽ vào chùa. Phí gửi xe: xe máy 10.000 VND, ô tô 30.000 VND.",
+          "Bằng xe buýt: Đi tuyến CNG 01 từ bến Mỹ Đình đến bến xe Sơn Tây. Tuyến này dừng ngay trước chùa, thuận tiện cho khách tham quan."
+        ]
+      },
+      {
+        "title": "Lịch sử Chùa Thầy",
+        "content": [
+          "Chùa Thầy được xây dựng thời Lý, gắn với cuộc đời Thiền sư Từ Đạo Hạnh. Ban đầu là am nhỏ Hương Hải Ẩm. Sau đó, vua Lý Nhân Tông xây lại thành hai cụm chùa: Đền Hạ (Thiên Phúc Tự) và Đền Thượng (Đình Sơn Tự).",
+          "Đầu thế kỷ 17, Đình Quan Công và hoàng gia trùng tu, xây dựng các điện Phật, hậu cung, nhà bia và tháp chuông. Năm 1997, Bưu điện Việt Nam phát hành bộ tem 'Danh thắng Việt Nam' có Chùa Thầy. Ngày nay, chùa vừa là nơi thờ tự vừa là điểm du lịch khám phá kiến trúc và lịch sử."
+        ]
+      },
+      {
+        "title": "Kiến trúc Chùa Thầy",
+        "content": [
+          "Du khách ấn tượng với cảnh núi non hùng vĩ xung quanh chùa. Chùa Thầy ở Sài Sơn, Quốc Oai, theo kiến trúc thời Lý với bố cục 'Tam' gồm ba chùa song song xây trên nền đá xanh cao. Tiền điện dùng cho nghi lễ và giảng dạy (Đền Hạ), điện giữa thờ Tam Bảo (Đền Trung), điện trong thờ ba kiếp Từ Đạo Hạnh và Đền Thượng. Các miếu và tháp chuông bố trí dọc đường lên núi.",
+          "Chùa tọa lạc dưới chân núi Sài Sơn, hướng Nam, núi Long Đầu bên trái và núi Sài Sơn phía sau. Hồ Long Chiểu trước mặt tạo hình miệng rồng. Ba điện song song (Hạ, Trung, Thượng) nối bằng hành lang tạo tổng thể kiến trúc hài hòa.",
+          "Đền Hạ: thờ Đức Ông và các hiền giả; hành lang trưng bày tượng Bát Bộ Kim Cương. Đền Trung: thờ Phật, tượng Hộ pháp và các thiên vương. Đền Thượng: thờ Phật A Di Đà, ba kiếp Từ Đạo Hạnh và tượng phụ mẫu."
+        ],
+        "image": "ChuaThay1"
+      },
+      {
+        "content": [
+          "Chùa còn có hai hành lang hai bên, tháp chuông phía sau và quảng trường phía trước hướng ra hồ Long Chiểu, tạo hình miệng rồng. Hai cây cầu, Nhật Tiên và Nguyệt Tiên, xây năm 1602, nối quảng trường với các khu vực xung quanh, tạo thành 'râu rồng'. Cầu Nhật Tiên dẫn tới đảo nhỏ có miếu Tam Phụ, cầu Nguyệt Tiên dẫn lên núi.",
+          "Lên núi là Đền Thượng. Phía sau có Hang Phật Tích, nơi Từ Đạo Hạnh để xác nhập kiếp vua Lý Thần Tông. Gần đó có các hang linh như Bút Mộc, Hang Bò, Hang Gió, mỗi hang có đặc trưng tự nhiên riêng.",
+          "Trước chùa, Thủy đình nổi lên như hoa sen trên hồ, tô điểm cảnh quan. Tháng 3, cây phượng cổ thụ nở rực, báo hiệu mùa lễ hội. Người dân tin rằng sự kết hợp cảnh chùa và hoa phượng mang may mắn, tạo trải nghiệm thú vị cho du khách."
+        ],
+        "image": "ChuaThay2"
+      },
+      {
+        "content": [
+          "Hang Cắc Cò là hang tự nhiên, thường được ví như phiên bản thu nhỏ của Sơn Đoòng gần Hà Nội. Hang vừa linh thiêng vừa huyền bí, có cảnh quan tự nhiên tuyệt đẹp.",
+          "Khám phá toàn bộ hang phải trèo qua đá nhọn trong bóng tối sâu. Chinh phục hang là trải nghiệm thú vị, vừa ngắm cảnh vừa cảm nhận phiêu lưu."
+        ],
+        "image": "HangCacCo"
+      },
+      {
+        "title": "Lễ hội Chùa Thầy",
+        "content": [
+          "Lễ hội truyền thống diễn ra từ ngày 5 đến 8 tháng 3 âm lịch, trọng tâm vào ngày 7. Giống các chùa lớn khác, lễ hội có nghi lễ và trình diễn dân gian. Chùa giữ các nghi lễ chính như Mộc Đức, đón bàn thờ tổ tiên, dâng lễ và rước kiệu.",
+          "Trong lễ hội, người dân và du khách tham gia các hoạt động như đấu vật, múa rối nước, trò chơi suối núi và các trò chơi dân gian sôi động khác."
+        ],
+        "image": "ChuaThay3"
+      }
+    ]
+  },
+  "Ba Da Pagoda": {
+    "name": "Chùa Bà Đá",
+    "introduction": "Chùa Bà Đá, còn gọi là Linh Quang Tự, nằm trên phố Nhà Thờ, quận Hoàn Kiếm, là một trong những ngôi chùa cổ và nổi tiếng của Hà Nội. Được xây dựng vào thời Lê, chùa gắn liền với truyền thuyết về pho tượng Phật bằng đá tự nhiên, từ đó chùa có tên dân gian “Chùa Bà Đá”. Ngày nay, chùa vừa là nơi thờ tự, vừa là điểm tham quan yên bình, thu hút nhiều du khách và phật tử đến lễ bái và tham quan.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.0975487801456!2d105.84775287515316!3d21.028782487777995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab956d281f97%3A0xa4275008ea27b36b!2zQ2jDuWEgQsOgIMSQw6E!5e0!3m2!1svi!2s!4v1759475609171!5m2!1svi!2s",
+    "location": "Chùa Bà Đá (còn gọi là Linh Quang Tự, Sung Khanh Tự) là ngôi chùa cổ tại số 3 phố Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội, cách Hồ Hoàn Kiếm chỉ 100 mét.",
+    "image": "ChuaBaDa",
+    "description": [
+      {
+        "title": "Giới thiệu về Chùa Bà Đá",
+        "content": [
+          "Chùa Bà Đá là một trong bốn ngôi chùa 'Ba' nổi tiếng ở Hà Nội, cùng với Chùa Ba Đanh, Chùa Ba Nành và Chùa Ba Ngò. Nằm ngay trung tâm phố cổ, đây là điểm đến của các nhà sư, ni cô và khách tham quan tham dự các lễ hội do Giáo hội Phật giáo Hà Nội tổ chức.",
+          "Ban đầu, chùa Bà Đá là trụ sở phái Lâm Tế, một trong hai phái Thiền lớn ở Bắc Việt. Ngày nay, chùa là trụ sở chính của Giáo hội Phật giáo Hà Nội và tổ chức Trường Trung học Phật học.",
+          "Chùa được xây dựng năm 1056 dưới triều vua Lý Thánh Tông (1460–1497). Trong quá trình tu sửa Thăng Long, người ta phát hiện một pho tượng đá tự nhiên hình người phụ nữ tại làng Bảo Thiên Tự Tháp (nay là khu phố Nhà Thờ). Dân làng lập đền thờ gọi là Đền Bà Đá. Sau này, đền được mở rộng thành chùa lớn, thờ pho tượng Phật, đổi tên thành Chùa Bà Đá, tên chính thức là Linh Quang Tự, nghĩa là 'Chùa ánh sáng thiêng liêng'. Trong thời Tây Sơn tấn công, chùa bị hư hại. Theo ghi chép, năm 1850, chùa được hòa thượng Giác Vương phục hồi và mở rộng thêm.",
+          "Thời Pháp thuộc, quy hoạch đô thị làm hỏng pho tượng đá gốc. Một pho tượng Phật Thích Ca bằng đá thay thế được đưa vào. Hiện nay, chùa Bà Đá là văn phòng Giáo hội Phật giáo Hà Nội, trụ trì do trưởng ban chấp hành điều hành thay vì theo truyền thống kế thừa Thiền.",
+          "Các trụ trì nổi bật: Hòa thượng Thích Tâm Tịch (1915-2005), trụ trì 1981–2002, và Hòa thượng Thích Thanh Chinh (1919-2009), trụ trì 2002–2008."
+        ],
+        "image": "ChuaBaDa1"
+      },
+      {
+        "content": [
+          "Chùa có 5 gian điện bố trí theo hình chữ 'Nhất', nối với các hành lang tạo thành đại điện Phật lớn. Điện Thượng có 4 gian theo kiểu 'Đình' nối với hậu cung, tạo bố cục hình vuông, đối xứng. Hai hành lang chạy dọc hai bên dẫn đến hậu cung thờ tổ tiên và các vị nữ thần.",
+          "Trước Tiền điện có lư hương và đôi đèn đá giữa hai tháp mộ cổ, trang trí hoa sen. Mái được đỡ bởi 4 cột đá xanh chạm khắc tinh xảo.",
+          "Bên trong có nhiều pho tượng quý, bao gồm tượng Phật Thích Ca bằng gỗ lớn, hai bên là Anan và Ca Diếp, phía sau có Phật A Di Đà cùng Bồ Tát Quán Thế Âm và Đại Thế Chí. Dù đã cũ, các tượng vẫn giữ vẻ điềm tĩnh, thiền định.",
+          "Chùa có hai quả chuông niên đại 1823 và 1881, cùng một chiếc mõ đúc năm 1842. Bên phải sân là văn phòng Trường Trung học Phật học Hà Nội. Bốn tháp mộ đứng đối xứng dọc tường ngoài Điện Thượng."
+        ],
+        "image": "ChuaBaDa2"
+      },
+      {
+        "content": [
+          "Chùa Bà Đá là nơi hành hương linh thiêng cho nhiều Phật tử, đặc biệt vào các ngày lễ và hội Phật, thu hút hàng nghìn khách đến lễ bái và tham quan.",
+          "Du khách nên chuẩn bị lễ vật đơn giản nhưng thành tâm, như hoa tươi, trái cây, trầu cau, đồ chay, hoặc bánh lễ, để đặt lên bàn Phật.",
+          "Các lễ vật đặc biệt như 'Oan Tài Lộc' thường được chọn vì ý nghĩa tượng trưng, trang nhã và bền lâu, làm tăng tính trang nghiêm của nghi lễ."
+        ],
+        "image": "ChuaBaDa3"
+      }
+    ]
+  },
+  "common": {
+    "address": "Địa chỉ",
+    "activities": "Hoạt động",
+    "Same category": "Cùng danh mục",
+    "Travel itinerary": "Lịch trình di chuyển",
+    "Date": "Ngày"
+  },
+  "Ancient City Tour": {
+    "name": "Ancient City Tour",
+    "image": "HoChiMinhMausoleum",
+    "type": "Visit Tour",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2100000,
+      "default": 2800000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum",
+          "OnePillarPagoda",
+          "HoanKiemLake1",
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:00",
+                "details": "Xe đón tại Khách Sạn để di chuyển ra tham quan Lăng Bác"
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Đoạn di chuyển vào thăm quan Lăng Bác, Quảng Trường Ba Đình , là công trình kiến trúc lịch sử và văn hóa tại Hà Nội."
+              },
+              {
+                "start": "10:00",
+                "end": "10:15",
+                "details": "Sau khi tham quan xong Lăng Bác và chụp hình lưu niệm đoàn di chuyển ra xe để tới điểm tham quan tiếp theo."
+              },
+              {
+                "start": "10:15",
+                "end": "11:30",
+                "details": "Đoàn mình di chuyển vào tham quan Chùa Một Cột là ngôi chùa cổ ở Hà Nội, nổi tiếng với kiến trúc độc đáo \"liên hoa đài\" - một điện thờ đặt trên một cột trụ duy nhất, quý khách ngắm cảnh vật nơi đây và chụp hình lưu niệm."
+              },
+              {
+                "start": "11:30",
+                "end": "12:00",
+                "details": "Đoàn mình lên xe di chuyển về Khách Sạn nghỉ ngơi và ăn uống."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "14:30",
+                "details": "Xe đón đoàn tại khách sạn và di chuyển ra Hồ Hoàn Kiếm tham quan."
+              },
+              {
+                "start": "14:30",
+                "end": "16:15",
+                "details": "Đoàn mình tham quan , đi bộ xung quanh Hồ Hoàn Kiếm ngắm cảnh và tận hưởng không khí xung quanh hồ chụp vài bức hình lưu niệm ở đây"
+              },
+              {
+                "start": "16:15",
+                "end": "17:00",
+                "details": "Đoàn mình thăm quan Đền Ngọc Sơn biểu tượng văn hóa tâm linh nổi tiếng của thủ đô Hà Nội."
+              },
+              {
+                "start": "17:10",
+                "details": "Đoàn mình di chuyển lên xe về Khách Sạn nghỉ ngơi và buổi Tối tự do tham quan và mua sắm."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TempleOfLiterature",
+          "VietnamMuseumOfEthnology",
+          "HoaLoPrison"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Văn Miếu - Quốc Tử Giám , là nhân chứng lịch sử ngàn năm của thủ đô Hà Nội, Quốc Tử Giám còn là ngôi trường “khai sinh” ra rất nhiều nhân tài tuấn kiệt cho đất nước"
+              },
+              {
+                "start": "10:30",
+                "end": "12:00",
+                "details": "Bảo Tàng Dân Tộc Học,  là nơi để bạn chiêm ngưỡng các tư liệu, hiện vật về văn hóa và lịch sử của 54 dân tộc ở Việt Nam."
+              },
+              {
+                "start": "12:10",
+                "end": "14:00",
+                "details": "Di chuyển về khách sạn nghỉ ngơi và ăn uống"
+              },
+              {
+                "start": "14:00",
+                "end": "16:30",
+                "details": "Đoàn mình lên xe di chuyển ra nhà Tù Hỏa Lò , là một là một minh chứng rõ nét cho cả một thời kì lịch sử khổ cực mà gian lao, biểu tượng cho tinh thần bất khuất, kiên cường của những người con Việt Nam yêu nước. Khu di tích vẫn còn trường tồn với thời gian cho đến tận ngày nay tại Hà Nội."
+              },
+              {
+                "start": "17:00",
+                "details": "Lên xe về khách sạn nghỉ ngơi , tối quý khách có thể tự do tham quan , hoặc di chuyển ra Phố Đi Bộ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "DongXuanMarket"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Dạo 36 phố phường, Chợ Đồng Xuân , tự do tham quan và mua sắm các món quà lưu niệm"
+              },
+              {
+                "start": "12:30",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "14:00",
+                "details": "Quý Khách lên xe di chuyển về Khách Sạn và kết thúc tour"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Culture And Spiritual": {
+    "name": "Culture And Spiritual",
+    "type": "Visit Tour",
+    "image": "WestLake",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2175000,
+      "default": 2900000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum1",
+          "OnePillarPagoda2",
+          "HoanKiemLake2"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "end": "07:45",
+                "details": "Xe đón đoàn tại Khách Sạn"
+              },
+              {
+                "start": "07:45",
+                "end": "09:00",
+                "details": "Di chuyển đến Lăng Bác biểu tượng của dân tộc Việt Nam, tham quan Lăng Bác chụp ảnh lưu niệm tại nơi đây"
+              },
+              {
+                "start": "09:15",
+                "end": "11:00",
+                "details": "Đoàn ra xe di chuyển đến Chùa Một Cột , ngôi chùa nét cổ kính , cảm giác như một bông sen đang nở rộ"
+              },
+              {
+                "start": "11:30",
+                "end": "13:00",
+                "details": "Ăn trưa , và nghỉ ngơi tại Khách Sạn"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "15:30",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm hồ trung tâm với Tháp Rùa, đi bộ tham quan Hồ Hoàn Kiếm hít thở không khí trong lành và tận hượng vẻ đẹp của hồ và tham qua Đền Ngọc Sơn đền thờ học giả cổ"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo phố cổ , hoặc tự do tham quan , mua sắm"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TranQuocPagoda",
+          "TempleOfLiterature1",
+          "QuanSuPagoda"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "09:30",
+                "details": "Xe đón đoàn mình và di chuyển đến Chùa Trấn Quốc chùa cổ nhất Hà Nội bên Hồ Tây , tham quan ngôi chùa"
+              },
+              {
+                "start": "10:00",
+                "end": "11:30",
+                "details": "Đoàn mình di chuyển đến Văn Miếu di tích giáo dục cổ của Hà Nội , tham quan Văn Miếu và chụp hình lưu niệm nơi đây"
+              },
+              {
+                "start": "12:00",
+                "end": "14:00",
+                "details": "Ăn trưa và nghỉ ngơi tại Khách Sạn"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "14:15",
+                "end": "16:30",
+                "details": "Di chuyển đến Chùa Quán Sứ trung tâm Phật giáo miền Bắc , tham quan chùa"
+              },
+              {
+                "start": "17:00",
+                "details": "Đoàn lên xe di chuyển về khách sạn nghỉ ngơi , tối khách tự do tham quan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "Hanoi36Streets"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Dạo 36 phố phường, tự do tham quan và mua sắm các món quà lưu niệm"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa nghỉ ngơi và Check Out Khách Sạn"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:00",
+                "end": "16:00",
+                "details": "Mua sắm"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Premium And Night": {
+    "name": "Premium And Night",
+    "type": "Visit Tour",
+    "image": "HaNoiFestival",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suất ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buổi chiều Lăng Bác không mở cửa tham quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn tham quan bình thường.",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào tham quan chùa Trấn Quốc và Lăng Bác.",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc có chuyến bay cùng ngày vui lòng báo trước để được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch.",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2400000,
+      "default": 3200000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, tham quan phát sinh ngoài chương trình.",
+          "Tiền típ (bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục vụ..."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum2",
+          "OnePillarPagoda3",
+          "HoanKiemLake3"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "end": "07:45",
+                "details": "Xe đón."
+              },
+              {
+                "start": "07:45",
+                "end": "09:00",
+                "details": "Di chuyển đến Lăng Bác (nơi tưởng niệm lãnh tụ), tham quan Lăng Bác và Chùa Một Cột (chùa cổ)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi."
+              },
+              {
+                "start": "13:30",
+                "end": "15:30",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm (hồ biểu tượng), tham quan hồ."
+              },
+              {
+                "start": "16:00",
+                "end": "18:00",
+                "details": "Nghỉ ngơi, ăn uống để hoạt động tối."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Xem múa rối nước tại Hồ Hoàn Kiếm (văn hóa truyền thống)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TempleOfLiterature1",
+          "HoChiMinhMuseum"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Di chuyển đến Văn Miếu (trường cổ), tham quan Văn Miếu và Bảo tàng Hồ Chí Minh (bảo tàng về Bác)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "18:00",
+                "end": "20:00",
+                "details": "Show 3D Mapping tại Văn Miếu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "Hanoi36Streets1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Dạo 36 phố phường, tự do tham quan và mua sắm các món quà lưu niệm."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa fusion, nghỉ ngơi và check-in."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Di chuyển đến Vincom Center (trung tâm thương mại cao cấp), mua sắm."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Vacation And Relax": {
+    "name": "Vacation And Relax",
+    "type": "Vacation Tour",
+    "image": "WestLake1",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ (Bố mẹ tự chăm sóc cho bé).",
+      "Hai người lớn được kèm 1 trẻ em miễn phí (nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50%).",
+      "Trẻ em từ 5 - 8 tuổi tính 75% (có chỗ ngồi riêng trên xe, suất ăn riêng, vé thắng cảnh).",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buổi chiều Lăng Bác không mở cửa tham quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn tham quan bình thường.",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào tham quan chùa Trấn Quốc và Lăng Bác.",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc có chuyến bay cùng ngày vui lòng báo trước để được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch.",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2625000,
+      "default": 3600000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, tham quan phát sinh ngoài chương trình.",
+          "Tiền típ (bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục vụ..."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "WestLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón tại khách sạn trung tâm."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến Hồ Tây (hồ lớn nhất Hà Nội, không gian xanh yên bình), check-in khách sạn ven hồ, thư giãn."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Spa massage thư giãn (1 giờ)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo hồ bằng xe đạp, ăn tối nhẹ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TranQuocPagoda"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Di chuyển đến Chùa Trấn Quốc (chùa cổ bên hồ, nơi cầu bình an), tham quan nhẹ nhàng."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học Yoga hoặc Thiền (1 giờ)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức trà đạo và đọc sách tại quán cà phê ven hồ."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Thư giãn tại khách sạn, spa cuối."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Mua sắm nhẹ nhàng tại Vincom Plaza (trung tâm thương mại cao cấp)."
+              },
+              {
+                "start": "16:30",
+                "details": "Kết thúc tour, xe đưa về khách sạn hoặc sân bay."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Spa And Relax Ancient Town": {
+    "name": "Spa And Relax Ancient Town",
+    "image": "BoutiqueHotel",
+    "type": "Vacation Tour",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2625000,
+      "default": 3600000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "Hanoi36Streets"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến 36 Phố Phường (khu phố cổ sôi động nhưng yên tĩnh buổi sáng), check-in khách sạn boutique."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Spa massage thư giãn thảo dược (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo phố cổ, ăn tối nhẹ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HoanKiemLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm (hồ biểu tượng), tham quan nhẹ nhàng và chụp ảnh lưu niệm."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học nấu ăn món Việt (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức cà phê trứng tại quán cà phê cổ nổi tiếng"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Thư giãn khách sạn, spa cuối"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Mua sắm nhẹ nhàng tại Vincom Plaza (trung tâm thương mại cao cấp)"
+              },
+              {
+                "start": "16:30",
+                "details": "Kết thúc tour, xe đưa về khách sạn hoặc sân bay"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Hoan Kiem Lake Family Resort": {
+    "name": "Hoan Kiem Lake Family Resort",
+    "image": "HoanKiemLake1",
+    "type": "Vacation Tour",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2400000,
+      "default": 3200000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoanKiemLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm (hồ biểu tượng), check-in khách sạn ven hồ, thư giãn."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Chơi trò chơi gia đình quanh hồ hoặc spa massage thư giãn (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo hồ bằng xe đạp, ăn tối nhẹ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Tham quan nhẹ nhàng Hồ Hoàn Kiếm và Đền Ngọc Sơn (đền thờ học giả cổ)"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học nấu ăn món Việt cho cả gia đình (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức cà phê trứng tại quán cà phê cổ nổi tiếng"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Luxury West Lake Resort": {
+    "name": "Luxury West Lake Resort",
+    "type": "Vacation Tour",
+    "image": "WestLake1",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 4125000,
+      "default": 5500000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "WestLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến Hồ Tây (hồ lớn nhất Hà Nội, không gian xanh yên bình), check-in khách sạn ven hồ, thư giãn."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Spa massage thư giãn thảo dược (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo hồ bằng xe đạp, ăn tối nhẹ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TranQuocPagoda"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Di chuyển đến Chùa Trấn Quốc (chùa cổ bên hồ, nơi cầu bình an), tham quan chùa."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học Yoga hoặc Thiền (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức trà đạo và đọc sách tại quán cà phê ven hồ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage2"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Thư giãn khách sạn, spa cuối"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Mua sắm nhẹ nhàng tại Vincom Plaza (trung tâm thương mại cao cấp)"
+              },
+              {
+                "start": "16:30",
+                "details": "Kết thúc tour, xe đưa về khách sạn hoặc sân bay"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Relax Spa Old Quarter And Hoan Kiem Lake": {
+    "name": "Relax Spa Old Quarter And Hoan Kiem Lake",
+    "type": "Vacation Tour",
+    "image": "Hanoi36Streets",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 3600000,
+      "default": 4800000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "Hanoi36Streets"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón tại khách sạn trung tâm."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến 36 Phố Phường (khu phố cổ sôi động nhưng yên tĩnh buổi sáng), check-in khách sạn boutique."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Spa massage thư giãn thảo dược (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Dạo phố cổ, ăn tối nhẹ"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HoanKiemLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm (hồ biểu tượng), tham quan nhẹ nhàng và chụp ảnh lưu niệm."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học nấu ăn món Việt cho cả gia đình (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức cà phê trứng tại quán cà phê cổ nổi tiếng"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Tham quan nhẹ nhàng Hồ Hoàn Kiếm và Đền Ngọc Sơn (đền thờ học giả cổ)"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa chay và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Tham gia lớp học nấu ăn món Việt cho cả gia đình (1 giờ)"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Thưởng thức cà phê trứng tại quán cà phê cổ nổi tiếng"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Thư giãn khách sạn, spa cuối"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Mua sắm nhẹ nhàng tại Vincom Plaza (trung tâm thương mại cao cấp)"
+              },
+              {
+                "start": "16:30",
+                "details": "Kết thúc tour, xe đưa về khách sạn hoặc sân bay"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Spiritual And Cultural Retreat": {
+    "name": "Spiritual And Cultural Retreat",
+    "image": "OnePillarPagoda",
+    "type": "Vacation Tour",
+    "policy": [
+      "Trẻ em từ 1 - 4 tuổi: Miễn phí dịch vụ ( Bố mẹ tự chăm sóc cho bé )",
+      "Hai người lớn được kèm 1 trẻ em miễn phí ( nếu có trẻ em thứ 2 dưới 4 tuổi phụ thu 50% )",
+      "Trẻ em từ 5 - 8 tuổi tính 75% ( có chỗ ngồi riêng trên xe, suốt ăn riêng, vé thắng cảnh )",
+      "Trẻ em từ 9 tuổi trở lên tính 100% giá tour như người lớn."
+    ],
+    "notes": [
+      "Thứ 2, thứ 6 hàng tuần và các buối chiều Lăng Bác không mở cửa thăm quan nhưng các điểm khu vực bên ngoài Lăng Bác vẫn thăm quan bình thường",
+      "Quý khách nên mang theo trang phục lịch sự, mặc quần dài hoặc váy dài qua đầu gối khi vào thăm quan chùa Trấn Quốc và Lăng Bác",
+      "Quý khách có chế độ ăn kiêng, ăn chay hoặc Quý khách có chuyến bay cùng ngày vui lòng báo trước đề được nhân viên tư vấn và sắp xếp thời gian hợp lý.",
+      "Quý khách cung cấp đầy đủ thông tin họ và tên, năm sinh, giới tính, Quốc tịch trước ngày khởi hành để được mua bảo hiểm du lịch",
+      "Trước khi xuống xe, nên kiểm tra hành lý tư trang cá nhân của mình. Công ty không chịu trách nhiệm bồi hoàn nếu Quý khách bị mất hoặc thất lạc tài sản cá nhân."
+    ],
+    "price": {
+      "child": 2625000,
+      "default": 3600000,
+      "extend": {
+        "title": "Không bao gồm:",
+        "content": [
+          "Thuế VAT.",
+          "Vé tham quan, vé xe điện.",
+          "Đồ uống tự gọi trong bữa ăn, thăm quan phát sinh ngoài chương trình",
+          "Tiền típ ( bồi dưỡng) cho hướng dẫn viên, lái xe, nhân viên phục...."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "TempleOfLiterature",
+          "HoChiMinhMuseum"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón tại khách sạn trung tâm."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến Văn Miếu (trường cổ), tham quan Văn Miếu và Bảo tàng Hồ Chí Minh (bảo tàng về Bác)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "18:00",
+                "end": "20:00",
+                "details": "Show 3D Mapping tại Văn Miếu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "OnePillarPagoda",
+          "HoChiMinhMausoleum2"
+        ],
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Xe đón tại khách sạn trung tâm."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Di chuyển đến Lăng Bác (nơi tưởng niệm lãnh tụ), tham quan Lăng Bác và Chùa Một Cột (chùa cổ)"
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Ăn trưa và nghỉ ngơi"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "15:30",
+                "details": "Di chuyển đến Hồ Hoàn Kiếm (hồ biểu tượng), tham quan hồ"
+              },
+              {
+                "start": "16:00",
+                "end": "18:00",
+                "details": "Nghỉ ngơi ăn uống để hoạt động tối"
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Xem múa rối nước tại hồ Hoàn Kiếm (văn hóa truyền thống)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Traditional Hanoi Cuisine": {
+    "name": "Traditional Hanoi Cuisine",
+    "image": "CuisineList",
+    "type": "Cuisine Tour",
+    "notes": [
+      "Mang giày thể thao/dép thấp để dễ đi bộ trên phố cổ",
+      "Báo trước nếu có chế độ ăn kiêng/ăn chay/dị ứng thực phẩm.",
+      "Chuẩn bị tiền mặt nhỏ (10.000 – 50.000 VNĐ) để mua thêm món ăn.",
+      "Chuẩn bị ô/nón chống nắng hoặc áo mưa mỏng tùy thời tiết."
+    ],
+    "policy": [
+      "Trẻ em 1 – 4 tuổi: miễn phí dịch vụ (bố mẹ tự lo)",
+      "Hai người lớn được kèm 1 trẻ em miễn phí, trẻ thứ 2 dưới 4 tuổi phụ thu 50%",
+      "Trẻ em 5 – 8 tuổi: tính 75% giá tour (có chỗ ngồi, suất ăn riêng)",
+      "Trẻ em từ 9 tuổi: tính 100% giá tour như người lớn"
+    ],
+    "price": {
+      "extend": {
+        "title": "Không bao gồm",
+        "content": [
+          "Thuế VAT.",
+          "Đồ uống tự gọi ngoài chương trình",
+          "Chi phí phát sinh không nằm trong lịch trình",
+          "Tiền tip cho HDV, lái xe, nhân viên phục vụ"
+        ]
+      },
+      "services": {
+        "title": "Dịch vụ bao gồm :",
+        "content": [
+          "Xe du lịch vận chuyển đưa đón theo chương trình.",
+          "Hướng dẫn viên song ngữ Anh – Việt",
+          "Vé trải nghiệm/ăn thử tại các điểm (6 – 7 món ăn)",
+          "01 bữa chính (bún chả hoặc phở) kèm đồ uống nhẹ",
+          "Bảo hiểm du lịch trọn gói (mức bồi thường tối đa 20 triệu).",
+          "Nước uống Dasani 350ml/khách/ngày"
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:30",
+                "details": "Xe và HDV đón khách tại khách sạn khu vực Phố Cổ – Nhà Hát Lớn."
+              },
+              {
+                "start": "08:45",
+                "end": "09:30",
+                "details": "Ăn sáng với phở bò/gà truyền thống – món ăn quốc hồn quốc túy"
+              },
+              {
+                "start": "09:45",
+                "end": "10:15",
+                "details": "Dạo phố cổ, thưởng thức bánh cuốn Thanh Trì nóng hổi."
+              },
+              {
+                "start": "10:30",
+                "end": "11:15",
+                "details": "Tham quan chợ Đồng Xuân, thưởng thức chè long nhãn hạt sen."
+              },
+              {
+                "start": "11:30",
+                "end": "12:30",
+                "details": "Ăn trưa với bún chả Hà Nội, nem rán vàng giòn"
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "12:45",
+                "end": "13:30",
+                "details": "Thưởng thức cà phê trứng tại quán cổ truyền phố Nguyễn Hữu Huân"
+              },
+              {
+                "start": "13:45",
+                "end": "14:30",
+                "details": "Tham quan chợ Hàng Da, thưởng thức bánh tôm Hồ Tây"
+              },
+              {
+                "start": "14:45",
+                "end": "15:30",
+                "details": "Thưởng thức bánh mì Việt Nam với pate, chả lụa, rau thơm."
+              },
+              {
+                "start": "15:45",
+                "end": "16:30",
+                "details": "Thư giãn bên Hồ Hoàn Kiếm, nhâm nhi trà chén vỉa hè"
+              },
+              {
+                "start": "16:45",
+                "details": "Kết thúc tour, đưa khách về điểm đón ban đầu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Night Cuisine of Hanoi Old Quarter": {
+    "name": "Night Cuisine of Hanoi Old Quarter",
+    "type": "Cuisine Tour",
+    "image": "MarketActivities",
+    "notes": [
+      "Mang giày thể thao/dép thấp để dễ đi bộ trên phố cổ",
+      "Báo trước nếu có chế độ ăn kiêng/ăn chay/dị ứng thực phẩm.",
+      "Chuẩn bị tiền mặt nhỏ (10.000 – 50.000 VNĐ) để mua thêm món ăn.",
+      "Chuẩn bị ô/nón chống nắng hoặc áo mưa mỏng tùy thời tiết."
+    ],
+    "policy": [
+      "Trẻ em 1 – 4 tuổi: miễn phí dịch vụ (bố mẹ tự lo)",
+      "Hai người lớn được kèm 1 trẻ em miễn phí, trẻ thứ 2 dưới 4 tuổi phụ thu 50%",
+      "Trẻ em 5 – 8 tuổi: tính 75% giá tour (có chỗ ngồi, suất ăn riêng)",
+      "Trẻ em từ 9 tuổi: tính 100% giá tour như người lớn"
+    ],
+    "price": {
+      "extend": {
+        "title": "Dịch vụ bao gồm",
+        "content": [
+          "Thuế VAT.",
+          "Đồ uống tự gọi ngoài chương trình",
+          "Chi phí phát sinh không nằm trong lịch trình",
+          "Tiền tip cho HDV, lái xe, nhân viên phục vụ"
+        ]
+      },
+      "services": {
+        "title": "Dịch vụ bao gồm :",
+        "content": [
+          "Xe du lịch vận chuyển đưa đón theo chương trình.",
+          "Hướng dẫn viên song ngữ Anh – Việt",
+          "Vé trải nghiệm/ăn thử tại các điểm (6 – 7 món ăn)",
+          "01 bữa chính (bún chả hoặc phở) kèm đồ uống nhẹ",
+          "Bảo hiểm du lịch trọn gói (mức bồi thường tối đa 20 triệu).",
+          "Nước uống Dasani 350ml/khách/ngày"
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "time": [
+              {
+                "start": "17:30",
+                "end": "18:00",
+                "details": "HDV đón khách tại khách sạn, khởi đầu hành trình ẩm thực đêm."
+              },
+              {
+                "start": "18:15",
+                "end": "18:45",
+                "details": "Thưởng thức bún thang Hà Nội tại 11 Hàng Hòm, món ăn cầu kỳ với hơn 20 nguyên liệu."
+              },
+              {
+                "start": "19:00",
+                "end": "19:30",
+                "details": "Dạo phố Tạ Hiện, thưởng thức nem chua rán, khoai tây chiên, ngô chiên kèm bia hơi"
+              },
+              {
+                "start": "19:45",
+                "end": "20:15",
+                "details": "Thưởng thức xôi xéo lá sen tại phố Hàng Gà."
+              },
+              {
+                "start": "20:30",
+                "end": "21:00",
+                "details": "Thưởng thức ốc luộc, ngao hấp sả tại phố Đinh Liệt."
+              },
+              {
+                "start": "21:15",
+                "end": "21:45",
+                "details": "Đi chợ đêm Hàng Ngang – Hàng Đào, thưởng thức kem Tràng Tiền hoặc kem xôi dừa"
+              },
+              {
+                "start": "22:00",
+                "details": "Nhâm nhi trà chanh Nhà Thờ Lớn, hòa vào không khí sôi động."
+              },
+              {
+                "start": "22:30",
+                "details": "Kết thúc chương trình, đưa khách về khách sạn"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "3 Days 2 Nights Hanoi Culinary Journey": {
+    "name": "3 Days 2 Nights Hanoi Culinary Journey",
+    "type": "Cuisine Tour",
+    "image": "LongTour",
+    "notes": [
+      "Mang giày thể thao/dép thấp để dễ đi bộ trên phố cổ",
+      "Báo trước nếu có chế độ ăn kiêng/ăn chay/dị ứng thực phẩm.",
+      "Chuẩn bị tiền mặt nhỏ (10.000 – 50.000 VNĐ) để mua thêm món ăn.",
+      "Chuẩn bị ô/nón chống nắng hoặc áo mưa mỏng tùy thời tiết."
+    ],
+    "policy": [
+      "Trẻ em 1 – 4 tuổi: miễn phí dịch vụ (bố mẹ tự lo)",
+      "Hai người lớn được kèm 1 trẻ em miễn phí, trẻ thứ 2 dưới 4 tuổi phụ thu 50%",
+      "Trẻ em 5 – 8 tuổi: tính 75% giá tour (có chỗ ngồi, suất ăn riêng)",
+      "Trẻ em từ 9 tuổi: tính 100% giá tour như người lớn"
+    ],
+    "price": {
+      "extend": {
+        "title": "Dịch vụ bao gồm",
+        "content": [
+          "Thuế VAT.",
+          "Đồ uống tự gọi ngoài chương trình",
+          "Chi phí phát sinh không nằm trong lịch trình",
+          "Tiền tip cho HDV, lái xe, nhân viên phục vụ"
+        ]
+      },
+      "services": {
+        "title": "Dịch vụ bao gồm:",
+        "content": [
+          "Xe du lịch vận chuyển đưa đón theo chương trình.",
+          "Hướng dẫn viên song ngữ Anh – Việt",
+          "Vé trải nghiệm/ăn thử tại các điểm (6 – 7 món ăn)",
+          "01 bữa chính (bún chả hoặc phở) kèm đồ uống nhẹ",
+          "Bảo hiểm du lịch trọn gói (mức bồi thường tối đa 20 triệu).",
+          "Nước uống Dasani 350ml/khách/ngày"
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:15",
+                "details": "Xe và HDV đón Quý khách tại khách sạn khu vực Phố Cổ/ Nhà Hát Lớn"
+              },
+              {
+                "start": "08:30",
+                "end": "09:15",
+                "details": "Tham quan Chợ Đồng Xuân, tìm hiểu nguyên liệu tươi ngon phục vụ cho phở, bún chả, nem rán."
+              },
+              {
+                "start": "09:30",
+                "end": "10:15",
+                "details": "Quý khách có thể thưởng thức thêm Phở bò/gà gia truyền, tìm hiểu lịch sử và sự biến tấu của món ăn quốc hồn quốc túy."
+              },
+              {
+                "start": "10:30",
+                "end": "11:00",
+                "details": "Nghỉ tại quán cà phê lâu đời, trải nghiệm cà phê trứng – đặc sản độc đáo chỉ có ở Hà Nội."
+              },
+              {
+                "start": "11:15",
+                "end": "12:15",
+                "details": "Thưởng thức bún chả Hà Nội tại quán nổi tiếng từng đón Tổng thống Obama"
+              },
+              {
+                "start": "12:30",
+                "end": "13:30",
+                "details": "Ăn trưa tại nhà hàng: chả cá Lã Vọng, nem rán, canh măng vịt, rau muống xào tỏi."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "15:00",
+                "details": "Quý khách trải nghiệm làm bánh cuốn Thanh Trì – nghệ nhân hướng dẫn, du khách tự tay tráng bánh."
+              },
+              {
+                "start": "15:15",
+                "end": "16:30",
+                "details": "Đi bộ khám phá phố cổ 36 phố phường, thưởng thức quà vặt: bánh gối, bánh rán, nem chua rán, chè xoài."
+              },
+              {
+                "start": "17:00",
+                "end": "18:00",
+                "details": "Tham quan Hồ Hoàn Kiếm, dừng chân ăn Kem Tràng Tiền."
+              },
+              {
+                "start": "18:30",
+                "end": "20:00",
+                "details": "Ăn tối với các món dân dã: lẩu riêu cua, bánh tôm Hồ Tây, cháo sườn Hàng Bồ."
+              },
+              {
+                "start": "20:30",
+                "end": "21:30",
+                "details": "Tự do dạo chợ đêm Phố Cổ. Nghỉ đêm khách sạn 3* trung tâm."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:00",
+                "end": "08:00",
+                "details": "Ăn sáng với bánh mì pate + cà phê."
+              },
+              {
+                "start": "08:30",
+                "end": "09:30",
+                "details": "Khởi hành đi làng gốm Bát Tràng. Trải nghiệm nặn gốm, tham quan chợ gốm, ăn vặt bánh tẻ, bánh sắn nướng."
+              },
+              {
+                "start": "11:00",
+                "end": "12:30",
+                "details": "Tham quan làng cổ Đường Lâm: đình cổ, giếng làng, nhà đá ong. Ăn trưa với các món đặc sản: gà mía, cá kho tương, rau luộc chấm tương, chè lam, kẹo dồi."
+              },
+              {
+                "start": "14:00",
+                "end": "16:00",
+                "details": "Tham gia lớp học nấu ăn cùng đầu bếp Hà Nội. Du khách tự tay chế biến phở/bún chả/nem rán và thưởng thức thành quả."
+              },
+              {
+                "start": "17:00",
+                "end": "18:30",
+                "details": "Về khách sạn nghỉ ngơi."
+              },
+              {
+                "start": "21:00",
+                "end": "23:00",
+                "details": "Trải nghiệm chợ đầu mối Long Biên – nơi nhộn nhịp nhất Hà Nội về đêm. Thưởng thức chè nóng, bánh giò, xôi lạc, ngô nướng ngay tại chợ. Nghỉ đêm khách sạn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schedule": [
+          {
+            "section": "Buổi sáng",
+            "time": [
+              {
+                "start": "07:00",
+                "end": "08:00",
+                "details": "Ăn sáng với bún ốc Hồ Tây – món dân dã nổi tiếng của người Hà Nội."
+              },
+              {
+                "start": "08:30",
+                "end": "10:30",
+                "details": "Tham quan làng cốm Vòng (Cầu Giấy). Tìm hiểu cách làm cốm, tự tay giã cốm và thưởng thức cốm tươi, bánh cốm, chè cốm."
+              },
+              {
+                "start": "11:00",
+                "end": "12:30",
+                "details": "Ăn trưa tại nhà hàng: bún thang, chả rươi, canh cá rô, chè sen long nhãn."
+              }
+            ]
+          },
+          {
+            "section": "Buổi chiều",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "14:30",
+                "details": "Ghé thăm nhà tù Hỏa Lò, nghe kể về những câu chuyện lịch sử gắn với Hà Nội xưa."
+              },
+              {
+                "start": "15:00",
+                "end": "16:00",
+                "details": "Mua quà đặc sản về nhà: ô mai Hàng Đường, trà sen Hồ Tây, bánh cốm Nguyên Ninh"
+              },
+              {
+                "start": "16:30",
+                "details": "Xe đưa đoàn về điểm đón ban đầu. Kết thúc chương trình."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

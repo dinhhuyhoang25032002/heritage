@@ -29,7 +29,7 @@ export default function Award() {
             </div>
             <div className="flex w-full items-center justify-between gap-5">
               <div className="w-2/3">
-                <img src={image2} alt="" className="block h-[278px] rounded object-cover object-center" />
+                <img src={image2} alt="" className="h-[278px] rounded object-cover object-center" />
               </div>
               <img src={image3} alt="" className="h-[278px] w-1/3 rounded object-cover object-center" />
             </div>

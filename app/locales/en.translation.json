@@ -1,0 +1,2345 @@
+{
+  "header": {
+    "Travel Destination": "Travel  Destination",
+    "Cultural Heritage": "Cultural Heritage",
+    "Contemporary Life": "Contemporary Life",
+    "Heritage Award": "Heritage Award",
+    "podcart": "podcart",
+    "Advertising": "Advertising",
+    "vietnam heritage": "vietnam heritage",
+    "Select Language": "Select Language",
+    "Destination": "Destination",
+    "Itinerary": "Itinerary",
+    "Retreat": "Retreat",
+    "Weather": "Weather",
+    "Search": "Search"
+  },
+  "banner": {
+    "Ho Chi Minh Mausoleum": "Ho Chi Minh Mausoleum",
+    "Giong Temple in Soc Son": "Giong Temple in Soc Son",
+    "Hanoi’s Signature Cuisine": "Hanoi’s Signature Cuisine",
+    "Relaxing Retreat at West Lake": "Relaxing Retreat at West Lake",
+    "Domestic": "Domestic",
+    "Sightseeing": "Sightseeing",
+    "History": "History",
+    "Cuisine": "Cuisine",
+    "Relaxation": "Relaxation"
+  },
+  "Travel Destinations": {
+    "Travel Destinations": "Travel Destinations",
+    "The Temple of Literature": "The Temple of Literature",
+    "detail": "The Temple of Literature – Imperial Academy is one of the most diverse and significant historical complexes in Hanoi, located to the south of the Thang Long Imperial Citadel. It is recognized as Vietnam’s very first university. The complex is surrounded by a brick wall and divided into five courtyards, each with unique architectural features. These courtyards are separated by brick walls with three gates connecting them. From the outermost to the innermost areas, the gates are: Van Mieu Gate, Dai Trung Gate, Khue Van Pavilion, Dai Thanh Gate, and Thai Hoc Gate.",
+    "Vietnam Museum of Ethnology": "Vietnam Museum of Ethnology",
+    "Ho Chi Minh’s Stilt House": "Ho Chi Minh’s Stilt House",
+    "Vietnam Women’s Museum": "Vietnam Women’s Museum",
+    "Tay Ho Temple": "Tay Ho Temple",
+    "Hoan Kiem Lake": "Hoan Kiem Lake",
+    "Hoa Lo Prison": "Hoa Lo Prison",
+    "title0": "National Day September 2: Hanoi Offers Free Admission to 5 Attractions",
+    "title1": "Long Bien Bridge – A Witness of History",
+    "title2": "The Hanoi Old Quarter – Renewed Every Day",
+    "title3": "Thay Pagoda – Sacred, Majestic, and Beautiful",
+    "Hanoi Old Quarter": "Hanoi Old Quarter",
+    "Dong Xuan Market": "Dong Xuan Market",
+    "West Lake": "West Lake",
+    "Long Bien Bridge": "Long Bien Bridge",
+    "Ho Chi Minh Museum": "Ho Chi Minh Museum",
+    "Giong Temple": "Giong Temple",
+    "Ba Da Pagoda": "Ba Da Pagoda"
+  },
+  "Travel Journey": {
+    "Travel Journey": "Travel Journey",
+    "Ancient City Tour": "Ancient City Tour",
+    "Culture And Spiritual": "Culture And Spiritual",
+    "Premium And Night": "Premium And Night",
+    "Vacation And Relax": "Vacation And Relax",
+    "Spa And Relax Ancient Town": "Spa And Relax Ancient Town",
+    "Hoan Kiem Lake Family Resort": "Hoan Kiem Lake Family Resort",
+    "Luxury West Lake Resort": "Luxury West Lake Resort",
+    "Relax Spa Old Quarter And Hoan Kiem Lake": "Relax Spa Old Quarter And Hoan Kiem Lake",
+    "Spiritual And Cultural Retreat": "Spiritual And Cultural Retreat",
+    "Traditional Hanoi Cuisine": "Traditional Hanoi Cuisine",
+    "Night Cuisine of Hanoi Old Quarter": "Night Cuisine of Hanoi Old Quarter",
+    "3 Days 2 Nights Hanoi Culinary Journey": "3 Days 2 Nights Hanoi Culinary Journey"
+  },
+  "Hanoi Old Quarter": {
+    "name": "Hanoi Old Quarter",
+    "introduction": "The Hanoi Old Quarter is the historic heart of the capital, famous for its 36 streets associated with traditional crafts. It preserves ancient tube houses, sacred temples and pagodas, and the bustling atmosphere of local markets. Walking through its streets, visitors can discover a thousand-year-old culture, enjoy signature dishes such as pho, bun cha, and banh cuon, and immerse themselves in the simple yet distinctive lifestyle of Hanoians.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7447.887925057722!2d105.84514704191967!3d21.03492808638189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abbf21b895f7%3A0x641bc6c48732c7a4!2zUGjhu5EgY-G7lSBIw6AgTuG7mWksIEhvw6BuIEtp4bq_bSwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475090004!5m2!1svi!2s",
+    "location": "The area covers about 100 hectares with 10 wards and 76 streets, forming a triangle: to the north bordering Hang Dau Street, to the west bordering Phung Hung Street, to the south bordering Hang Bong - Hang Gai - Cau Go - Hang Thung streets, and to the east bordering Tran Quang Khai and Tran Nhat Duat streets. The Old Quarter is near Hoan Kiem Lake and the Red River.",
+    "description": [
+      {
+        "title": "History and Overview",
+        "image": "OldTownHistory",
+        "content": [
+          "The Old Quarter was formed during the Ly - Tran dynasties (11th century) as a densely populated residential area east of Thang Long Imperial Citadel, where handicrafts and trade flourished, giving rise to specialized guild streets (such as Hang Ma selling votive items, Hang Bac selling silver, Hang Dao selling silk). Under the Le dynasty, it belonged to Phung Thien Prefecture; under French rule, it was renovated with French, Chinese, and Indian architectural influences. Today, it remains Hanoi’s busiest trading area, characterized by narrow tube houses (2-3m wide, 50-60m deep), tiled roofs, skylight courtyards, and monuments such as O Quan Chuong Gate, Bach Ma Temple, Cau Dong Pagoda, and Quang Dong Assembly Hall. It reflects the ancient trading culture with streets like Hang Buom and Hang Ngang (where President Ho Chi Minh drafted the Declaration of Independence in 1945)."
+        ]
+      }
+    ],
+    "image": "OldTown",
+    "activities": [
+      {
+        "image": "OldTown1",
+        "content": [
+          "Stroll through the 36 guild streets (Hang Ma, Hang Dao, Ta Hien); visit landmarks such as O Quan Chuong Gate, Bach Ma Temple, and the Ancient House at 87 Ma May (exhibitions, handicraft workshops); shop at Dong Xuan Market; walk around Hoan Kiem pedestrian streets (photography, performances); take a cyclo tour or food tour (street food); experience Train Street (cafes along the railway – check train schedule); join festivals such as Mid-Autumn Festival (lantern parade).",
+          "The Hanoi Old Quarter holds a unique position with abundant tangible and intangible cultural heritage. Over time, its small, tiled houses continue to live on in the memory of generations of Hanoians. Within it lie unique homes, distinctive lifestyles, and streets filled with nostalgia.",
+          "The Old Quarter of Hanoi is an urban heritage with unique architecture, traditional craft streets, specialized trading streets, and many cultural and historical monuments tied to Thang Long – Dong Do – Hanoi. Dr. Architect To Thi Toan, former Vice Director of the Old Quarter Management Board, stated that while Hanoi has developed greatly, the Old Quarter still preserves every architectural detail, from the smallest to the grandest tangible and intangible legacies passed down by ancestors."
+        ]
+      },
+      {
+        "image": "OldTown2",
+        "content": [
+          "Architecturally, most houses in the Old Quarter are tube houses with narrow facades, skylight courtyards, and sloping tiled roofs painted in yellow lime. Daily life of thousands of residents continues within these ancient houses, each bearing the cultural identity and traditional lifestyle of Hanoians."
+        ]
+      },
+      {
+        "image": "OldTown3",
+        "content": [
+          "The arrangement and interior design of traditional houses reflect the aesthetic taste and refinement of Hanoians. The ancestral altar is the most sacred space, decorated with parallel sentences, wooden panels, and the scent of incense year-round. Ancient furniture such as carved wooden beds, cabinets, old books, antique vases, and an old pendulum clock highlight the depth, elegance, and contemplative spirit of old Trang An people."
+        ]
+      }
+    ]
+  },
+  "Dong Xuan Market": {
+    "name": "Dong Xuan Market",
+    "introduction": "Dong Xuan Market is the largest and oldest market in Hanoi, located in the heart of the Old Quarter. Built in 1889 during the French colonial period, it is not only a bustling trading hub with goods ranging from fabrics, clothing, souvenirs to traditional food, but also a cultural destination closely tied to the life of Hanoians. Visitors can enjoy the lively atmosphere, explore street food, and discover a history of more than 100 years.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.863466040991!2d105.84746377515339!3d21.03814838745631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abb8e6c24487%3A0xd9def483e7f217e6!2zQ2jhu6MgxJDhu5NuZyBYdcOibiwgxJDhu5NuZyBYdcOibiwgSG_DoG4gS2nhur9tLCBIw6AgTuG7mWkgMTAwMDAwLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475170965!5m2!1svi!2s",
+    "location": "Dong Xuan Market is located in Hanoi’s Old Quarter, in Dong Xuan Ward, Hoan Kiem District. To the East is Dong Xuan alley, to the West is Dong Xuan street, to the South is Cau Dong street, and to the North is Hang Khoai street. The market is only about 800m from Hoan Kiem Lake, close to Long Bien station and Hang Ma street.",
+    "image": "DongXuanMarket",
+    "description": [
+      {
+        "title": "History:",
+        "content": [
+          "According to records, Dong Xuan Market existed before 1888, originally located south of the To Lich River flowing from Hang Ca street along Ngo Gach. Around 1889, when the To Lich River and Thai Cuc Lake were filled in, the French planned and relocated all shops into the empty land in Dong Xuan ward, forming Dong Xuan Market.",
+          "In 1890, the French officially built Dong Xuan Market with 5 arched gates and 5 market halls, each 52m long, 19m high, and 25m wide, covering about 6,500 m². The façade followed French architectural style with 5 triangular sections, honeycomb-shaped ventilation holes, and corrugated iron roofs.",
+          "Initially, the market opened every two days, but with growing economic demand, it later opened daily from morning to night.",
+          "Around 1990, the market was reconstructed: two side rows were demolished, and the three central rows rebuilt into three floors. In 1994, a devastating fire destroyed nearly all stalls inside the market.",
+          "In 1995, Dong Xuan Market was rebuilt with an investment of 68 billion VND. The three floors cover nearly 14,000 m² with about 2,000 stalls. Today, the market has trading areas, many staircases, entrances on all sides, two outdoor staircases, five staircases leading to upper floors, and an elevator system."
+        ],
+        "image": "DongXuanMarketHistory"
+      }
+    ],
+    "activities": [
+      {
+        "image": "DongXuanMarketActivities",
+        "content": [
+          "Shopping at Dong Xuan Market is an exciting experience. As one of the largest wholesale markets in Northern Vietnam, it offers a wide variety of goods — from food, electronics, clothing, footwear to household products. Visitors can stroll through countless stalls, discovering the diversity and unique atmosphere of the market."
+        ]
+      },
+      {
+        "image": "DongXuanMarketActivities1",
+        "content": [
+          "Dong Xuan Night Market stretches from Hoan Kiem Lake through Hang Ngang, Hang Dao to the end of Hang Duong street, operating until midnight. Along the way, you will find countless stalls selling clothes, shoes, and food at affordable prices.",
+          "Don’t miss the food alley near Dong Xuan Market, often called a 'food paradise in a small alley'. Though only about 200m long, it is packed with eateries serving countless delicious dishes at very reasonable prices, showcasing authentic Hanoi flavors."
+        ]
+      }
+    ]
+  },
+  "West Lake": {
+    "name": "West Lake",
+    "introduction": "West Lake – the largest natural lake in Hanoi – is considered the 'green lung' of the capital. It not only offers poetic beauty but is also associated with many legends. Surrounding the lake are tree-lined roads, romantic lakeside cafés, and famous sites such as Tran Quoc Pagoda and Tay Ho Palace. Visitors can cycle, stroll, watch the sunset, and enjoy fresh air right in the heart of the city.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d29786.921698599304!2d105.80322226624347!3d21.058070808122626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aafe7260066b%3A0x4c2c988309aaa3db!2zSOG7kyBUw6J5!5e0!3m2!1svi!2s!4v1759475214634!5m2!1svi!2s",
+    "image": "WestLake",
+    "location": "West Lake is located in the northwest of Hanoi, in Tay Ho District, about 11 km from the city center. It is the largest natural lake in Hanoi, covering about 500 hectares. The road around the lake is 18 km long, shaded by green trees. West Lake was formed from a branch of the Red River after the river changed course, leaving behind a vast freshwater lake.",
+    "description": [
+      {
+        "title": "Formation History:",
+        "image": "WestLake",
+        "content": [
+          "West Lake has existed since the time of the Hung Kings, then known as Lam Ap Wharf, a riverside wharf connected to the Red River. During the Ly and Tran dynasties, West Lake became a scenic retreat for kings and nobles, with many palaces built along its banks.",
+          "Throughout history, West Lake has had many different names linked with legends and folklore: Dam Xac Cao (Fox Corpse Marsh), Lang Bac, Dam Dam, Tay Ho, Doai Ho.",
+          "From wilderness and swamps, thanks to the reclamation efforts of many generations, including contributions from royal concubines of various dynasties, West Lake became a famous cultural and tourist attraction of Thang Long – Hanoi. If West Lake is considered the flower’s pistil, then the 'Thap Tam Trai' (13 hamlets) are its beautiful petals spreading fragrance."
+        ]
+      },
+      {
+        "title": "Historical Sites:",
+        "image": "TranQuocPagoda",
+        "content": [
+          "Thuy Hoa Palace (Ly Dynasty): now part of Tran Quoc Pagoda area.",
+          "Tu Hoa Palace (Ly Dynasty): now Kim Lien Pagoda.",
+          "Thuy Chuong Palace (Le Dynasty): now the Chu Van An High School."
+        ]
+      },
+      {
+        "title": "Historical Stories:",
+        "image": "WestLake3",
+        "content": [
+          "West Lake, previously known as Dam Xac Cao, Kim Nguu Lake, Lang Bac, Dam Dam, Doai Ho, is the largest natural lake in Hanoi’s inner city. It covers more than 500 hectares with a circumference of 18 km, located northwest of Hanoi’s center. Historical geography proves West Lake was once part of the Red River before its course changed.",
+          "According to the 'Tay Ho Chronicles', West Lake dates back to the Hung Kings era when it was a wharf along the Red River, called Lam Ap Wharf in Long Do village. During the Trung Sisters’ time, the wharf was connected to the Red River. Surrounding the lake were dense forests of bamboo, ebony, reed, and valuable wildlife. The western shore had Gia La Cave (now Quan La, Xuan La ward), the eastern shore had Nha Lam Cave (now Yen Ninh and Hoe Nhai streets), and the southern shore had Binh Sa Cave (later Giap Co Xa, now part of Hoan Kiem District). The population here was sparse, living mainly by hunting and fishing.",
+          "Geographically, West Lake is an exogenous lake with a basin-like shape, proven to be part of the ancient Red River. The 'Dai Viet Chronicles' record that in 1044, Emperor Ly Thai Tong used West Lake (then called Dam Dam) as a place to trap wild elephants using a tamed elephant from Champa.",
+          "For centuries, West Lake has been a famous landscape. During the Ly and Tran dynasties, kings built palaces around it as resorts and entertainment venues, such as Thuy Hoa and Tu Hoa Palaces (Ly Dynasty, now Kim Lien Pagoda) and Ham Nguyen Palace (Tran Dynasty, now Tran Quoc Pagoda). Legend says Princess Tu Hoa, daughter of King Ly Than Tong, turned the area into mulberry and silk farms with her maidens, establishing Nghi Tam village as a silk-weaving center.",
+          "During the Tran Dynasty, Princess Tuc Trinh, daughter of King Tran Thanh Tong, contributed to reclaiming land around West Lake, helping poor peasants establish settlements like Co Nhue Village.",
+          "In the 17th century, Concubine Vu Thi Ngoc Xuyen, wife of Lord Trinh Tac, helped people reclaim wastelands in Minh Cao – Xuan Dinh (now Tay Ho District). In the past, migratory birds such as coots from West Lake were considered delicacies offered to the king, but due to overhunting and environmental changes, the birds disappeared around 1994."
+        ]
+      }
+    ]
+  },
+  "Hoa Lo Prison": {
+    "name": "Hoa Lo Prison",
+    "introduction": "Hoa Lo Prison was built in the late 19th century during the French colonial period. It was a place where many Vietnamese revolutionary soldiers were imprisoned. Today, the site has become one of Hanoi’s most notable historical attractions, allowing visitors to learn about the struggle for independence, admire precious artifacts, and feel the resilient and indomitable spirit of the Vietnamese people.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1836948816194!2d105.84390317515307!3d21.02533468789649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab96aa51de95%3A0x9701e10bee31af54!2zRGkgdMOtY2ggTmjDoCB0w7kgSOG7j2EgTMOy!5e0!3m2!1svi!2s!4v1759475254542!5m2!1svi!2s",
+    "location": "Hoa Lo Prison is located at No. 1 Hoa Lo Street, Tran Hung Dao Ward, Hoan Kiem District, Hanoi City.",
+    "image": "HoaLoPrison",
+    "description": [
+      {
+        "title": "Opening Hours",
+        "content": [
+          "The site is open daily, including holidays and weekends, from 8:00 AM to 5:00 PM.",
+          "The entrance fee is quite reasonable, around 30,000 VND per person. Discounts or free admission are available for certain groups such as students, the elderly, and people with contributions to the revolution."
+        ]
+      },
+      {
+        "title": "History",
+        "image": "HoaLoPrisonHistory",
+        "content": [
+          "Hoa Lo Prison was built in 1896 and was originally named Prison Centrale. However, to avoid public curiosity and agitation, the name was changed to Maison Centrale, which is still inscribed on the main gate. The prison was constructed on the outskirts of Hanoi as a central detention facility for both Tonkin and Annam. It mainly held political prisoners and patriotic activists opposing colonial rule. In the bustling capital, Hoa Lo Prison stood as a grim reminder of Vietnam’s turbulent history. Known as 'Hell on Earth,' the prison became infamous for its brutal architecture designed for torture and coercion. The guillotine used here made Hoa Lo one of the world’s most notorious prisons."
+        ]
+      },
+      {
+        "title": "Architecture of Hoa Lo Prison",
+        "image": "HoaLoPrisonArchitecture",
+        "content": [
+          "The prison originally covered an area of more than 12,000 m². Today, only 2,434 m² has been preserved as a historical relic. The prison was built on the land of Phu Khanh village, a traditional pottery village where kilns once burned day and night, giving the area its name 'Hoa Lo' (literally 'furnace'). During the French colonial era, the prison was designed with 4-meter-high, 0.5-meter-thick stone walls reinforced with electrified barbed wire. The compound was divided into four sections: - Zones A and B: for prisoners under investigation, minor offenders, or those violating prison discipline. - Zone C: for French or foreign prisoners. - Zone D: for prisoners awaiting execution."
+        ]
+      },
+      {
+        "title": "Stories of Hoa Lo Prison",
+        "image": "HoaLoPrison2",
+        "content": [
+          "Nicknamed 'Hell on Earth,' Hoa Lo Prison was designed to hold about 500 prisoners. Cells were built with harsh and inhumane conditions of detention and torture.",
+          "From a once-famous pottery village, the French turned Hoa Lo into a place of physical and mental torment for thousands of patriotic fighters. Despite harsh imprisonment, Vietnamese revolutionaries transformed the prison into a school of revolution, spreading political theory and maintaining resistance.",
+          "Many prominent Vietnamese leaders were imprisoned here, including Phan Boi Chau, Luong Van Can, Nguyen Quyen, Ho Tung Mau, Nguyen Luong Bang, as well as five General Secretaries of the Communist Party of Vietnam: Nguyen Van Cu, Truong Chinh, Le Duan, Nguyen Van Linh, and Do Muoi.",
+          "Visitors can still see many brutal tools of torture once used here: guillotines, electric shock machines, and clubs. All prison doors, locks, and shackles were specially imported from France and strictly managed.",
+          "The massive guillotine was the most infamous instrument, making Hoa Lo one of the world’s most notorious prisons. Visitors often feel chills at the sight of reconstructed scenes of torture and execution.",
+          "Prisoners were shackled for hours, days, even years. Despite enduring unimaginable suffering, political prisoners remained steadfast, inspiring admiration for their resilience.",
+          "The images of brutal floggings, trials, and tortures remain etched in the memory of the Vietnamese people. Every corner of Hoa Lo vividly depicts the suffering and sacrifice of revolutionaries in their struggle for independence.",
+          "The prison was surrounded by 4-meter-high stone and reinforced concrete walls topped with electrified barbed wire. Guard towers at each corner enabled total surveillance. Iron doors, locks, and shackles were all imported from France. Cells and dark solitary confinement rooms were overcrowded and suffocating, ruled by notorious wardens who did not hesitate to crush prisoners mercilessly.",
+          "Yet, despite the repression, the spirit of patriotism and revolution never died. Secret revolutionary meetings, political education, and propaganda activities continued, even under brutal conditions.",
+          "Revolutionary publications such as 'Prison Life' and 'Prison Magazine' were created inside the prison itself, spreading awareness and igniting the flame of revolution even within the enemy’s stronghold. These efforts brought hope and light to an otherwise dark prison life."
+        ]
+      }
+    ]
+  },
+  "Long Bien Bridge": {
+    "name": "Long Bien Bridge",
+    "introduction": "Long Bien Bridge, built by the French in 1902, was the first steel bridge across the Red River and has become a historical symbol of Hanoi. For more than a century, it has stood as a witness to wars and the resilience of the capital through many ups and downs. Today, Long Bien Bridge is not only a site rich in historical value but also an ideal place to watch the sunrise, sunset, and enjoy the poetic beauty of the Red River.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.7406202206075!2d105.85526187515349!3d21.043061987287384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abc8ca5f2f8f%3A0x6952d77987cbb0b!2zQ-G6p3UgTG9uZyBCacOqbiwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475296359!5m2!1svi!2s",
+    "image": "LongBienBridge",
+    "location": "Long Bien Bridge crosses the Red River, connecting Hoan Kiem, Ba Dinh, and Long Bien districts of Hanoi. Although located near the Old Quarter, traveling to the bridge often faces heavy traffic congestion during rush hours from 06:00 – 09:00 and 16:00 – 19:30.",
+    "description": [
+      {
+        "title": "Construction Period",
+        "content": [
+          "Long Bien Bridge was initiated by the French colonial government on September 12, 1898, with the aim of connecting transportation and facilitating colonial exploitation. After more than three years, construction was completed on February 3, 1902, and the inauguration ceremony took place on February 28, 1902. At that time, the bridge was named after the Governor-General of Indochina, Paul Doumer, but local people commonly called it 'Cau Song Cai' (Big River Bridge). In 1945, Hanoi Mayor Tran Van Lai renamed it Long Bien Bridge."
+        ]
+      },
+      {
+        "title": "Unique Architecture",
+        "image": "LongBienBridge1",
+        "content": [
+          "Long Bien Bridge is 2,290 meters long across the river and has 896 meters of approach spans, consisting of 19 steel trusses and 20 tall piers. At the time of its inauguration, it was compared to a horizontal Eiffel Tower, being the second-longest bridge in the world after the Brooklyn Bridge in the US.",
+          "The bridge is 4.75 meters wide, divided into three main lanes: a single railway track in the middle, two side lanes for cars, motorbikes, bicycles, and pedestrian walkways on the outermost edges.",
+          "Architecturally, the bridge is remarkable for its harmonious design, with a layered steel structure resembling a winding dragon — strong, proud, yet graceful. The entire bridge was built with high-quality steel using advanced construction techniques, ensuring both aesthetics and safety.",
+          "Today, Hanoi has many other bridges crossing the Red River such as Chuong Duong, Thang Long, Thanh Tri, Vinh Tuy, and Nhat Tan bridges. However, Long Bien Bridge remains an irreplaceable symbol of the capital, thanks to its historic architecture and more than 120 years of legacy."
+        ]
+      },
+      {
+        "title": "Historical Background",
+        "image": "LongBienBridgeHistory",
+        "content": [
+          "The bridge, now over 120 years old, originated from an idea of the Governor-General of Indochina. In 1897, Paul Doumer ordered a study and quick decision on building a bridge across the Red River in Hanoi.",
+          "At that time, Hanoi was separated from the provinces on the left bank of the Red River by a river more than 1,700 meters wide with shifting sandbanks. Crossing the river was difficult, costly, and often dangerous, as the Red River was known for its ferocity, especially during flood season.",
+          "With a depth of over 20 meters and rising up to 8 meters during floods, the constantly shifting riverbed posed a great engineering challenge. Many skeptics considered building piers in such conditions a risky venture.",
+          "A public tender for the construction was published in the Indochina Gazette in 1897. Six companies submitted bids, and Daydé & Pillé won with Proposal B, costing nearly 5.4 million francs, featuring 19 cantilever spans — a design first applied in the Tolbiac Bridge on the Paris-Orleans railway. Daydé & Pillé had extensive experience, having built Briare Canal Bridge, Mirabeau Bridge, Bordeaux-Saint-Jean Station, and the Grand Palais in Paris.",
+          "On September 12, 1898, the foundation stone was laid. The most difficult task was building piers at depths of 30 meters, achieved using compressed air techniques invented by engineer Jacques Triger. Archival documents and illustrations depict the entire process, from sinking compressed-air caissons, regulating pressure, soil excavation, to pouring concrete. Construction was carried out within seven months each year, pausing during flood season."
+        ]
+      },
+      {
+        "title": "Witness of History",
+        "image": "LongBienBridge2",
+        "content": [
+          "For 120 years, Long Bien Bridge has been a witness to many historical events in Hanoi. In 1902, Emperor Thanh Thai and the new Governor-General boarded a train from Hanoi station to officially inaugurate the bridge. Over the years, the bridge underwent several repairs and expansions, including widening the two sidewalks from 1.3m to 2.2m to accommodate more traffic and pedestrians.",
+          "In 1945, Dr. Tran Van Lai, the first Vietnamese Mayor of Hanoi, renamed the bridge from Doumer Bridge to Long Bien Bridge. In 1946–1947, both French and Vietnamese troops guarded the bridge. In 1954, the bridge witnessed history once again when French troops withdrew to Hai Phong via the bridge while Vietnamese soldiers took over after the Liberation of Hanoi on October 10.",
+          "During the resistance war against the US, Long Bien Bridge endured fierce battles and heavy bombings, which repeatedly destroyed parts of the bridge.",
+          "In 1972, during the 12-day US bombing campaign, the bridge was heavily damaged. The crossing of large military vehicles also contributed to its deterioration, requiring multiple repairs. Rare photographs show the collapsed spans after bombings, alongside documents and images of reconstruction efforts.",
+          "Alongside these historical stories, community memories of Long Bien Bridge have also been preserved, including photographs by five photographers, paintings by artist Tran Anh Tuan, and a bamboo model of the bridge donated to the National Archives Center I.",
+          "Today, Long Bien Bridge remains a symbol of Hanoi’s wartime resilience. Exhibitions and stories about the bridge help younger generations understand not only its historic role but also a vital part of Hanoi’s past."
+        ]
+      }
+    ]
+  },
+  "Ho Chi Minh Museum": {
+    "name": "Ho Chi Minh Museum",
+    "introduction": "Ho Chi Minh Museum is one of the largest cultural projects in Vietnam, inaugurated in 1990 to celebrate the 100th birthday of President Ho Chi Minh. The museum displays tens of thousands of valuable artifacts and documents about his life, revolutionary career, and ideology. Visiting the museum gives visitors an opportunity to learn more deeply about this great leader as well as Vietnam's struggle for independence.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9260209792596!2d105.83008817515338!3d21.035645887542305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba02e1deb6f%3A0x949d893f040b49d1!2zQuG6o28gdMOgbmcgSOG7kyBDaMOtIE1pbmg!5e0!3m2!1svi!2s!4v1759475330555!5m2!1svi!2s",
+    "image": "HoChiMinhMuseum",
+    "location": "Located at No.19 Ngoc Ha, Ba Dinh District, Hanoi, near Ho Chi Minh Mausoleum, this museum is an essential stop for any Hanoi itinerary. Construction started in 1985, and the museum officially opened on May 19, 1990, to commemorate the 100th anniversary of President Ho Chi Minh's birth.",
+    "description": [
+      {
+        "title": "Opening Hours",
+        "content": [
+          "Tuesday, Wednesday, Thursday, Saturday, Sunday: 8:00 AM - 12:00 PM | 2:00 PM - 4:30 PM. The museum charges an entrance fee for foreign visitors: 40,000 VND/person. There is a 50% discount for students and children under 14. Admission is free for Vietnamese veterans, people with disabilities, and members of the International Council of Museums (ICOM)."
+        ]
+      },
+      {
+        "title": "Construction Period",
+        "image": "HoChiMinhMuseum1",
+        "content": [
+          "Ho Chi Minh Museum construction began on August 31, 1985, and was completed to coincide with the 100th anniversary of Ho Chi Minh's birth on May 19, 1990. The Soviet people contributed significantly to the design and construction. The museum has three floors and impresses visitors with its unique architecture and a vast collection of artifacts."
+        ]
+      },
+      {
+        "title": "Museum Architecture",
+        "image": "HoChiMinhMuseum2",
+        "content": [
+          "Floor 1 – displays the biography of Ho Chi Minh: Visitors enter the main hall to see an impressive bronze portrait of President Ho Chi Minh. The exhibition continues with images, documents, and artifacts depicting his life and major milestones in the revolutionary movement and nation-building according to his will. The exhibits are organized into nine main themes:",
+          "Theme 1: Artifacts and images depicting Ho Chi Minh's childhood and youth in Nghe An from 1890–1910. Theme 2: Exhibits on his challenging journey abroad from 1911–1920 to find a way to save the nation. During this period, he worked, studied, and researched revolutionary methods. Theme 3: Images and documents about Ho Chi Minh’s activities in France. Theme 4: Materials on the formation of Ho Chi Minh’s ideology and his practical activities leading to the establishment of the Communist Party of Vietnam. Theme 5: Artifacts from the period of party formation and independence struggle, including documents from his imprisonment in Hong Kong and Guangxi. Theme 6: Items illustrating Ho Chi Minh’s life during the 9-year resistance in the Northwest forests from 1945–1954 to protect the new government. Theme 7: Exhibits on his diplomatic activities and nation-building efforts in the North and the struggle for independence in the South. Theme 8: Documents about his final years and passing in 1969. Theme 9: Summarizes his activities and legacy left for the nation."
+        ]
+      },
+      {
+        "image": "HoChiMinhMuseum3",
+        "content": [
+          "Floor 2 – recreates the glorious victories led by Ho Chi Minh: The themes from Floor 1 are expanded to provide a deeper understanding of the independence struggle and victories under his leadership. Artifacts and documents depict Vietnam and the world at that time, as well as the significance of the Russian October Revolution and Vietnam's role in the global revolutionary movement. The remaining space on the second floor displays exhibits about Vietnam during the renovation period."
+        ]
+      },
+      {
+        "content": [
+          "Floor 3 – highlights important historical milestones in Ho Chi Minh's life: The third floor presents exhibits on regional and world historical events that greatly influenced the young Nguyen Tat Thanh on his path to becoming the revered national leader."
+        ]
+      },
+      {
+        "title": "Visitor Guidelines",
+        "content": [
+          "As a solemn museum of great historical significance, visitors must strictly follow the rules:",
+          "Dress respectfully and neatly, do not wear hats, follow guided routes, avoid pushing, and give way to elderly or disabled visitors.",
+          "Do not bring drugs, flammable materials, weapons, hazardous substances, or pollutants into the museum.",
+          "Place luggage, backpacks, and bags in designated areas.",
+          "Maintain cleanliness, do not smoke or eat, and avoid making noise.",
+          "Do not touch images, documents, artifacts, or equipment in the museum.",
+          "Children under 10 must be accompanied by adults or organized groups.",
+          "Contact the museum management for filming or photography requests."
+        ]
+      }
+    ]
+  },
+  "Ho Chi Minh Stilt House": {
+    "name": "Ho Chi Minh Stilt House",
+    "introduction": "Ho Chi Minh Stilt House, located within the Presidential Palace complex, was built in 1958 and served as the residence and working place of President Ho Chi Minh for the last 11 years of his life. This simple wooden house, surrounded by gardens and a serene fish pond, reflects his modest lifestyle and closeness to nature. Visiting the house allows tourists to learn about his daily life and deeply appreciate the ethical example and simple lifestyle of this revered leader.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.8630960645824!2d105.83059557515342!3d21.03816318745575!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba6cb40909b%3A0x15d0fe7c07f55c3b!2zTmjDoCBzw6BuIELDoWMgSOG7kw!5e0!3m2!1svi!2s!4v1759475373642!5m2!1svi!2s",
+    "image": "StiltHouse",
+    "location": "Ho Chi Minh Stilt House is located within the Presidential Palace Historical Site, in Ngoc Ha Ward, Ba Dinh District, Hanoi.",
+    "description": [
+      {
+        "image": "StiltHouse2",
+        "content": [
+          "In addition to Ho Chi Minh’s stilt house in Nghe An, the stilt house in Hanoi is also a popular tourist attraction. With great historical and cultural value, it has become one of the most famous destinations in Hanoi.",
+          "Ho Chi Minh Stilt House was inaugurated on May 17, 1958, to celebrate the 68th birthday of President Ho Chi Minh. Hidden beneath the lush trees behind the Presidential Palace garden, the house is surrounded by green hibiscus fences and a welcoming gate made of interwoven branches. Located in the midst of a green garden, the house stands as a clear symbol of his simple lifestyle.",
+          "This is where President Ho Chi Minh lived and worked the longest during his revolutionary activities. It was also a place to welcome state leaders, official delegations, and millions of Vietnamese visitors from across the country.",
+          "Getting there: The house is near Ho Chi Minh Mausoleum and can be easily reached by personal or public transport. If traveling by personal vehicle, visitors can take various routes. After arriving at the Mausoleum, park at No.19 Ngoc Ha Street, near the entrance of Ho Chi Minh Museum, or on Ong Ich Khiem Street opposite the Ministry of Defense. If using public buses, take routes 09, 18, 22, 33, 45, or 50; all stop at No.18A Le Hong Phong Street."
+        ]
+      },
+      {
+        "title": "Opening Hours",
+        "content": [
+          "Summer (April 1 - October 31): Morning: 7:30 AM - 11:00 AM | Afternoon: 1:30 PM - 4:00 PM",
+          "Winter (November 1 - March 31): Morning: 8:00 AM - 11:00 AM | Afternoon: 1:30 PM - 4:00 PM"
+        ]
+      },
+      {
+        "title": "Ho Chi Minh Stilt House",
+        "image": "StiltHouse1",
+        "content": [
+          "Visitors can admire the unique architecture of Ho Chi Minh Stilt House, designed in the traditional stilt house style of ethnic minorities. The house is 10.5 meters long and 6.2 meters wide, with two floors. The ground floor served as Ho Chi Minh’s workspace in summer, the Politburo meeting room, and a reception area for close guests. The upper floor has two rooms, each about 10m², used for rest and work.",
+          "The house is made of sturdy wood with a tiled roof and surrounding blinds, creating a cozy, familiar feeling. Visiting the house, tourists can learn more about Ho Chi Minh’s simple lifestyle, reflected in everyday items such as his bed, desk, chairs, bookshelves, and typewriter. Guides can provide detailed explanations about the house, giving further insight into his daily life.",
+          "Besides exploring the architecture, visitors can relax and enjoy the spacious 'Ho Chi Minh Fish Pond,' where he rested and fed the fish after work."
+        ]
+      },
+      {
+        "title": "Visitor Guidelines",
+        "content": [
+          "Dress respectfully and properly; avoid wearing overly short clothing.",
+          "Walk quietly, speak softly, line up properly, and avoid making noise.",
+          "Follow the museum’s luggage deposit regulations.",
+          "Do not bring electronic devices, valuable jewelry, food, or metal objects.",
+          "No photography or filming in restricted areas.",
+          "Children under 3 years old are not allowed inside."
+        ]
+      }
+    ]
+  },
+  "Vietnam Museum of Ethnology": {
+    "name": "Vietnam Museum of Ethnology",
+    "introduction": "The Vietnam Museum of Ethnology preserves and displays over 15,000 artifacts, images, and documentary films about the 54 ethnic groups across the country. With both indoor and outdoor exhibition spaces, visitors can admire traditional costumes, musical instruments, household items, and authentically reconstructed ethnic houses. It is an ideal destination to explore the culture, customs, and rich diversity of Vietnam’s ethnic communities.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.808496822009!2d105.7961604751534!3d21.040347187380686!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab394353b821%3A0x47c950bb0f081a1c!2zQuG6o28gdMOgbmcgRMOibiB04buZYyBo4buNYyBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759474766377!5m2!1svi!2s",
+    "image": "VietnamMuseumOfEthnology",
+    "location": "Located on Nguyen Van Huyen Street, Hanoi, the Vietnam Museum of Ethnology is one of the city's most famous museums, conveniently situated about 8 km from the city center in Cau Giay District.",
+    "description": [
+      {
+        "title": "History",
+        "content": [
+          "The Vietnam Museum of Ethnology began construction in 1981 with an initial area of 3.27 hectares. Later, an additional hectare was added, expanding the total area to 4.4 hectares. The museum is considered a miniature world, showcasing the history and culture of 54 Vietnamese ethnic groups through a wide range of exhibits including clothing, jewelry, weapons, musical instruments, and more.",
+          "The museum is an ideal destination for students, cultural enthusiasts, and tourists. It provides authentic knowledge about customs, daily life, and characteristics of each ethnic group. Additionally, the museum organizes various educational activities highly appreciated by visitors."
+        ],
+        "image": "VietnamMuseumOfEthnology1"
+      },
+      {
+        "title": "Opening Hours",
+        "content": [
+          "Open daily from 8:30 AM to 5:30 PM.",
+          "Closed on Mondays and during Tet (Lunar New Year)."
+        ]
+      },
+      {
+        "title": "Entrance Fees",
+        "content": [
+          "Visitors: 40,000 VND/person",
+          "Students: 15,000 VND/person",
+          "Schoolchildren: 10,000 VND/person",
+          "Senior citizens / People with disabilities / Ethnic minorities: 50% discount",
+          "Children under 6 / Severely disabled / ICOM members / Journalists / Sponsors: Free",
+          "Additional services: Indoor & outdoor guided tours in Vietnamese: 50,000 VND; Indoor guided tours in English or French: 100,000 VND"
+        ]
+      },
+      {
+        "title": "Museum Layout",
+        "content": [
+          "The museum is divided into three main areas, both outdoors and indoors, for visitors to explore:",
+          "Architectural Garden: This 2-hectare outdoor area displays authentic houses of ethnic groups from the Central Highlands and Northern Mountains. Visitors can explore 10 reconstructed models including Rong houses, stilt houses, tiled houses, etc. Every detail, from entrances, wells, to stairs, is meticulously reproduced, creating a lively space reflecting the unique characteristics of each ethnic group."
+        ],
+        "image": "VietnamMuseumOfEthnology2"
+      },
+      {
+        "content": [
+          "Dong Son Drum Exhibition: Visitors can learn about traditional religious rituals, admire traditional costumes, old labor tools, and household items. With over 15,000 artifacts and more than 42,000 films and audio recordings, this exhibition is a crucial part of the museum, showcasing the unique culture of Vietnam's 54 ethnic groups."
+        ],
+        "image": "VietnamMuseumOfEthnology3"
+      },
+      {
+        "content": [
+          "Kite Exhibition: Visitors can discover interesting customs and daily life of people in Southeast Asian countries. This area also hosts educational activities, film screenings, and cultural exchanges about Vietnam’s ethnic groups and those of ASEAN countries."
+        ],
+        "image": "VietnamMuseumOfEthnology4"
+      },
+      {
+        "content": [
+          "The museum offers traditional folk games such as: throwing balls, swinging, walking on suspended bridges, and balance games. These unique experiences are a must-try for visitors."
+        ],
+        "image": "VietnamMuseumOfEthnology5"
+      },
+      {
+        "content": [
+          "Visitors can also enjoy folk art performances such as:",
+          "Water Puppetry: This performance reflects daily life and stories of ethnic groups through lively water puppets. Ticket price: 90,000 VND/adult, 70,000 VND/child. Morning shows are free.",
+          "Quan Ho Folk Singing from Bac Ninh: Visitors can enjoy Quan Ho folk singing performances and interact with artists. Those confident in singing can participate and perform during the shows."
+        ],
+        "image": "VietnamMuseumOfEthnology6"
+      },
+      {
+        "title": "Visitor Guidelines",
+        "content": [
+          "Avoid visiting with large groups to ensure a quality experience.",
+          "Guided tours are available in Vietnamese, English, and French. You can request on-site, purchase tickets at the entrance, or register in advance.",
+          "Do not bring weapons, flammable, explosive, or toxic materials.",
+          "Carry money and valuable items with you.",
+          "Maintain cleanliness and avoid causing noise.",
+          "Do not bring food or beverages inside the museum.",
+          "Do not touch, move, or sit on exhibits.",
+          "No pets allowed inside the museum."
+        ]
+      }
+    ]
+  },
+  "Vietnam National Museum of History": {
+    "name": "Vietnam National Museum of History",
+    "introduction": "Located in the heart of Hanoi, the Vietnam National Museum of History preserves and exhibits tens of thousands of valuable artifacts reflecting Vietnam’s history from prehistoric times to the modern era. With unique French colonial architecture combined with scientific displays, the museum offers visitors a journey through ancient cultures, feudal dynasties, revolutionary movements, and the nation’s historical heritage. It is a must-visit for anyone seeking an in-depth understanding of Vietnam's history.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.204311178126!2d105.8567948751531!3d21.024509487924828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abe9661234d7%3A0x7d497bffb5ce2892!2zQuG6o28gdMOgbmcgTOG7i2NoIHPhu60gUXXhu5FjIGdpYQ!5e0!3m2!1svi!2s!4v1759475412261!5m2!1svi!2s",
+    "location": "No. 1 Trang Tien, Cua Nam, Hanoi || No. 216 Tran Quang Khai, Hoan Kiem, Hanoi",
+    "image": "VietnamNationalMuseumOfHistory",
+    "description": [
+      {
+        "title": "Opening Hours",
+        "content": [
+          "Morning: 8:00 AM to 12:00 PM",
+          "Afternoon: 1:30 PM to 5:00 PM",
+          "(Open every day of the week except the first Monday of each month)"
+        ]
+      },
+      {
+        "title": "Entrance Fees",
+        "content": [
+          "Adults: 40,000 VND/person",
+          "University, college, vocational students: 20,000 VND/person",
+          "Schoolchildren: 10,000 VND/person",
+          "Free admission for children under 6 and severely disabled persons according to current regulations",
+          "Discounts: 50% off for eligible groups, senior citizens, and severely disabled persons according to current regulations"
+        ]
+      },
+      {
+        "title": "Other Fees",
+        "content": [
+          "Photography: 15,000 VND/camera",
+          "Filming: 30,000 VND/camera"
+        ]
+      },
+      {
+        "title": "History",
+        "image": "VietnamNationalMuseumOfHistory1",
+        "content": [
+          "The Vietnam National Museum of History was established by merging the Vietnam History Museum and the Vietnamese Revolutionary Museum. It is located in central Hanoi near many sacred historical sites such as Turtle Tower - Hoan Kiem Lake; The Huc Bridge - Ngoc Son Temple - Pen Tower, etc. The museum showcases Vietnam's history from prehistoric times to the present through an extensive collection of documents, artifacts, and images, including many National Treasures. The Trang Tien site displays Vietnam's history up to the end of the Nguyen Dynasty in 1945, while the Tran Quang Khai site exhibits history from the mid-19th century to today."
+        ]
+      },
+      {
+        "content": [
+          "The museum currently preserves and displays over 200,000 artifacts and documents about Vietnam's history and culture. From prehistory to 1945, nearly 110,000 items are preserved, including relics, antiques, and 20 National Treasures.",
+          "The rare collections include cultures from the Paleolithic, Bronze Age, Early Iron Age, Dong Son Culture, ancient Vietnamese ceramics, Le-Nguyen period bronzes, Cham stone sculpture, and decorative arts from China, Japan, India, and Southeast Asia.",
+          "From the mid-19th century to the present, the museum holds about 80,000 artifacts and documents on Vietnam's revolutionary history, the Communist Party of Vietnam, Ho Chi Minh, and other Party leaders.",
+          "The museum is a member of the International Council of Museums (ICOM) and a founding member of the Asian National Museums Association (ANMA). It regularly exchanges experience and cooperates with nearly 30 museums regionally and internationally. In 2013, it hosted the 4th ANMA Conference in Hanoi.",
+          "Visiting the Vietnam National Museum of History offers a deep insight into the country’s long-standing cultural heritage and instills pride in the resilient spirit of past generations in building and protecting the nation."
+        ],
+        "image": "VietnamNationalMuseumOfHistory2"
+      },
+      {
+        "content": [
+          "Prehistoric Period in Vietnam: Exhibits show human traces across mountainous, midland, lowland, and coastal areas. These include hominid teeth, tools, and fossilized animal remains. The Neolithic era shows new developments in polished stone tools, pottery, and early agriculture.",
+          "Nation-building Period: Early Vietnamese mastered bronze smelting, ironworking, and the production of tools, jewelry, and weapons. By the middle of the 1st millennium BCE, three major cultural centers appeared in Vietnam, forming the foundation for ancient states: Dong Son Culture (Van Lang and Au Lac), Dong Nai and Oc Eo Culture (Funan Kingdom), and Sa Huynh Culture (Champa Kingdom).",
+          "Post-Christ Era (1st-10th century): In 111 BCE, Vietnam was under Northern dynasties’ rule. In 938, Ngo Quyen’s victory at Bach Dang River ended 1,000 years of Northern domination, inaugurating an era of independence under the Ngo, Dinh, Early Le (939-1009), Ly-Tran (1009-1400), Ho (1400-1407), Le-Mac (1428-1788), Tay Son (1778-1802), and Nguyen (1802-1945) dynasties."
+        ],
+        "image": "VietnamNationalMuseumOfHistory3"
+      },
+      {
+        "content": [
+          "The Tran Quang Khai site preserves artifacts and historical documents from mid-19th century Vietnam. Originally the Indochina Department of Commerce, it was converted into a museum in 1954. Exhibits include:",
+          "Struggle for national independence (1858-1945)",
+          "30-year resistance against foreign invaders (1945-1975)",
+          "Nation-building from 1976 to the present"
+        ],
+        "image": "VietnamNationalMuseumOfHistory4"
+      },
+      {
+        "content": [
+          "The museum showcases unique French romantic architecture. The façade is designed to create a large exhibition space with an octagonal main hall, each side measuring 11 meters. The rectangular rear hall extends through rooms with careful planning.",
+          "The ground floor houses exhibition spaces, storage, warehouses, and administrative offices. It is designed with moisture control to keep exhibits dry in Hanoi’s humid weather. The building features a multi-tiered octagonal roof with three layers of varying slopes. The lower roof is wider, providing shade and rain protection, supported by double columns and stylized bracket systems, reflecting strong East Asian aesthetics."
+        ],
+        "image": "VietnamNationalMuseumOfHistory5"
+      },
+      {
+        "content": [
+          "Participate in educational programs at the museum: Visitors can admire invaluable artifacts from prehistoric times to the present. Interactive activities in the Discovery Room include trying on traditional costumes, making handicrafts, and playing folk games. Children can join special educational programs such as the Young History Club and History Lessons, offering a lively and engaging way to learn about history."
+        ],
+        "image": "VietnamNationalMuseumOfHistory6"
+      }
+    ]
+  },
+  "Vietnam Women’s Museum": {
+    "name": "Vietnam Women’s Museum",
+    "introduction": "The Vietnam Women’s Museum is a unique destination in Hanoi, exhibiting over 40,000 artifacts about the roles, lives, and contributions of women in family, society, and national history. Covering themes such as women in the family, women in war, traditional and modern fashion, the museum offers an insightful and emotional perspective on Vietnamese women through the ages. It is a culturally rich and inspiring place for both domestic and international visitors.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.204311178126!2d105.8567948751531!3d21.024509487924828!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab0015696227%3A0x3826297573752daa!2zQuG6o28gdMOgbmcgUGjhu6UgbuG7ryBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1759475441712!5m2!1svi!2s",
+    "location": "36 Ly Thuong Kiet, Cua Nam Ward, Hanoi. (Vietnam Women’s Museum is located in a prime central area, making it one of Hanoi’s most visited attractions. It is on Ly Thuong Kiet Street, about a 10-minute walk from Hoan Kiem Lake.)",
+    "image": "VietnameseWomenMuseum",
+    "description": [
+      {
+        "title": "History",
+        "content": [
+          "The Vietnam Women’s Museum was established in 1987 and officially inaugurated in 1995, under the Vietnam Women’s Union. Since opening, the museum has successfully organized many exhibitions to showcase domestic and international visitors collections of historical and cultural significance related to Vietnamese women."
+        ]
+      },
+      {
+        "title": "Opening Hours",
+        "content": [
+          "08:00 – 17:00 from Monday to Sunday",
+          "The museum welcomes visitors every day of the week, from 8 AM to 5 PM."
+        ]
+      },
+      {
+        "title": "Admission Fees",
+        "content": [
+          "Adults: 40,000 VND/person",
+          "Students: 20,000 VND/person",
+          "Children under 10: free",
+          "The above fees are for reference only. Ticket prices may vary depending on the period or accompanying services/events."
+        ]
+      },
+      {
+        "content": [
+          "The permanent exhibition spans the 2nd, 3rd, and 4th floors, featuring over 1,000 documents, artifacts, and images with three main themes: Women in Family, Women in History, and Women’s Fashion.",
+          "Women in Family: Located on the 2nd floor, this theme highlights the image of Vietnamese women as wives and mothers, also showcasing rituals, customs, and traditions related to marriage, childbirth, and family life.",
+          "Women in History: Located on the 3rd floor, this theme presents the roles and contributions of Vietnamese women with qualities such as kindness, resilience, strength, and capability, demonstrated during historical resistance movements and modern nation-building."
+        ],
+        "image": "VietnameseWomenMuseum2"
+      },
+      {
+        "content": [
+          "Women’s Fashion: Located on the 4th floor, this exhibition showcases clothing, jewelry, makeup, and other items from women of Vietnam’s 54 ethnic groups, reflecting the cultural characteristics of each region."
+        ],
+        "image": "VietnameseWomenMuseum1"
+      },
+      {
+        "content": [
+          "After research, the museum presents exhibitions on various topics related to history, culture, social issues, and gender equality, providing visitors with diverse perspectives on Vietnamese women.",
+          "Mother Worship Faith: The exhibition “Mother Worship: Mind – Beauty – Joy” conveys the local cultural values of the mother worship faith – a spiritual cultural activity related to women.",
+          "Contemporary Art Space: Located on the 5th floor, this area allows young artists to freely express their creativity in culture and art.",
+          "Entrepreneurship Journey: This exhibition features 15 exemplary Vietnamese women who have strived to overcome challenges and achieve initial success in fields such as child education, vocational training, healthcare for people with disabilities, community tourism, and clean food production."
+        ],
+        "image": "VietnameseWomenMuseum3"
+      },
+      {
+        "content": [
+          "The Vietnam Women’s Museum also conducts online exhibitions on its website, allowing visitors and the public to follow past events and displays. Some current online exhibitions include:",
+          "Livable Countryside",
+          "Peace After the Storm",
+          "Aspiring to Shine",
+          "Where I Live",
+          "Protecting the Borders",
+          "Female General in Scarf"
+        ]
+      },
+      {
+        "content": [
+          "Currently, the Vietnam Women’s Museum preserves nearly 30,000 documents and artifacts covering various themes related to Vietnamese women throughout the nation’s history.",
+          "To provide the most accurate and comprehensive view of these artifacts, the museum carefully researches, selects, and arranges them by themes for each collection."
+        ],
+        "image": "VietnameseWomenMuseum4"
+      },
+      {
+        "title": "Services at the Vietnam Women’s Museum",
+        "content": [
+          "Audio Guide – automated narration in Vietnamese, English, French, Japanese, Korean.",
+          "Special guided tours for international visitors.",
+          "Extracurricular activities for children.",
+          "Tour guide services for groups.",
+          "Souvenir shop and café.",
+          "Conference and seminar facilities.",
+          "Free amenities: Wi-Fi, lockers, wheelchair access, elevators, etc."
+        ]
+      }
+    ]
+  },
+  "Giong Temple": {
+    "name": "Giong Temple",
+    "introduction": "Giong Temple in Soc Son, Hanoi, is a complex of relics associated with the legend of Saint Giong – the hero who defeated the An invaders. The complex includes many structures such as the Upper Temple, Lower Temple, Mother Temple, and Kien So Pagoda, carrying both historical value and spiritual significance. Every year, the Giong Festival is celebrated grandly, attracting numerous visitors who come to honor Saint Giong and explore the beauty of traditional Vietnamese culture.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119149.94397837254!2d105.73732702911167!3d21.055251515617925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a8707f85a527%3A0xcad75e483eb36f9c!2zxJDDqsyAbiBHacOzbmcgUGjDuSDEkOG7lW5n!5e0!3m2!1svi!2s!4v1759475525997!5m2!1svi!2s",
+    "location": "Giong Temple in Soc Son, Hanoi, is located at Soc Mountain, Ve Linh Commune, Soc Son District. This sacred temple attracts many visitors and is only about 30 km from Hanoi, easily accessible by bus or private vehicle.",
+    "image": "GiongTemple",
+    "description": [
+      {
+        "content": [
+          "Giong Temple is a famous historical relic complex with many temples, including Trinh Temple, Non Nuoc Pagoda, Mother Temple, Dai Bi Pagoda, Upper Temple, Chồng Stone, Saint Giong Monument, and stele houses. Notably, there is a pure bronze statue of Saint Giong with great value. Soc Son Giong Temple Complex was recognized as a National Historical Monument in 1962.",
+          "The temple is known for the tradition of Saint Giong driving away the An invaders to reclaim freedom for the country. Saint Giong symbolizes indomitable courage and the determination to fight for peace.",
+          "According to legend, Soc Son Temple was originally a small shrine for worshiping Dong Thien Vuong. When King Le Hoan fought the Song invaders, he held a ceremony to pray for Saint Giong’s protection.",
+          "The history of Giong Temple is closely linked with the development of Vietnamese folk religion across many dynasties. Though the legend of Saint Giong dates back to the Hung Kings, the temple's architecture was officially constructed on a large scale during the reign of Ly Thai Tong (1028-1054)."
+        ],
+        "image": "GiongTemple1"
+      },
+      {
+        "title": "Timeline of Giong Temple's Development",
+        "content": [
+          "Ly Dynasty (1010-1225): King Ly Thai Tong built the first temple in Soc Son and honored Saint Giong as 'Phu Dong Thien Vuong'.",
+          "Tran Dynasty (1225-1400): Expanded the temple complex, added architectural features and altars.",
+          "Le Dynasty (1428-1788): Multiple renovations with larger scale, especially under King Le Thanh Tong.",
+          "Nguyen Dynasty (1802-1945): Continued restoration and upgrades; notably in 1823 under Emperor Minh Mang.",
+          "Modern Era (1954-present): Major restorations in 1978, 1994, 2004, and a comprehensive conservation project in 2018-2020 with a budget of 28.5 billion VND.",
+          "According to the Institute of Cultural Heritage Research (2019), the Giong Temple Complex has undergone at least 14 major restorations, each leaving unique architectural and artistic marks. Despite severe damage during wars, particularly against the French and American invasions, the temple has been preserved relatively intact. In 2010, when UNESCO recognized the Giong Festival as an Intangible Cultural Heritage of Humanity, the complex received stricter preservation measures to maintain its original landscape and architecture."
+        ],
+        "image": "GiongTemple2"
+      },
+      {
+        "content": [
+          "Soc Son Giong Temple is one of the most popular tourist destinations near Hanoi. The complex includes several smaller temples such as:",
+          "Trinh Temple: Also known as the Lower Temple, this is the first stop in the Soc Son Giong complex. It worships the deities of Soc Mountain and was built in the 10th century, in 980. The Lower Temple has a Dinh-shaped architecture with a front hall and rear hall, including 5 rooms with 1 altar, 3 stone steles, and ceremonial implements.",
+          "Mother Temple: Located opposite Dai Bi Pagoda, this temple is dedicated to Saint Giong's mother. Despite its small size, it features intricate architectural design and craftsmanship, including a clear water well.",
+          "Dai Bi Pagoda: After visiting the Lower Temple, follow the red tiles to Dai Bi Pagoda. It is a Buddhist temple with unique design, decorated with gilded couplets and plaques, and preserves steles praising Buddhism. It was also the site of Ngô Chân Lưu's practice (933-1011), contributing to its solemn and distinctive atmosphere.",
+          "Upper Temple: The Upper Temple venerates Saint Giong and other deities. Visitors can see dragon-headed horse statues at the entrance, symbolizing Saint Giong’s horse and the descendant dragons. Inside, there is a large ceremonial hall with colorful canopies and ornaments."
+        ],
+        "image": "GiongTemple3"
+      },
+      {
+        "content": [
+          "At Giong Temple, you can admire the 15m tall, 85-ton solid bronze statue of Phu Dong Thien Vuong, 16m in length, located at 302m above sea level. The statue depicts Saint Giong holding a bamboo rod, urging his horse to charge to the sky.",
+          "The statue was crafted by renowned sculptor Nguyen Kim Xuan from the Hanoi Fine Arts Association. It is located within the Soc Temple – Non Pagoda complex and became a key cultural work in 2010 during the 1000th anniversary of Thang Long – Hanoi."
+        ],
+        "image": "GiongTemple4"
+      },
+      {
+        "content": [
+          "Non Nuoc Pagoda, within the Soc Temple complex, has a main hall area of 260m² and a height of 14m. It contains 80 primary wooden pillars, 35cm in diameter and 14m in length. Construction used 30 tons of bronze for Buddha statues, 600m³ of lim wood, and 30m³ of green stone.",
+          "When visiting Non Nuoc Pagoda, you can experience its sacred and solemn space. Situated at 110m above sea level and near the Saint Giong statue, it houses a 30-ton Buddha statue, over 8m tall, making it a must-see spot in the Soc Son Giong Temple complex."
+        ],
+        "image": "GiongTemple5"
+      },
+      {
+        "content": [
+          "If you wonder 'What to do in Soc Son?', consider the Giong Festival. It is held annually from the 6th to 8th day of the first lunar month to honor the legendary hero Saint Giong. In 2010, the festival was recognized by UNESCO as an Intangible Cultural Heritage of Humanity.",
+          "During the festival, visitors can watch rituals such as offerings, ceremonial elephants, betel and areca, elephant grass, incense processions, general palanquins, and other traditional performances. You can also enjoy folk games like duck catching, pot breaking, traditional singing, martial arts, and combined dance performances."
+        ],
+        "image": "GiongTemple6"
+      },
+      {
+        "title": "Tips for Visiting Soc Son Giong Temple",
+        "content": [
+          "You can visit Giong Temple at any time as it is close to Hanoi. However, since the complex is extensive, choose cooler and fresher hours to avoid exhaustion during your visit.",
+          "If you want to experience the festival, plan your visit from the 6th to 8th day of the first lunar month, when visitors come for worship, sightseeing, and activities."
+        ]
+      },
+      {
+        "title": "Legend of Saint Giong and Cultural Significance",
+        "content": [
+          "The legend of Saint Giong is one of the oldest and most beloved stories in Vietnamese culture. According to the legend, during the 6th Hung King era, a 3-year-old boy in Phu Dong village could neither speak nor walk, living with his elderly mother. When the An invaders (from the north) attacked, the king sent envoys to find someone to help the country. The boy suddenly spoke, requesting an iron horse, iron rod, and iron helmet from the king.",
+          "Once equipped, he grew into a giant, rode the iron horse into battle, and defeated the An invaders. After the victory, Saint Giong flew to the sky from Soc Mountain (now Soc Son District). The king honored him as 'Phu Dong Thien Vuong' and built temples at his birthplace and the site of his ascension.",
+          "The legend carries deep cultural meanings: National strength: the 3-year-old boy turning into a giant symbolizes the latent strength of Vietnam against invaders. Patriotism: Saint Giong's courage embodies deep love for the country. Desire for freedom: flying to heaven represents the aspiration for liberty and resistance against oppression. Unity: the whole village helping Giong grow reflects community solidarity. In Vietnamese consciousness, Saint Giong represents indomitable spirit, inspiring generations. His story is included in literature, arts, and even school curricula as a lesson on patriotism and self-reliance."
+        ],
+        "image": "GiongTemple7"
+      }
+    ]
+  },
+  "Thay Pagoda": {
+    "name": "Thay Pagoda",
+    "introduction": "Thay Pagoda, located at the foot of Sai Son Mountain (Quoc Oai District, Hanoi), is an ancient temple associated with Zen master Tu Dao Hanh – a famous monk of the Ly Dynasty. The temple complex includes the Lower Pagoda, Middle Pagoda, Upper Pagoda, and a unique water pavilion on Long Chieu Lake, where traditional water puppet performances are held. Visiting Thay Pagoda, tourists can admire ancient architecture, picturesque scenery, and explore the rich folk culture and spiritual life of the Vietnamese people.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.241447043721!2d105.64370757515306!3d21.023022987975807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134512bbe5baab7%3A0x6195ecacc2336c44!2zQ2jDuWEgVGjhuqd5!5e0!3m2!1svi!2s!4v1759475564176!5m2!1svi!2s",
+    "location": "Thay Pagoda, also called Chua Ca, is situated at the foot of Sai Son Mountain, about 25 km southwest of central Hanoi. The temple, officially named Thien Phuc Tu, is nestled against Phat Tich Mountain (Thay Mountain). It is a famous historical and cultural site with notable architecture from the 17th century. Thay Pagoda is one of Hanoi’s beautiful and sacred temples, attracting tourists and Buddhists for sightseeing, worship, and exploring its unique architecture.",
+    "image": "ChuaThay",
+    "description": [
+      {
+        "title": "How to Get to Thay Pagoda",
+        "content": [
+          "By private vehicle (car, motorbike): From central Hanoi, take the Thang Long Boulevard (CT08) to the Sai Son intersection, then turn right off the highway and go about 3 km following vehicle lane signs. Note: motorbikes are prohibited on the Thang Long Boulevard service road. From Big C – Tran Duy Hung intersection, travel about 15 km to reach the turnoff to Thay Pagoda. Parking fees: 10,000 VND for motorbikes and 30,000 VND for cars.",
+          "By bus: Take bus CNG 01 from My Dinh Bus Station to Son Tay Bus Station. This route stops right in front of Thay Pagoda, making it convenient for visitors."
+        ]
+      },
+      {
+        "title": "History of Thay Pagoda",
+        "content": [
+          "Thay Pagoda was built during the Ly Dynasty, associated with the life of Zen master Tu Dao Hanh. Initially, it was a small hermitage called Huong Hai Am. Later, King Ly Nhan Tong rebuilt it into two temple clusters: Lower Pagoda (Thien Phuc Tu) and Upper Pagoda (Dinh Son Tu).",
+          "In the early 17th century, Dinh Quan Cong and the royal family oversaw renovations, including the construction of Buddha halls, sacred halls, rear buildings, stele houses, and bell towers. In 1997, the Vietnam Post issued a stamp series 'Vietnam Scenic Spots' featuring Thay Pagoda. Today, it serves both as a place of worship and a tourist destination to explore architecture and history."
+        ]
+      },
+      {
+        "title": "Architecture of Thay Pagoda",
+        "content": [
+          "Visitors are immediately impressed by the majestic mountain scenery surrounding the temple. Thay Pagoda in Sai Son, Quoc Oai, follows Ly Dynasty architecture with a 'Tam' layout of three parallel pagodas built on elevated green stone foundations. The outer hall is for rituals and teachings (Lower Pagoda), the middle hall worships the Triple Gem (Middle Pagoda), and the inner hall houses the three reincarnations of Tu Dao Hanh with grand Upper Pagoda. Additional shrines and bell towers are placed along the path up the mountain.",
+          "Located at the foot of Sai Son Mountain, the temple faces south, with Long Dau Mountain on the left and Sai Son Mountain behind. A pond called Long Chieu (Dragon Pond) lies in front, forming the dragon's mouth. The three parallel halls (Lower, Middle, Upper) are connected by corridors forming a harmonious architectural structure.",
+          "Lower Pagoda: houses statues of Duc Ong and sages; corridors display statues of the Eight Vajra Guardians. Middle Pagoda: contains Buddha altar, Dharmapala statues, and heavenly kings. Upper Pagoda: houses Amitabha Buddha statues, three reincarnations of Tu Dao Hanh, and statues of his parents."
+        ],
+        "image": "ChuaThay1"
+      },
+      {
+        "content": [
+          "The temple features two side corridors, a rear bell tower, and a front square facing Long Chieu Lake, forming the dragon's mouth. Two bridges, Nhat Tien Bridge and Nguyet Tien Bridge, built in 1602, connect the front square to surrounding areas, forming the dragon's 'whiskers'. Nhat Tien Bridge leads to a small island with Tam Phu shrine, while Nguyet Tien Bridge leads up the mountain.",
+          "Up the mountain is the Upper Pagoda. Behind it is Phat Tich Cave, believed to be where Tu Dao Hanh left his body to reincarnate as King Ly Than Tong. Nearby are sacred caves like But Moc, Hang Bo, and Hang Gio, each with unique features formed by nature.",
+          "In front of the temple, the Water Pavilion rises like a lotus on the lake, adding to the scenic beauty. In March, ancient flame trees bloom red, signaling the festival season. Locals believe this combination of temple scenery and blooming flame trees brings good luck, offering a delightful experience for visitors."
+        ],
+        "image": "ChuaThay2"
+      },
+      {
+        "content": [
+          "Cac Co Cave is a natural cave often compared to a miniature Son Doong near Hanoi. The cave is both sacred and mysterious, with stunning natural features and spiritual significance.",
+          "Exploring the entire cave requires climbing through rugged, sharp rocks in deep darkness. Conquering the cave is a rewarding experience, offering breathtaking scenery and a sense of adventure."
+        ],
+        "image": "HangCacCo"
+      },
+      {
+        "title": "Thay Pagoda Festival",
+        "content": [
+          "The traditional festival is held from the 5th to 8th day of the 3rd lunar month, with the main day on the 7th. Similar to other major pagodas, the festival includes rituals and folk performances. The temple preserves main rituals such as Moc Duc, welcoming ancestral tablets, offering ceremonies, and processions.",
+          "During the festival, locals and tourists participate in activities like wrestling, water puppetry, mountain spring games, and other lively traditional games."
+        ],
+        "image": "ChuaThay3"
+      }
+    ]
+  },
+  "Ba Da Pagoda": {
+    "name": "Ba Da Pagoda",
+    "introduction": "Ba Da Pagoda, also called Linh Quang Tu, is located on Nha Tho Street, Hoan Kiem District, and is one of Hanoi’s ancient and famous pagodas. Built during the Le Dynasty, the temple is associated with the legend of a natural stone Buddha statue, which gave the pagoda its popular name “Ba Da Pagoda.” Today, it serves both as a religious site and a serene destination, attracting many tourists and Buddhists for worship and sightseeing.",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.0975487801456!2d105.84775287515316!3d21.028782487777995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab956d281f97%3A0xa4275008ea27b36b!2zQ2jDuWEgQsOgIMSQw6E!5e0!3m2!1svi!2s!4v1759475609171!5m2!1svi!2s",
+    "location": "Ba Da Pagoda (also known as Linh Quang Tu, Sung Khanh Tu) is an ancient temple located at No. 3 Nha Tho Street, Hang Trong, Hoan Kiem, Hanoi, just 100 meters from Hoan Kiem Lake.",
+    "image": "ChuaBaDa",
+    "description": [
+      {
+        "title": "Introduction to Ba Da Pagoda",
+        "content": [
+          "Ba Da Pagoda is one of the four famous 'Ba' pagodas in Hanoi, along with Ba Danh, Ba Nanh, and Ba Ngo Pagodas. Nestled in the heart of the Old Quarter, it is a destination for monks, nuns, and tourists attending ceremonies organized by the Hanoi Buddhist Association.",
+          "Originally, Ba Da Pagoda was the headquarters of the Lam Te sect, one of the two major Zen sects in Northern Vietnam. Today, it serves as the main office of the Hanoi Buddhist Association and hosts a Middle Buddhist School.",
+          "The pagoda was built in 1056 during the reign of King Ly Thanh Tong (1460–1497). During renovations of Thang Long, a natural stone statue of a woman was discovered in the area of Bao Thien Tu Thap Village (now Nha Tho area). Villagers built a shrine there, calling it Ba Da Temple. Later, the shrine was expanded into a large pagoda, housing the Buddha statue, and renamed Ba Da Pagoda, with the formal name Linh Quang Tu, meaning 'Pagoda of Sacred Light.' During the Tay Son attacks, the temple was damaged and fell into disrepair. According to historical records, it was restored in 1850 by monk Giac Vuong and further expanded.",
+          "During French colonial times, urban planning damaged the original stone statue. A replacement stone Buddha statue of Shakyamuni was brought in. Today, Ba Da Pagoda serves as the office of the Hanoi Buddhist Association, and the abbacy is held by the head of the executive committee instead of traditional Zen succession.",
+          "Notable abbots include: Venerable Thich Tam Tich (1915-2005), served 1981–2002, and Venerable Thich Thanh Chinh (1919-2009), served 2002–2008."
+        ],
+        "image": "ChuaBaDa1"
+      },
+      {
+        "content": [
+          "The pagoda features 5 halls arranged in a 'Nhat' layout, connected with incense halls to form a large Buddha hall. The Upper Hall has 4 rooms in a 'Dinh' style connected to the rear hall, forming a square, symmetrical structure. Two side corridors run along both sides, leading to the rear hall for ancestor and goddess worship.",
+          "In front of the Front Hall, there is an incense burner and a pair of stone lanterns between two ancient tomb towers, decorated with lotus patterns. The roof is supported by four intricately carved green stone columns.",
+          "Inside, there are many valuable statues, including a large wooden statue of Shakyamuni Buddha, flanked by Ananda and Kasyapa, with Amitabha Buddha seated behind, accompanied by Avalokiteshvara and Mahasthamaprapta Bodhisattvas. Despite aging, the statues maintain a serene and meditative appearance.",
+          "The pagoda has two bells dated 1823 and 1881, and a gong cast in 1842. On the right side of the courtyard is the office of Hanoi Middle Buddhist School. Four tomb towers stand symmetrically along the outer walls of the Upper Hall."
+        ],
+        "image": "ChuaBaDa2"
+      },
+      {
+        "content": [
+          "Ba Da Pagoda is a spiritual pilgrimage site for many devotees, especially during holidays and Buddhist festivals, attracting thousands of visitors for worship and sightseeing.",
+          "Visitors should prepare simple offerings with sincerity, such as flowers, fresh fruits, betel and areca, vegetarian dishes, or ceremonial cakes, to place on the Buddha altar.",
+          "Special offerings such as 'Oan Tai Loc' (jewel-like ceremonial items) are often chosen for their symbolic meaning, elegance, and durability, enhancing the solemnity of the ritual."
+        ],
+        "image": "ChuaBaDa3"
+      }
+    ]
+  },
+  "common": {
+    "address": "Address",
+    "activities": "Activities",
+    "Same category": "Same category",
+    "Travel itinerary": "Travel itinerarys",
+    "Date": "Date"
+  },
+  "Ancient City Tour": {
+    "name": "Ancient City Tour",
+    "image": "HoChiMinhMausoleum",
+    "type": "Visit Tour",
+    "policy": [
+      "Children from 1 - 4 years old: Free of charge (Parents take care of the child).",
+      "Two adults are allowed to accompany 1 child for free (For the second child under 4 years old, an additional 50% fee applies).",
+      "Children from 5 - 8 years old are charged 75% of the tour price (with a separate seat on the bus, separate meals, and entrance tickets).",
+      "Children aged 9 and above are charged 100% of the adult tour price."
+    ],
+    "notes": [
+      "Every Monday, Friday, and in the afternoon, Ho Chi Minh Mausoleum is closed for visits; however, the surrounding areas remain open for sightseeing.",
+      "Guests are advised to dress politely — wear long pants or skirts below the knees when visiting Tran Quoc Pagoda and Ho Chi Minh Mausoleum.",
+      "Guests with dietary restrictions, vegetarians, or those having flights on the same day should inform the staff in advance for suitable arrangements.",
+      "Please provide full personal information (full name, year of birth, gender, nationality) before departure for travel insurance registration.",
+      "Before leaving the bus, please check all personal belongings. The company will not be responsible for any lost or misplaced items."
+    ],
+    "price": {
+      "child": 2100000,
+      "default": 2800000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Entrance tickets, electric car tickets.",
+          "Personal drinks during meals, additional sightseeing beyond the itinerary.",
+          "Tips for tour guides, drivers, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum",
+          "OnePillarPagoda",
+          "HoanKiemLake1",
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:00",
+                "details": "Pick up guests at the hotel and depart for Ho Chi Minh Mausoleum."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Visit Ho Chi Minh Mausoleum and Ba Dinh Square — a significant historical and cultural landmark of Hanoi."
+              },
+              {
+                "start": "10:00",
+                "end": "10:15",
+                "details": "After visiting the Mausoleum and taking souvenir photos, the group returns to the bus to continue to the next destination."
+              },
+              {
+                "start": "10:15",
+                "end": "11:30",
+                "details": "Visit One Pillar Pagoda — an ancient pagoda in Hanoi, famous for its unique 'Lotus Blossom' architecture built on a single pillar. Guests can enjoy the scenery and take photos."
+              },
+              {
+                "start": "11:30",
+                "end": "12:00",
+                "details": "Return to the hotel for rest and lunch."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "14:30",
+                "details": "Pick up at the hotel and head to Hoan Kiem Lake."
+              },
+              {
+                "start": "14:30",
+                "end": "16:15",
+                "details": "Take a leisurely walk around Hoan Kiem Lake, enjoy the scenery, and take souvenir photos."
+              },
+              {
+                "start": "16:15",
+                "end": "17:00",
+                "details": "Visit Ngoc Son Temple — a spiritual and cultural symbol of Hanoi."
+              },
+              {
+                "start": "17:10",
+                "details": "Return to the hotel for rest. Free time in the evening for exploring or shopping."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TempleOfLiterature",
+          "VietnamMuseumOfEthnology",
+          "HoaLoPrison"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Visit the Temple of Literature – Quoc Tu Giam, a thousand-year-old symbol of Hanoi and Vietnam’s first national university, home to many great scholars."
+              },
+              {
+                "start": "10:30",
+                "end": "12:00",
+                "details": "Visit the Vietnam Museum of Ethnology – a fascinating place to explore artifacts and cultural exhibits of 54 ethnic groups in Vietnam."
+              },
+              {
+                "start": "12:10",
+                "end": "14:00",
+                "details": "Return to the hotel for lunch and rest."
+              },
+              {
+                "start": "14:00",
+                "end": "16:30",
+                "details": "Visit Hoa Lo Prison – a historical relic symbolizing the resilience and indomitable spirit of Vietnamese patriots during the war. The site still stands as a powerful reminder of history."
+              },
+              {
+                "start": "17:00",
+                "details": "Return to the hotel for rest. In the evening, guests are free to explore or visit the Walking Street."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "DongXuanMarket"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Explore the Old Quarter and Dong Xuan Market. Free time for shopping and buying souvenirs."
+              },
+              {
+                "start": "12:30",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "14:00",
+                "details": "Depart back to the hotel — end of the tour."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Culture And Spiritual": {
+    "name": "Culture And Spiritual",
+    "type": "Visit Tour",
+    "image": "WestLake",
+    "policy": [
+      "Children aged 1 - 4: Free of charge (parents take care of the child).",
+      "Two adults can accompany one child for free (a second child under 4 years old will be charged 50%).",
+      "Children aged 5 - 8: 75% of the tour price (have a separate seat, meal, and sightseeing ticket).",
+      "Children aged 9 and above: 100% of the adult price."
+    ],
+    "notes": [
+      "Every Monday, Friday, and afternoon, Ho Chi Minh Mausoleum is closed, but visitors can still explore the surrounding areas.",
+      "Visitors should wear formal attire – long pants or skirts below the knee – when visiting Tran Quoc Pagoda and Ho Chi Minh Mausoleum.",
+      "Guests with dietary restrictions, vegetarian meals, or same-day flights should inform in advance for proper arrangements.",
+      "Please provide full personal information (name, date of birth, gender, nationality) before departure for travel insurance purposes.",
+      "Before leaving the vehicle, please check your belongings. The company is not responsible for lost or misplaced personal items."
+    ],
+    "price": {
+      "child": 2175000,
+      "default": 2900000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Entrance tickets and electric car tickets.",
+          "Personal drinks and extra sightseeing outside the program.",
+          "Tips for tour guides, drivers, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum1",
+          "OnePillarPagoda2",
+          "HoanKiemLake2"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "end": "07:45",
+                "details": "Pick up guests at the hotel."
+              },
+              {
+                "start": "07:45",
+                "end": "09:00",
+                "details": "Visit Ho Chi Minh Mausoleum – a symbol of the Vietnamese nation, take photos for memories."
+              },
+              {
+                "start": "09:15",
+                "end": "11:00",
+                "details": "Move to One Pillar Pagoda, an ancient temple resembling a blooming lotus flower."
+              },
+              {
+                "start": "11:30",
+                "end": "13:00",
+                "details": "Lunch and rest at the hotel."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "15:30",
+                "details": "Visit Hoan Kiem Lake and Ngoc Son Temple, enjoy the fresh air and take photos."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Explore the Old Quarter or enjoy free time for shopping."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TranQuocPagoda",
+          "TempleOfLiterature1",
+          "QuanSuPagoda"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "09:30",
+                "details": "Visit Tran Quoc Pagoda, the oldest pagoda in Hanoi located by West Lake."
+              },
+              {
+                "start": "10:00",
+                "end": "11:30",
+                "details": "Move to the Temple of Literature, the ancient center of education in Hanoi, take souvenir photos."
+              },
+              {
+                "start": "12:00",
+                "end": "14:00",
+                "details": "Lunch and rest at the hotel."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "14:15",
+                "end": "16:30",
+                "details": "Visit Quan Su Pagoda, the Buddhist center of Northern Vietnam."
+              },
+              {
+                "start": "17:00",
+                "details": "Return to the hotel and free evening for personal activities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "Hanoi36Streets"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Stroll through the 36 ancient streets, explore and shop for souvenirs."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch, rest, and hotel check-out."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:00",
+                "end": "16:00",
+                "details": "Shopping."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Premium And Night": {
+    "name": "Premium And Night",
+    "type": "Visit Tour",
+    "image": "HaNoiFestival",
+    "policy": [
+      "Children aged 1 - 4: Free of charge (parents take care of the child).",
+      "Two adults can accompany one child for free (a second child under 4 years old will be charged 50%).",
+      "Children aged 5 - 8: 75% of the tour price (have a separate seat, meal, and sightseeing ticket).",
+      "Children aged 9 and above: 100% of the adult price."
+    ],
+    "notes": [
+      "Every Monday, Friday, and afternoon, Ho Chi Minh Mausoleum is closed, but visitors can still explore the surrounding areas.",
+      "Visitors should wear formal attire – long pants or skirts below the knee – when visiting Tran Quoc Pagoda and Ho Chi Minh Mausoleum.",
+      "Guests with dietary restrictions, vegetarian meals, or same-day flights should inform in advance for proper arrangements.",
+      "Please provide full personal information (name, date of birth, gender, nationality) before departure for travel insurance purposes.",
+      "Before leaving the vehicle, please check your belongings. The company is not responsible for lost or misplaced personal items."
+    ],
+    "price": {
+      "child": 2400000,
+      "default": 3200000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Entrance tickets and electric car tickets.",
+          "Personal drinks and extra sightseeing outside the program.",
+          "Tips for tour guides, drivers, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoChiMinhMausoleum2",
+          "OnePillarPagoda3",
+          "HoanKiemLake3"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "end": "07:45",
+                "details": "Pick up."
+              },
+              {
+                "start": "07:45",
+                "end": "09:00",
+                "details": "Visit Ho Chi Minh Mausoleum (memorial site) and One Pillar Pagoda (ancient temple)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              },
+              {
+                "start": "13:30",
+                "end": "15:30",
+                "details": "Visit Hoan Kiem Lake (a symbol of Hanoi)."
+              },
+              {
+                "start": "16:00",
+                "end": "18:00",
+                "details": "Rest and prepare for evening activities."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Watch the traditional Water Puppet Show at Hoan Kiem Lake."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TempleOfLiterature1",
+          "HoChiMinhMuseum"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Visit the Temple of Literature (ancient school) and Ho Chi Minh Museum (dedicated to the national leader)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "18:00",
+                "end": "20:00",
+                "details": "3D Mapping Light Show at the Temple of Literature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "Hanoi36Streets1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Stroll through the 36 ancient streets, explore and shop for souvenirs."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Fusion lunch, rest, and hotel check-in."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Visit Vincom Center (luxury mall) for shopping."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Vacation And Relax": {
+    "name": "Vacation And Relax",
+    "type": "Vacation Tour",
+    "image": "VacationRelax",
+    "policy": [
+      "Children 1 - 4 years old: Free of charge (parents take care of the child).",
+      "Two adults can bring 1 child for free; the second child under 4 years old will be charged 50%.",
+      "Children 5 - 8 years old: 75% of adult price (own seat, meal, and entrance ticket).",
+      "Children from 9 years old: charged 100% as adults."
+    ],
+    "notes": [
+      "Uncle Ho’s Mausoleum is closed on Mondays, Fridays, and in the afternoon, but outside areas are still open for visiting.",
+      "Please wear polite clothes (long pants or skirts below the knees) when visiting Tran Quoc Pagoda and Uncle Ho’s Mausoleum.",
+      "If you are vegetarian, on a special diet, or have a same-day flight, please inform us in advance for a suitable arrangement.",
+      "Provide full name, year of birth, gender, and nationality before departure for travel insurance registration.",
+      "Before getting off the vehicle, please check your belongings. The company is not responsible for lost personal items."
+    ],
+    "price": {
+      "child": 2250000,
+      "default": 3000000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Electric car and sightseeing tickets.",
+          "Beverages ordered outside the program, additional expenses.",
+          "Tips for guide, driver, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "VacationRelax1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up at hotel."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Travel to resort area, check in, and relax."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Have lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Relax by the pool or enjoy herbal massage (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Evening walk and light dinner."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Spa And Relax Ancient Town": {
+    "name": "Spa And Relax Ancient Town",
+    "type": "Wellness Tour",
+    "image": "SpaRelax1",
+    "policy": [
+      "Children 1 - 4 years old: Free of charge (parents take care of the child).",
+      "Two adults can bring 1 child for free; the second child under 4 years old will be charged 50%.",
+      "Children 5 - 8 years old: 75% of adult price (own seat, meal, and entrance ticket).",
+      "Children from 9 years old: charged 100% as adults."
+    ],
+    "notes": [
+      "Some temples and pagodas may close at noon; please follow the guide’s schedule.",
+      "Please wear modest clothes when visiting spiritual sites.",
+      "Inform in advance if you have dietary restrictions or vegetarian meals.",
+      "Check personal belongings before leaving the spa or vehicle."
+    ],
+    "price": {
+      "child": 1950000,
+      "default": 2600000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Personal purchases and drinks outside the program.",
+          "Tips for guide, driver, and spa staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "AncientTownSpa1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "details": "Pick-up at hotel in Hanoi Old Quarter."
+              },
+              {
+                "start": "08:30",
+                "end": "10:00",
+                "details": "Walk through the Ancient Quarter, visit traditional houses."
+              },
+              {
+                "start": "10:30",
+                "end": "12:00",
+                "details": "Enjoy herbal spa and foot massage."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Have lunch at a vegetarian restaurant."
+              },
+              {
+                "start": "14:00",
+                "end": "16:00",
+                "details": "Meditation or yoga relaxation session."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Hoan Kiem Lake Family Resort": {
+    "name": "Hoan Kiem Lake Family Resort",
+    "type": "Family Vacation Tour",
+    "image": "HoanKiemLake1",
+    "policy": [
+      "Children 1 - 4 years old: Free of charge (parents take care of the child).",
+      "Two adults can bring 1 child for free; the second child under 4 years old will be charged 50%.",
+      "Children 5 - 8 years old: 75% of adult price (own seat, meal, and entrance ticket).",
+      "Children from 9 years old: charged 100% as adults."
+    ],
+    "notes": [
+      "Uncle Ho’s Mausoleum is closed on Mondays, Fridays, and in the afternoon, but outside areas are still open for visiting.",
+      "Please wear polite clothes (long pants or skirts below the knees) when visiting Tran Quoc Pagoda and Uncle Ho’s Mausoleum.",
+      "If you are vegetarian, on a special diet, or have a same-day flight, please inform us in advance.",
+      "Provide full name, year of birth, gender, and nationality before departure for travel insurance registration.",
+      "Before getting off the vehicle, please check your belongings. The company is not responsible for lost personal items."
+    ],
+    "price": {
+      "child": 2400000,
+      "default": 3200000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Sightseeing and electric car tickets.",
+          "Beverages and other expenses outside the program.",
+          "Tips for guide, driver, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "HoanKiemLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up by car."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Transfer to Hoan Kiem Lake, check-in lake-view hotel, relax."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Family games or 1-hour spa massage."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Cycling around the lake, light dinner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Visit Hoan Kiem Lake and Ngoc Son Temple."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Vegetarian lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Join a Vietnamese cooking class for families (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Enjoy egg coffee at a famous ancient café."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Luxury West Lake Resort": {
+    "name": "Luxury West Lake Resort",
+    "type": "Vacation Tour",
+    "image": "WestLake1",
+    "policy": [
+      "Children 1 - 4 years old: Free of charge (parents take care of the child).",
+      "Two adults can bring 1 child for free; the second child under 4 years old will be charged 50%.",
+      "Children 5 - 8 years old: 75% of adult price (own seat, meal, and entrance ticket).",
+      "Children from 9 years old: charged 100% as adults."
+    ],
+    "notes": [
+      "Uncle Ho’s Mausoleum is closed on Mondays, Fridays, and in the afternoon, but outside areas are still open for visiting.",
+      "Please wear polite clothes (long pants or skirts below the knees) when visiting Tran Quoc Pagoda and Uncle Ho’s Mausoleum.",
+      "If you are vegetarian, on a special diet, or have a same-day flight, please inform us in advance.",
+      "Provide full name, year of birth, gender, and nationality before departure for travel insurance registration.",
+      "Before getting off the vehicle, please check your belongings. The company is not responsible for lost personal items."
+    ],
+    "price": {
+      "child": 4125000,
+      "default": 5500000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Sightseeing and electric car tickets.",
+          "Beverages ordered outside the program, extra expenses.",
+          "Tips for guide, driver, and service staff."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "WestLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up at hotel."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Travel to West Lake, check-in lake-view hotel, relax."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Herbal spa massage (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Cycling around the lake, light dinner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "TranQuocPagoda"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Visit Tran Quoc Pagoda, pray for peace."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Vegetarian lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Join a yoga or meditation class (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Enjoy tea ceremony and reading by the lake."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage2"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Hotel relaxation and spa session."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Shopping at Vincom Plaza (premium mall)."
+              },
+              {
+                "start": "16:30",
+                "details": "End of tour, transfer to hotel or airport."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Relax Spa Old Quarter And Hoan Kiem Lake": {
+    "name": "Relax Spa Old Quarter And Hoan Kiem Lake",
+    "type": "Vacation Tour",
+    "image": "Hanoi36Streets",
+    "policy": [
+      "Children aged 1 - 4: Free of charge (parents take care of the child)",
+      "Two adults are allowed one free child (a second child under 4 years old is charged 50%)",
+      "Children aged 5 - 8: Charged 75% (own seat, meal, and entrance ticket)",
+      "Children aged 9 and above: Full adult price applies."
+    ],
+    "notes": [
+      "On Mondays, Fridays, and afternoons, Ho Chi Minh Mausoleum is closed, but visitors can still explore the surrounding area.",
+      "Guests should wear formal clothing—long pants or skirts below the knees—when visiting Tran Quoc Pagoda and Ho Chi Minh Mausoleum.",
+      "Guests with dietary restrictions, vegetarian diets, or same-day flights should inform staff in advance for proper arrangements.",
+      "Please provide full personal information (name, birth year, gender, nationality) before departure for travel insurance.",
+      "Before leaving the vehicle, please check your belongings. The company is not responsible for lost or misplaced personal items."
+    ],
+    "price": {
+      "child": 3600000,
+      "default": 4800000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Entrance tickets, electric car fees.",
+          "Beverages ordered outside meals, extra sightseeing beyond the itinerary.",
+          "Tips for tour guides, drivers, service staff, etc."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "Hanoi36Streets"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up at the city center hotel."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Transfer to the 36 Old Streets (vibrant yet peaceful in the morning), check-in at a boutique hotel."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Relaxing herbal spa massage (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Stroll around the Old Quarter, light dinner."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HoanKiemLake1"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Transfer to Hoan Kiem Lake (the city’s symbol), light sightseeing and souvenir photos."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Vegetarian lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Join a Vietnamese family cooking class (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Enjoy egg coffee at a famous traditional café."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "NgocSonTemple"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "12:00",
+                "details": "Leisurely visit Hoan Kiem Lake and Ngoc Son Temple (temple of an ancient scholar)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Vegetarian lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Join a Vietnamese family cooking class (1 hour)."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Enjoy egg coffee at a famous traditional café."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "HotelImage"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "08:00",
+                "end": "11:00",
+                "details": "Relax at the hotel and enjoy final spa session."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "16:00",
+                "details": "Light shopping at Vincom Plaza (premium shopping center)."
+              },
+              {
+                "start": "16:30",
+                "details": "End of tour, transfer to hotel or airport."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Spiritual And Cultural Retreat": {
+    "name": "Spiritual And Cultural Retreat",
+    "image": "OnePillarPagoda",
+    "type": "Vacation Tour",
+    "policy": [
+      "Children aged 1 - 4: Free of charge (parents take care of the child)",
+      "Two adults are allowed one free child (a second child under 4 years old is charged 50%)",
+      "Children aged 5 - 8: Charged 75% (own seat, meal, and entrance ticket)",
+      "Children aged 9 and above: Full adult price applies."
+    ],
+    "notes": [
+      "On Mondays, Fridays, and afternoons, Ho Chi Minh Mausoleum is closed, but visitors can still explore the surrounding area.",
+      "Guests should wear formal clothing—long pants or skirts below the knees—when visiting Tran Quoc Pagoda and Ho Chi Minh Mausoleum.",
+      "Guests with dietary restrictions, vegetarian diets, or same-day flights should inform staff in advance for proper arrangements.",
+      "Please provide full personal information (name, birth year, gender, nationality) before departure for travel insurance.",
+      "Before leaving the vehicle, please check your belongings. The company is not responsible for lost or misplaced personal items."
+    ],
+    "price": {
+      "child": 2625000,
+      "default": 3600000,
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Entrance tickets, electric car fees.",
+          "Beverages ordered outside meals, extra sightseeing beyond the itinerary.",
+          "Tips for tour guides, drivers, service staff, etc."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "image": [
+          "TempleOfLiterature",
+          "HoChiMinhMuseum"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up at the city center hotel."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Visit the Temple of Literature (ancient school) and Ho Chi Minh Museum (museum dedicated to Uncle Ho)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "18:00",
+                "end": "20:00",
+                "details": "3D Mapping Show at the Temple of Literature."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": [
+          "OnePillarPagoda",
+          "HoChiMinhMausoleum2"
+        ],
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:30",
+                "details": "Pick-up at the city center hotel."
+              },
+              {
+                "start": "08:00",
+                "end": "10:00",
+                "details": "Visit Ho Chi Minh Mausoleum (memorial of the leader) and One Pillar Pagoda (ancient pagoda)."
+              },
+              {
+                "start": "12:00",
+                "end": "13:00",
+                "details": "Lunch and rest."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "15:30",
+                "details": "Transfer to Hoan Kiem Lake (city symbol), explore the lake."
+              },
+              {
+                "start": "16:00",
+                "end": "18:00",
+                "details": "Rest and dinner before evening activities."
+              },
+              {
+                "start": "19:00",
+                "end": "21:00",
+                "details": "Watch a traditional water puppet show at Hoan Kiem Lake."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Traditional Hanoi Cuisine": {
+    "name": "Traditional Hanoi Cuisine",
+    "image": "CuisineList",
+    "type": "Cuisine Tour",
+    "notes": [
+      "Wear sneakers or flat shoes for easy walking around the Old Quarter.",
+      "Inform in advance if you have dietary restrictions, vegetarian diets, or food allergies.",
+      "Prepare small cash (10,000 – 50,000 VND) for extra food purchases.",
+      "Bring an umbrella/hat or light raincoat depending on the weather."
+    ],
+    "policy": [
+      "Children aged 1 – 4: Free of charge (parents take care of the child).",
+      "Two adults are allowed one free child, second child under 4 charged 50%.",
+      "Children aged 5 – 8: Charged 75% (own seat, meal).",
+      "Children aged 9 and above: Full adult price applies."
+    ],
+    "price": {
+      "extend": {
+        "title": "Not included",
+        "content": [
+          "VAT tax.",
+          "Beverages ordered outside the program.",
+          "Extra expenses not in the itinerary.",
+          "Tips for guides, drivers, and service staff."
+        ]
+      },
+      "services": {
+        "title": "Included services:",
+        "content": [
+          "Tour bus transportation according to the itinerary.",
+          "Bilingual English–Vietnamese tour guide.",
+          "Tickets/food tastings at stops (6–7 dishes).",
+          "01 main meal (Bun Cha or Pho) with light drinks.",
+          "Full travel insurance (maximum compensation 20 million VND).",
+          "Dasani bottled water 350ml/guest/day."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:30",
+                "details": "Pick-up at hotel in Old Quarter – Hanoi Opera House area."
+              },
+              {
+                "start": "08:45",
+                "end": "09:30",
+                "details": "Breakfast with traditional beef/chicken Pho – Vietnam’s national dish."
+              },
+              {
+                "start": "09:45",
+                "end": "10:15",
+                "details": "Walk through the Old Quarter, enjoy hot Thanh Tri steamed rolls."
+              },
+              {
+                "start": "10:30",
+                "end": "11:15",
+                "details": "Visit Dong Xuan Market, enjoy longan and lotus seed sweet soup."
+              },
+              {
+                "start": "11:30",
+                "end": "12:30",
+                "details": "Lunch with Hanoi Bun Cha and crispy spring rolls."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "12:45",
+                "end": "13:30",
+                "details": "Enjoy egg coffee at a traditional café on Nguyen Huu Huan Street."
+              },
+              {
+                "start": "13:45",
+                "end": "14:30",
+                "details": "Visit Hang Da Market, taste West Lake shrimp cakes."
+              },
+              {
+                "start": "14:45",
+                "end": "15:30",
+                "details": "Try Vietnamese baguette with pate, pork sausage, and herbs."
+              },
+              {
+                "start": "15:45",
+                "end": "16:30",
+                "details": "Relax by Hoan Kiem Lake, sip Vietnamese tea."
+              },
+              {
+                "start": "16:45",
+                "details": "End of tour, return to pick-up point."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "Night Cuisine of Hanoi Old Quarter": {
+    "name": "Night Cuisine of Hanoi Old Quarter",
+    "type": "Cuisine Tour",
+    "image": "MarketActivities",
+    "notes": [
+      "Wear sneakers or flat shoes for easy walking in the Old Quarter.",
+      "Inform in advance if you have dietary restrictions, are vegetarian, or have food allergies.",
+      "Prepare small cash (10,000 – 50,000 VND) for additional food purchases.",
+      "Bring an umbrella, hat, or light raincoat depending on the weather."
+    ],
+    "policy": [
+      "Children aged 1–4: Free of charge (parents take care of the child).",
+      "Two adults can accompany one free child; the second child under 4 years old is charged 50%.",
+      "Children aged 5–8: 75% of the tour price (own seat and meal included).",
+      "Children from 9 years old: Full adult price."
+    ],
+    "price": {
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Beverages ordered outside the program.",
+          "Extra expenses not mentioned in the itinerary.",
+          "Tips for tour guides, drivers, and service staff."
+        ]
+      },
+      "services": {
+        "title": "Included services:",
+        "content": [
+          "Tourist vehicle for transportation according to the program.",
+          "Bilingual English–Vietnamese tour guide.",
+          "Tickets/food tastings at each stop (6–7 dishes).",
+          "01 main meal (Bun Cha or Pho) with light drink.",
+          "Full travel insurance (maximum compensation 20 million VND).",
+          "Dasani bottled water 350ml/person/day."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "time": [
+              {
+                "start": "17:30",
+                "end": "18:00",
+                "details": "Tour guide picks up guests at the hotel, starting the night food journey."
+              },
+              {
+                "start": "18:15",
+                "end": "18:45",
+                "details": "Enjoy Hanoi Bún Thang at 11 Hang Hom Street — a sophisticated dish with over 20 ingredients."
+              },
+              {
+                "start": "19:00",
+                "end": "19:30",
+                "details": "Walk along Ta Hien Street, taste fried fermented pork rolls, French fries, fried corn, and local draft beer."
+              },
+              {
+                "start": "19:45",
+                "end": "20:15",
+                "details": "Enjoy sticky rice with mung bean and lotus leaf wrapping on Hang Ga Street."
+              },
+              {
+                "start": "20:30",
+                "end": "21:00",
+                "details": "Try boiled snails and steamed clams with lemongrass on Dinh Liet Street."
+              },
+              {
+                "start": "21:15",
+                "end": "21:45",
+                "details": "Visit the weekend night market on Hang Ngang – Hang Dao, enjoy Trang Tien ice cream or coconut sticky rice ice cream."
+              },
+              {
+                "start": "22:00",
+                "details": "Sip lemon tea near St. Joseph’s Cathedral and enjoy the lively night atmosphere."
+              },
+              {
+                "start": "22:30",
+                "details": "End of the tour, transfer guests back to the hotel."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "3 Days 2 Nights Hanoi Culinary Journey": {
+    "name": "3 Days 2 Nights Hanoi Culinary Journey",
+    "type": "Cuisine Tour",
+    "image": "LongTour",
+    "notes": [
+      "Wear sneakers or flat shoes for easy walking in the Old Quarter.",
+      "Inform in advance if you have dietary restrictions, are vegetarian, or have food allergies.",
+      "Prepare small cash (10,000 – 50,000 VND) for additional food purchases.",
+      "Bring an umbrella, hat, or light raincoat depending on the weather."
+    ],
+    "policy": [
+      "Children aged 1–4: Free of charge (parents take care of the child).",
+      "Two adults can accompany one free child; the second child under 4 years old is charged 50%.",
+      "Children aged 5–8: 75% of the tour price (own seat and meal included).",
+      "Children from 9 years old: Full adult price."
+    ],
+    "price": {
+      "extend": {
+        "title": "Not included:",
+        "content": [
+          "VAT tax.",
+          "Beverages ordered outside the program.",
+          "Extra expenses not mentioned in the itinerary.",
+          "Tips for tour guides, drivers, and service staff."
+        ]
+      },
+      "services": {
+        "title": "Included services:",
+        "content": [
+          "Tourist vehicle for transportation according to the program.",
+          "Bilingual English–Vietnamese tour guide.",
+          "Tickets/food tastings at each stop (6–7 dishes).",
+          "01 main meal (Bun Cha or Pho) with light drink.",
+          "Full travel insurance (maximum compensation 20 million VND).",
+          "Dasani bottled water 350ml/person/day."
+        ]
+      }
+    },
+    "schedules": [
+      {
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:45",
+                "end": "08:15",
+                "details": "Pick up guests at hotels in the Old Quarter/Opera House area."
+              },
+              {
+                "start": "08:30",
+                "end": "09:15",
+                "details": "Visit Dong Xuan Market to explore fresh ingredients used for Pho, Bun Cha, and fried spring rolls."
+              },
+              {
+                "start": "09:30",
+                "end": "10:15",
+                "details": "Enjoy traditional beef/chicken Pho while learning about the history and variations of Vietnam’s national dish."
+              },
+              {
+                "start": "10:30",
+                "end": "11:00",
+                "details": "Relax at an old café, try Hanoi’s signature Egg Coffee."
+              },
+              {
+                "start": "11:15",
+                "end": "12:15",
+                "details": "Taste Hanoi Bun Cha at a famous restaurant once visited by President Obama."
+              },
+              {
+                "start": "12:30",
+                "end": "13:30",
+                "details": "Lunch with signature dishes: Cha Ca La Vong (grilled fish), fried spring rolls, duck bamboo shoot soup, and sautéed morning glory with garlic."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "14:00",
+                "end": "15:00",
+                "details": "Experience making Thanh Tri steamed rice rolls guided by a local artisan."
+              },
+              {
+                "start": "15:15",
+                "end": "16:30",
+                "details": "Walk through the 36 streets of the Old Quarter, enjoy street snacks such as pillow cakes, fried sticky cakes, fried fermented pork rolls, and mango sweet soup."
+              },
+              {
+                "start": "17:00",
+                "end": "18:00",
+                "details": "Visit Hoan Kiem Lake and enjoy Trang Tien ice cream."
+              },
+              {
+                "start": "18:30",
+                "end": "20:00",
+                "details": "Dinner with rustic dishes: crab hotpot, West Lake shrimp cakes, and pork porridge."
+              },
+              {
+                "start": "20:30",
+                "end": "21:30",
+                "details": "Free time to explore the Old Quarter night market. Overnight at a 3-star hotel in the city center."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:00",
+                "end": "08:00",
+                "details": "Breakfast with Vietnamese baguette and pate, served with coffee."
+              },
+              {
+                "start": "08:30",
+                "end": "09:30",
+                "details": "Depart for Bat Trang pottery village – try pottery making, visit the ceramic market, taste local snacks like rice cakes and baked cassava cakes."
+              },
+              {
+                "start": "11:00",
+                "end": "12:30",
+                "details": "Visit Duong Lam Ancient Village – explore the communal house, old wells, and laterite houses. Lunch with local specialties: Mia chicken, braised fish with fermented bean sauce, boiled vegetables with dipping sauce, sesame candy, and peanut candy."
+              },
+              {
+                "start": "14:00",
+                "end": "16:00",
+                "details": "Join a cooking class with a Hanoi chef, prepare traditional dishes like Pho, Bun Cha, or fried spring rolls, and enjoy your own creations."
+              },
+              {
+                "start": "17:00",
+                "end": "18:30",
+                "details": "Return to the hotel to rest."
+              },
+              {
+                "start": "21:00",
+                "end": "23:00",
+                "details": "Experience Long Bien wholesale market – the most bustling place in Hanoi at night. Enjoy hot sweet soup, sticky rice, grilled corn, or rice cakes right at the market. Overnight at the hotel."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "schedule": [
+          {
+            "section": "Morning",
+            "time": [
+              {
+                "start": "07:00",
+                "end": "08:00",
+                "details": "Breakfast with West Lake snail noodles – a rustic dish loved by locals."
+              },
+              {
+                "start": "08:30",
+                "end": "10:30",
+                "details": "Visit Vong Green Rice Village (Cau Giay). Learn how to make young green rice, pound it yourself, and taste fresh green rice, green rice cakes, and green rice sweet soup."
+              },
+              {
+                "start": "11:00",
+                "end": "12:30",
+                "details": "Lunch at a local restaurant: Bun Thang, Cha Ruoi (sandworm omelet), fish soup, and longan lotus seed sweet soup."
+              }
+            ]
+          },
+          {
+            "section": "Afternoon",
+            "time": [
+              {
+                "start": "13:30",
+                "end": "14:30",
+                "details": "Visit Hoa Lo Prison, listen to stories of Hanoi’s historical past."
+              },
+              {
+                "start": "15:00",
+                "end": "16:00",
+                "details": "Buy Hanoi specialties as souvenirs: Hang Duong sugared fruits, West Lake lotus tea, and Nguyen Ninh green rice cakes."
+              },
+              {
+                "start": "16:30",
+                "details": "Transfer back to the initial pick-up point. End of the program."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

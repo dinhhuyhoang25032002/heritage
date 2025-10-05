@@ -36,11 +36,10 @@ export default function Gallery() {
                       height="415"
                       src="https://www.youtube.com/embed/lz2bY0fQmEc?si=3Kx_x6_XY0Hefyrz"
                       title="YouTube video player"
-                      frameBorder="0"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                       referrerPolicy="strict-origin-when-cross-origin"
                       allowFullScreen
-                      className='rounded'
+                      className="rounded"
                     ></iframe>
                   </div>
                 </DialogContent>

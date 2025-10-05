@@ -37,13 +37,13 @@ export default function Contemporary() {
             ))}
           </div>
         </div>
-        <div className="flex w-full justify-between">
+        {/* <div className="flex w-full justify-between">
           {resourcesSlideContent.map((item, index) => (
             <div key={index} className="flex w-[24%] items-center justify-center">
               <SlideContent image={item.image} title={item.title} date={item.date} />
             </div>
           ))}
-        </div>
+        </div> */}
       </div>
     </div>
   );
