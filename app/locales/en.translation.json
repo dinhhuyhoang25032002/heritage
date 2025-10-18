@@ -23,7 +23,9 @@
     "Sightseeing": "Sightseeing",
     "History": "History",
     "Cuisine": "Cuisine",
-    "Relaxation": "Relaxation"
+    "Relaxation": "Relaxation",
+    "When to Visit": "When to Visit",
+    "detail": "Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are experiences you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam."
   },
   "Travel Destinations": {
     "Travel Destinations": "Travel Destinations",
@@ -35,10 +37,10 @@
     "Tay Ho Temple": "Tay Ho Temple",
     "Hoan Kiem Lake": "Hoan Kiem Lake",
     "Hoa Lo Prison": "Hoa Lo Prison",
-    "title0": "National Day September 2: Hanoi Offers Free Admission to 5 Attractions",
-    "title1": "Long Bien Bridge – A Witness of History",
-    "title2": "The Hanoi Old Quarter – Renewed Every Day",
-    "title3": "Thay Pagoda – Sacred, Majestic, and Beautiful",
+    "National Day September 2: Hanoi Offers Free Admission to 5 Attractions": "National Day September 2: Hanoi Offers Free Admission to 5 Attractions",
+    "Long Bien Bridge – A Witness of History": "Long Bien Bridge – A Witness of History",
+    "The Hanoi Old Quarter – Renewed Every Day": "The Hanoi Old Quarter – Renewed Every Day",
+    "Thay Pagoda – Sacred, Majestic, and Beautiful": "Thay Pagoda – Sacred, Majestic, and Beautiful",
     "Hanoi Old Quarter": "Hanoi Old Quarter",
     "Dong Xuan Market": "Dong Xuan Market",
     "West Lake": "West Lake",
@@ -717,13 +719,16 @@
         "content": [
           "Visitors are immediately impressed by the majestic mountain scenery surrounding the temple. Thay Pagoda in Sai Son, Quoc Oai, follows Ly Dynasty architecture with a 'Tam' layout of three parallel pagodas built on elevated green stone foundations. The outer hall is for rituals and teachings (Lower Pagoda), the middle hall worships the Triple Gem (Middle Pagoda), and the inner hall houses the three reincarnations of Tu Dao Hanh with grand Upper Pagoda. Additional shrines and bell towers are placed along the path up the mountain.",
           "Located at the foot of Sai Son Mountain, the temple faces south, with Long Dau Mountain on the left and Sai Son Mountain behind. A pond called Long Chieu (Dragon Pond) lies in front, forming the dragon's mouth. The three parallel halls (Lower, Middle, Upper) are connected by corridors forming a harmonious architectural structure.",
-          "Lower Pagoda: houses statues of Duc Ong and sages; corridors display statues of the Eight Vajra Guardians. Middle Pagoda: contains Buddha altar, Dharmapala statues, and heavenly kings. Upper Pagoda: houses Amitabha Buddha statues, three reincarnations of Tu Dao Hanh, and statues of his parents."
+          "Lower Pagoda: houses statues of Duc Ong and sages; corridors display statues of the Eight Vajra Guardians. Middle Pagoda: contains Buddha altar, Dharmapala statues, and heavenly kings. Upper Pagoda: houses Amitabha Buddha statues, three reincarnations of Tu Dao Hanh, and statues of his parents.",
+          "The pagoda faces south, in front of the pagoda, between Sai Son and Long Dau is a large lake called Long Chieu or Long Tri (dragon pond). The yard has a dragon's jaw. The main part of Thay Pagoda consists of three parallel buildings called Ha Pagoda, Trung Pagoda and Thuong Pagoda. Between Ha Pagoda and Trung Pagoda there is a tube connecting them, creating the position of the lower temple and the upper temple.",
+          "The Lower Pagoda is the front house, displaying statues of the Lord and Saints. The bamboo tube houses the statue of the Eight Vajrapani. The Middle Pagoda houses the Buddha altar, with two statues of Dharma Protectors and a statue of the Heavenly King on either side. The Upper Pagoda or the upper pagoda is completely separate, in the highest position, with a sign reading Dai Hung Bao Dien, and is also the Holy House, housing the statue of Amitabha Buddha, the three lives of Zen Master Tu Dao Hanh, and the statues of Tu Dao Hanh's parents."
         ],
         "image": "ChuaThay1"
       },
       {
         "content": [
           "The temple features two side corridors, a rear bell tower, and a front square facing Long Chieu Lake, forming the dragon's mouth. Two bridges, Nhat Tien Bridge and Nguyet Tien Bridge, built in 1602, connect the front square to surrounding areas, forming the dragon's 'whiskers'. Nhat Tien Bridge leads to a small island with Tam Phu shrine, while Nguyet Tien Bridge leads up the mountain.",
+          "From this yard, there are two bridges, Nhat Tien Kieu and Nguyet Tien Kieu, connecting to both sides, forming two dragon whiskers. These two bridges were built by Phung Khac Khoan in 1602. Nhat Tien Bridge connects to a small island, on which there is a Tam Phu temple. Nguyet Tien Bridge connects to the road up the mountain.",
           "Up the mountain is the Upper Pagoda. Behind it is Phat Tich Cave, believed to be where Tu Dao Hanh left his body to reincarnate as King Ly Than Tong. Nearby are sacred caves like But Moc, Hang Bo, and Hang Gio, each with unique features formed by nature.",
           "In front of the temple, the Water Pavilion rises like a lotus on the lake, adding to the scenic beauty. In March, ancient flame trees bloom red, signaling the festival season. Locals believe this combination of temple scenery and blooming flame trees brings good luck, offering a delightful experience for visitors."
         ],
@@ -788,11 +793,23 @@
     "activities": "Activities",
     "Same category": "Same category",
     "Travel itinerary": "Travel itinerarys",
-    "Date": "Date"
+    "Date": "Date",
+    "Price": "Price",
+    "Children": "Children",
+    "Adult": "Adult",
+    "Age": "age",
+    "Ticket Prices & Services": "Ticket Prices & Services",
+    "Policies & Terms": "Policies & Terms",
+    "Important Notes": "Important Notes",
+    "Ratings & Reviews": "Ratings & Reviews",
+    "Service Feedback": "Service Feedback",
+    "Comment": "Comment",
+    "Submit": "Submit"
   },
   "Ancient City Tour": {
     "name": "Ancient City Tour",
     "image": "HoChiMinhMausoleum",
+    "introduction": "Ancient City Tour – A journey to explore the timeless beauty of the city, where cultural, architectural, and historical heritages are preserved through the ages. Admire ancient landmarks, immerse yourself in the traditional lifestyle, and feel the spirit of the past within the modern urban landscape.",
     "type": "Visit Tour",
     "policy": [
       "Children from 1 - 4 years old: Free of charge (Parents take care of the child).",
@@ -958,6 +975,7 @@
   "Culture And Spiritual": {
     "name": "Culture And Spiritual",
     "type": "Visit Tour",
+    "introduction": "Culture and Spiritual Tour – A journey to explore the unique cultural and spiritual heritage, taking you to ancient temples and pagodas, experiencing traditional customs, and finding inner peace within the sacred atmosphere rich in national identity.",
     "image": "WestLake",
     "policy": [
       "Children aged 1 - 4: Free of charge (parents take care of the child).",
@@ -1114,6 +1132,7 @@
   },
   "Premium And Night": {
     "name": "Premium And Night",
+    "introduction": "Premium And Night offers travelers an exclusive evening experience combining luxury, culture, and entertainment. Enjoy the city’s vibrant nightlife, fine dining, and premium services in an unforgettable atmosphere.",
     "type": "Visit Tour",
     "image": "HaNoiFestival",
     "policy": [
@@ -1256,6 +1275,7 @@
   },
   "Vacation And Relax": {
     "name": "Vacation And Relax",
+    "introduction": "Vacation And Relax is the perfect getaway for those seeking peace and comfort. Enjoy serene landscapes, gentle activities, and rejuvenating moments designed to refresh your body and mind.",
     "type": "Vacation Tour",
     "image": "VacationRelax",
     "policy": [
@@ -1330,6 +1350,7 @@
   },
   "Spa And Relax Ancient Town": {
     "name": "Spa And Relax Ancient Town",
+    "introduction": "Spa And Relax Ancient Town offers a soothing retreat in the heart of the old quarter. Immerse yourself in traditional spa treatments, tranquil surroundings, and the timeless charm of ancient streets.",
     "type": "Wellness Tour",
     "image": "SpaRelax1",
     "policy": [
@@ -1402,6 +1423,7 @@
   },
   "Hoan Kiem Lake Family Resort": {
     "name": "Hoan Kiem Lake Family Resort",
+    "introduction": "Hoan Kiem Lake Family Resort is an ideal destination for families seeking comfort and fun. Enjoy relaxing moments by the lake, family-friendly activities, and a peaceful atmosphere in the heart of the city.",
     "type": "Family Vacation Tour",
     "image": "HoanKiemLake1",
     "policy": [
@@ -1513,6 +1535,7 @@
   },
   "Luxury West Lake Resort": {
     "name": "Luxury West Lake Resort",
+    "ỉntroduction": "Luxury West Lake Resort offers an elegant escape by the serene West Lake. Experience premium amenities, breathtaking views, and refined hospitality for a truly luxurious stay.v",
     "type": "Vacation Tour",
     "image": "WestLake1",
     "policy": [
@@ -1660,6 +1683,7 @@
   },
   "Relax Spa Old Quarter And Hoan Kiem Lake": {
     "name": "Relax Spa Old Quarter And Hoan Kiem Lake",
+    "introduction": "Relax Spa Old Quarter And Hoan Kiem Lake offers a perfect blend of tranquility and tradition. Enjoy rejuvenating spa treatments while exploring the timeless beauty of the Old Quarter and the peaceful charm of Hoan Kiem Lake.",
     "type": "Vacation Tour",
     "image": "Hanoi36Streets",
     "policy": [
@@ -1845,6 +1869,7 @@
   "Spiritual And Cultural Retreat": {
     "name": "Spiritual And Cultural Retreat",
     "image": "OnePillarPagoda",
+    "introduction": "Spiritual And Cultural Retreat invites you to discover inner peace and cultural richness. Experience sacred sites, local traditions, and moments of reflection that nourish both the mind and soul.",
     "type": "Vacation Tour",
     "policy": [
       "Children aged 1 - 4: Free of charge (parents take care of the child)",
@@ -1961,6 +1986,7 @@
   },
   "Traditional Hanoi Cuisine": {
     "name": "Traditional Hanoi Cuisine",
+    "introduction": "Traditional Hanoi Cuisine offers an authentic taste of the capital’s rich culinary heritage. Savor flavorful dishes, local ingredients, and timeless recipes that capture the essence of Hanoi’s culture.",
     "image": "CuisineList",
     "type": "Cuisine Tour",
     "notes": [
@@ -2065,6 +2091,7 @@
   },
   "Night Cuisine of Hanoi Old Quarter": {
     "name": "Night Cuisine of Hanoi Old Quarter",
+    "introduction": "Night Cuisine of Hanoi Old Quarter brings you a delightful journey through the city’s vibrant evening flavors. Explore bustling street stalls, traditional dishes, and the lively atmosphere of Hanoi’s historic heart at night.",
     "type": "Cuisine Tour",
     "image": "MarketActivities",
     "notes": [
@@ -2153,6 +2180,7 @@
   "3 Days 2 Nights Hanoi Culinary Journey": {
     "name": "3 Days 2 Nights Hanoi Culinary Journey",
     "type": "Cuisine Tour",
+    "introduction": "3 Days 2 Nights Hanoi Culinary Journey offers an immersive experience into the heart of Vietnamese gastronomy. Discover authentic local dishes, visit bustling markets, and enjoy hands-on cooking sessions that reveal the true flavors of Hanoi.",
     "image": "LongTour",
     "notes": [
       "Wear sneakers or flat shoes for easy walking in the Old Quarter.",
@@ -2341,5 +2369,31 @@
         ]
       }
     ]
+  },
+  "Cultural Heritage": {
+    "Cultural Heritage": "Cultural Heritage",
+    "The place where national pride takes flight": "The place where national pride takes flight",
+    "Local Cultural Events": "Local Cultural Events",
+    "Local Cultural": "Local Cultural",
+    "detail": "There is a village where the pride of the nation can be felt everywhere - for it is here that the national flags are made and sent across the entire country.",
+    "The Keeper of the River’s Soul": "The Keeper of the River’s Soul",
+    "Hearing the River Tell Its Tales": "Hearing the River Tell Its Tales",
+    "Journey to the Land of Agarwood to Savor the Taste of Nem": "Journey to the Land of Agarwood to Savor the Taste of Nem",
+    "Hanoi Recognized with Nine More National Intangible Cultural Heritages": "Hanoi Recognized with Nine More National Intangible Cultural Heritages",
+    "Heritage": "Heritage",
+    "Back to Trà Lộc Wetland": "Back to Tra Loc Wetland",
+    "Xu Xoa – The Refreshing Sweet Jelly of Central Vietnam": "Xu Xoa – The Refreshing Sweet Jelly of Central Vietnam",
+    "Timeless Melodies: The Enduring Vitality of Revolutionary Music": "Timeless Melodies: The Enduring Vitality of Revolutionary Music",
+    "The Meal of Independence": "The Meal of Independence",
+    "The Legendary Blue River Region": "The Legendary Blue River Region"
+  },
+  "Highlight": {
+    "Highlight": "Highlight"
+  },
+  "Heritage Award": {
+    "Heritage Award": "Heritage Award"
+  },
+  "Gallery": {
+    "Gallery": "Gallery"
   }
 }

@@ -10,6 +10,7 @@ import Gallery from './gallery/gallery';
 import Travels from '~/components/layout/travels/travels';
 import Hotellist from './hotel/hotellist';
 import Restaurant from './restaurant/restaurant';
+import Convert from './convert';
 
 export function Welcome() {
   return (
@@ -19,17 +20,18 @@ export function Welcome() {
         <TourList />
       </div>
 
-      <Thumbnail />
+      {/* <Thumbnail /> */}
       <div id="journey">
         <Travels />
       </div>
 
       <Heritage />
       <Hotellist />
-      <Restaurant/>
-      <Focus />
-      <Award />
+      <Restaurant />
+      {/* <Focus />
+      <Award /> */}
       <Gallery />
+      <Convert />
     </main>
   );
 }

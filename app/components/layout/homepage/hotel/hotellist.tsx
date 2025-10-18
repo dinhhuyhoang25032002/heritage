@@ -26,18 +26,18 @@ export default function Hotellist() {
                     <div className="w-full">
                       <img src={item.image} alt={item.name} className="w-full rounded" />
                     </div>
-                    <h2 className="text-center text-lg font-semibold my-5">{item.name}</h2>
+                    <h2 className="my-5 text-center text-lg font-semibold">{item.name}</h2>
                     <div className="flex w-full flex-col space-y-3 px-3">
                       <div className="flex w-full gap-1">
                         {item.star}
-                        {Array.from({ length: +item.star }, () => (
-                          <div className="flex items-center gap-1">
-                            <FaCircle className="text-green-700" />
+                        {Array.from({ length: +item.star }, (_, index) => (
+                          <div className="flex items-center gap-1" key={index}>
+                            <FaCircle className="text-[#0a0264]" />
                           </div>
                         ))}
                       </div>
                       <span className="font-semibold">From ${item.money} </span>
-                      <Button className="rounded-full bg-green-600">Check availability</Button>
+                      <Button className="rounded-full bg-[#0a0264]">Check availability</Button>
                     </div>
                   </div>
                 </CarouselItem>

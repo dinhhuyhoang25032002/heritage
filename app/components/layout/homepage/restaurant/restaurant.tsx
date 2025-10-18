@@ -12,28 +12,28 @@ export default function Restaurant() {
   return (
     <div className="relative flex items-center justify-center">
       <div className="flex w-3/4 flex-col items-center justify-center gap-10 py-10">
-        <h2 className="z-10 w-full text-3xl font-semibold uppercase">famous restaurant </h2>
+        <h2 className="z-10 w-full text-3xl font-semibold uppercase text-[#d1a000]">famous restaurant </h2>
         <div className="">
           <Carousel opts={{ align: 'start' }}>
             <CarouselContent>
               {resource.map((item, index) => (
                 <CarouselItem key={index} className="flex basis-1/4 flex-col justify-center space-y-5">
                   <div className="flex h-[600px] flex-col justify-between rounded-lg bg-gray-100 pb-5">
-                    <div className="flex w-full items-start bg-red-300">
+                    <div className="flex w-full items-start">
                       <img src={item.image} alt={item.name} className="h-[350px] w-full rounded object-cover" />
                     </div>
-                    <h2 className="my-5 text-center text-lg font-semibold">{item.name}</h2>
+                    <h2 className=" text-center text-lg font-semibold">{item.name}</h2>
                     <div className="flex w-full flex-col space-y-3 px-3">
                       <div className="flex w-full gap-1">
                         {item.star}
-                        {Array.from({ length: +item.star }, () => (
-                          <div className="flex items-center gap-1">
-                            <FaCircle className="text-green-700" />
+                        {Array.from({ length: +item.star }, (_, index) => (
+                          <div className="flex items-center gap-1" key={index}>
+                            <FaCircle className="text-[#0a0264]" />
                           </div>
                         ))}
                       </div>
                       <p className="font-light">{item.description} </p>
-                      <Button className="rounded-full bg-green-600">Check availability</Button>
+                      <Button className="rounded-full bg-[#0a0264]">Check availability</Button>
                     </div>
                   </div>
                 </CarouselItem>
@@ -58,7 +58,7 @@ const resource = [
   },
   {
     image: img2,
-    name: 'Ngư Restaurant- Vietnamese Cuisine & Vegan Food',
+    name: 'Vietnamese Cuisine & Vegan Food',
     star: 5,
     description: 'Great service and delicious food, loved the duck spring rolls. 2nd visit in 2 weeks',
   },

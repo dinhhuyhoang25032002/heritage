@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import logo from './logo_heritage_2025.jpg';
+import logo from './3.png';
 import { FaSquareInstagram } from 'react-icons/fa6';
 import { FaYoutube } from 'react-icons/fa';
 import { FaFacebook } from 'react-icons/fa';
@@ -35,8 +35,19 @@ export const Header = () => {
 
   return (
     <header className="pt-2">
-      <div className="flex justify-between px-10 pb-1">
-        <img src={logo} alt="logo" className="w-[216px] object-cover" />
+      <div className="flex items-center justify-between px-10 pb-1">
+        <div className="relative flex h-[75px] w-[25%] flex-col items-center justify-center">
+          <Link to={'/'} className="top-0 flex cursor-pointer flex-col">
+            <img
+              src={logo}
+              alt="logo"
+              className="object-cente border absolute top-0 -bottom-8 z-20 size-36 -translate-x-1/2 rounded border-white object-contain"
+            />
+            {/* <span className="text-center text-lg font-semibold tracking-normal text-[#D32F2F] md:tracking-widest">
+              AI/IoT as a service
+            </span> */}
+          </Link>
+        </div>
         <div>
           <div className="flex items-center gap-3">
             <Select defaultValue={'EN'} onValueChange={value => i18n.changeLanguage(value)}>
@@ -74,7 +85,7 @@ export const Header = () => {
             </Link>
             <Link
               to="/dashboard"
-              className="mt-2 flex w-fit items-center gap-2 rounded border-2 border-transparent bg-[#005f6e] px-4 py-2 text-sm text-white uppercase hover:border-2 hover:border-[#005f6e] hover:bg-white hover:text-[#dba511]"
+              className="mt-2 flex w-fit items-center gap-2 rounded border-2 border-transparent bg-[#0a0264] px-4 py-2 text-sm text-white uppercase hover:border-2 hover:border-[#0a0264] hover:bg-white hover:text-[#dba511]"
             >
               <PiFlowerLotusLight /> vietnam heritage
             </Link>

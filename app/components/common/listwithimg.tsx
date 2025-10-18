@@ -9,7 +9,7 @@ type ListProps = {
 export default function ListWithImg({ resources, title }: ListProps) {
   const { t, i18n } = useTranslation();
   return (
-    <div className="flex w-full flex-col justify-between rounded bg-[#f7cf62] p-10">
+    <div className="flex w-full flex-col justify-between rounded bg-[#ffd900] p-10">
       <h1 className="mb-5 text-center text-2xl font-semibold text-blue-500 uppercase">{title}</h1>
       {resources.map((item, index) => (
         <div key={index} className="mb-10 flex w-full gap-5 border-b-2 border-dashed pb-5">

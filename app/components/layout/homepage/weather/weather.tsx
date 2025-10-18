@@ -4,11 +4,13 @@ import { IoWaterOutline } from 'react-icons/io5';
 import Autoplay from 'embla-carousel-autoplay';
 import { TbRectangleVerticalFilled } from 'react-icons/tb';
 import { Carousel, CarouselContent, CarouselItem, CarouselNext, CarouselPrevious } from '~/components/ui/carousel';
+import { useTranslation } from 'react-i18next';
 export default function Weather() {
+  const { t } = useTranslation();
   return (
     <div className="w-3/4 py-10">
       <div className="space-y-5">
-        <h2 className="text-4xl font-bold">When to Visit</h2>
+        <h2 className="text-4xl font-bold">{t('banner.When to Visit')}</h2>
         <div className="w-full gap-5">
           <Carousel
             opts={{ loop: true, active: true, align: 'start' }}

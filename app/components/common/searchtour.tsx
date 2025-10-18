@@ -86,7 +86,7 @@ export default function Searchtour({ onClose }: { onClose?: () => void }) {
         </div>
       </div>
       <div className="space-y-5">
-        <h2 className="font-medium">Giá (VND):</h2>
+        <h2 className="font-medium">{t('common.Price')} (VND):</h2>
         <div className="flex flex-col gap-5">
           <div className="flex flex-wrap justify-between gap-5">
             {Price.map((item, index) => (

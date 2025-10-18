@@ -14,7 +14,7 @@ export default function ListWithoutImg({ resources, title }: ListProps) {
         <div key={index} className="mb-10 flex w-full flex-col gap-5 border-b-2 border-dashed pb-2 last:mb-0">
           <div className="space-y-2">
             <Link
-              to={`/chi-tiet-diem-den-du-lich/${slugify(t(`${item.name}.name`), { locale: `${i18n.language}`, lower: true })}`}
+              to={`/chi-tiet-diem-den-du-lich/${slugify(item.name, { locale: `vi`, lower: true })}`}
               className="cursor-pointer text-lg font-semibold text-white uppercase hover:text-white hover:underline"
             >
               {t(`${title}.${item.name}`)}

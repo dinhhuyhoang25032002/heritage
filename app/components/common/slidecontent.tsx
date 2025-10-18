@@ -13,23 +13,23 @@ type SlideContentProps = {
 export default function SlideContent({ image, title, date, name, horizontal, typeTime, section }: SlideContentProps) {
   const { t } = useTranslation();
   return (
-    <div className={`flex w-full rounded shadow ${horizontal ? 'flex-row items-center' : 'flex-col'}`}>
-      <div className="">
+    <div className={`flex w-full  rounded shadow ${horizontal ? 'flex-row items-center h-[220px]' : 'h-[350px] flex-col gap-5'}`}>
+      <div className={` ${horizontal ? 'w-1/3  h-full' : 'h-2/3'}`}>
         <Link
           to={`/chi-tiet-diem-den-du-lich/${slugify(name, { locale: 'vi', lower: true })}`}
-          className=" line-clamp-3 text-justify text-xl font-semibold text-gray-700"
+          className="h-full w-full"
         >
           <img
             src={image}
             alt={title}
-            className="h-[265px] w-full rounded border border-white object-cover object-center"
+            className="h-full w-full rounded border border-white object-cover object-center"
           />
         </Link>
       </div>
-      <div className="p-2">
+      <div className="p-2 flex-1">
         <Link
           to={`/chi-tiet-diem-den-du-lich/${slugify(name, { locale: 'vi', lower: true })}`}
-          className="mb-2 line-clamp-3 w-full text-center text-xl font-semibold text-gray-700 hover:text-blue-500 active:text-blue-500"
+          className="mb-2 line-clamp-2 w-full text-center text-xl font-semibold text-gray-700 hover:text-blue-500 active:text-blue-500"
         >
           {t(`${section}.${title}`)}
         </Link>

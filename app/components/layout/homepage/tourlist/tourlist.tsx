@@ -2,13 +2,11 @@ import Titlecontent from '~/components/common/titlecontent';
 import image from '~/data/tourlist/van-mieu-quoc-tu-giam-1.webp';
 import image1 from './Bảo-tàng-Hồ-Chí-Minh-768x432.jpeg';
 import image2 from '~/data/touristattractions/long-bien-bridge-thumb.webp';
-import image3 from '~/data/touristattractions/pho_co_image.png';
+import image3 from '~/data/tourlist/hanoi-night-market-old-quarter-thumb.webp';
 import image4 from '~/data/touristattractions/fa3d073a-chua-thay-9.jpg';
 import SlideContent from '~/components/common/slidecontent';
 import slugify from 'slugify';
 import { Link } from 'react-router';
-
-import ListWithoutImg from '~/components/common/listwithoutimg';
 import { useTranslation } from 'react-i18next';
 export default function TourList() {
   const { t, i18n } = useTranslation();
@@ -90,28 +88,28 @@ export const resources = [
 
 const resourcesSlideContent = [
   {
-    title: 'title0',
+    title: 'National Day September 2: Hanoi Offers Free Admission to 5 Attractions',
     date: '25/08/2025',
     typeTime: 'Domestic Events',
     name: 'Ho Chi Minh Museum',
     image: image1,
   },
   {
-    title: 'title1',
+    title: 'Long Bien Bridge – A Witness of History',
     date: '22/08/2025',
     image: image2,
     name: 'Long Bien Bridge',
     typeTime: 'Domestic',
   },
   {
-    title: 'title2',
+    title: 'The Hanoi Old Quarter – Renewed Every Day',
     date: '21/08/2025',
     image: image3,
     name: 'Hanoi Old Quarter',
     typeTime: 'Domestic Events',
   },
   {
-    title: 'title3',
+    title: 'Thay Pagoda – Sacred, Majestic, and Beautiful',
     date: '20/08/2025',
     image: image4,
     name: 'Thay Pagoda',

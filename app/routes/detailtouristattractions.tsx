@@ -70,7 +70,11 @@ export default function PostPage() {
                     </ul>
                     {item.image && (
                       <div className="flex justify-center">
-                        <img src={item.image} alt="" className="w-[85%] rounded-lg border object-contain shadow" />
+                        <img
+                          src={item.image}
+                          alt=""
+                          className="h-[550px] w-[80%] rounded-lg border object-cover shadow"
+                        />
                       </div>
                     )}
                   </div>
@@ -92,7 +96,11 @@ export default function PostPage() {
                       </ul>
                       {item.image && (
                         <div className="flex justify-center">
-                          <img src={item.image} alt="" className="w-[85%] rounded-lg border object-contain shadow" />
+                          <img
+                            src={item.image}
+                            alt=""
+                            className="h-[550px] w-[80%] rounded-lg border object-cover shadow"
+                          />
                         </div>
                       )}
                     </div>
@@ -103,12 +111,12 @@ export default function PostPage() {
 
             {/* Sidebar */}
             <aside className="w-1/3 space-y-8">
-              <div className="rounded-xl p-2 ">
+              <div className="rounded-xl p-2">
                 <h2 className="my-5 mb-4 text-xl font-semibold text-gray-800 uppercase">
                   🔗{t('common.Same category')}
                 </h2>
                 <List resources={TOURISTATTRACTIONS} />
-                <div className="w-full mt-10">
+                <div className="mt-10 w-full">
                   <Feedback />
                 </div>
               </div>

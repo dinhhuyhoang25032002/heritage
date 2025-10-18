@@ -9,9 +9,9 @@ export default function Award() {
     <div className="flex items-center justify-center">
       <div className="flex w-3/4 flex-col">
         <div>
-          <Titlecontent title={'Giải thưởng Heritage'} />
+          <Titlecontent title={'Heritage Award'} />
         </div>
-        <div className="mb-10 flex w-full justify-between gap-10">
+        <div className=" flex w-full justify-between gap-10">
           <div className="w-[40%]">
             {resources.map((item, index) => (
               <div key={index} className="mb-4 flex border-b-2 border-dashed border-black pb-4 last:border-0">

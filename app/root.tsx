@@ -4,6 +4,7 @@ import './app.css';
 
 import { Header } from './components/layout/homepage/header/header';
 import './i18n';
+import TravelFooter from './components/layout/homepage/footer/footer';
 export const links: Route.LinksFunction = () => [
   { rel: 'preconnect', href: 'https://fonts.googleapis.com' },
   {
@@ -30,6 +31,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Header />
 
         {children}
+        <TravelFooter />
         <ScrollRestoration />
         <Scripts />
       </body>

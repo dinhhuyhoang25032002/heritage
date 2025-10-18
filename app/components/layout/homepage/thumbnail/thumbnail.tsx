@@ -2,7 +2,7 @@ import { Link } from 'react-router';
 import image from '~/components/layout/homepage/banner/Stillness-in-the-city-2.jpg'
 export default function Thumbnail() {
   return (
-    <div className="relative my-10 w-full">
+    <div className="relative mb-10 w-full">
       <img src={image} alt="" className="" />
       <Link
         to="/dashboard"

@@ -1,7 +1,7 @@
-import image from './Screen-Shot-2025-01-24-at-5.34.08-PM.png';
-import image1 from './Screen-Shot-2025-01-24-at-5.28.16-PM.png';
-import image2 from './DSC_2530-1024x683.jpg';
-import image3 from './Screen-Shot-2024-07-06-at-4.29.50-PM.png';
+import image from './Screenshot 2025-10-17 231826.png';
+import image1 from './Screenshot 2025-10-17 231853.png';
+import image3 from './063.jpeg';
+import image2 from './Screenshot 2025-10-17 231910.png';
 import Titlecontent from '~/components/common/titlecontent';
 import {
   Dialog,
@@ -14,7 +14,7 @@ import {
 import { FaPlay } from 'react-icons/fa';
 export default function Gallery() {
   return (
-    <div className="flex items-center justify-center">
+    <div className="mb-10 flex items-center justify-center">
       <div className="w-3/4">
         <div>
           <Titlecontent title={'Gallery'} />
@@ -30,11 +30,18 @@ export default function Gallery() {
                   </div>
                 </DialogTrigger>
                 <DialogContent className="flex w-[1800px] items-center justify-center border-none bg-transparent shadow-none">
+                  <DialogHeader className="hidden">
+                    <DialogTitle>Are you absolutely sure?</DialogTitle>
+                    <DialogDescription>
+                      This action cannot be undone. This will permanently delete your account and remove your data from
+                      our servers.
+                    </DialogDescription>
+                  </DialogHeader>
                   <div className="">
                     <iframe
                       width="760"
                       height="415"
-                      src="https://www.youtube.com/embed/lz2bY0fQmEc?si=3Kx_x6_XY0Hefyrz"
+                      src={item.src}
                       title="YouTube video player"
                       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                       referrerPolicy="strict-origin-when-cross-origin"
@@ -53,14 +60,14 @@ export default function Gallery() {
 }
 
 const resources = [
-  { image, src: 'https://www.youtube.com/embed/lz2bY0fQmEc?si=3Kx_x6_XY0Hefyrz' },
+  { image, src: 'https://www.youtube.com/embed/wRVmyHY9zwU?si=RzZVPNS5z3IYIdv_' },
   {
     image: image1,
-    src: 'https://www.youtube.com/embed/Km7P8XmSHl8?si=ysEcMwu5e0nCGPKD',
+    src: 'https://www.youtube.com/embed/MT8vPndyDa8?si=NUM7ybX4WqWdPBnP',
   },
-  { image: image2, src: 'https://www.youtube.com/embed/KiS8r-sLyXg?si=53kUG6PzZHDGWW68' },
+  { image: image2, src: 'https://www.youtube.com/embed/Vo-Fb-4UGrQ?si=cGQEBbuyPZrg4G2D' },
   {
     image: image3,
-    src: 'https://www.youtube.com/embed/AEicFTmZBKQ?si=6xf-XZ77ykxVBAPt',
+    src: 'https://www.tiktok.com/embed/7284942752318508290',
   },
 ];

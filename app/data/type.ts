@@ -4,6 +4,7 @@ export interface SightseeingTour {
   image: string;
   policy: string[];
   notes: string[];
+  location?: string;
   introduction: string;
   price: {
     child?: number;
@@ -47,7 +48,8 @@ export interface TouristAttractions {
   image: string;
   activities?: {
     content: string[];
-    image: string;
+    image?: string;
+    title?: string;
   }[];
 }
 

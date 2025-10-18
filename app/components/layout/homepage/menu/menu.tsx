@@ -11,6 +11,7 @@ import {
   DrawerTitle,
   DrawerTrigger,
 } from '~/components/ui/drawer';
+import { section } from '../banner/banner';
 export default function Menu() {
   return (
     <Drawer direction="right">
@@ -23,9 +24,9 @@ export default function Menu() {
         </DrawerHeader>
         <div className="flex-1">
           <div className="flex flex-col gap-4 bg-[url(bg_flower.png)] bg-contain bg-right bg-no-repeat p-10 text-lg font-semibold text-gray-700 uppercase">
-            {menuItems.map((item, index) => (
-              <Link to={''} key={index}>
-                {item.title}
+            {section.map((item, index) => (
+              <Link to={`#${item.link}`} key={index}>
+                {item.name}
               </Link>
             ))}
           </div>
