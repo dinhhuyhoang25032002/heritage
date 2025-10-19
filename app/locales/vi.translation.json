@@ -27,6 +27,29 @@
     "Relaxation": "Thư giãn",
     "detail": "Thủ đô Hà Nội của Việt Nam, được thành lập hơn 1000 năm trước, là một thành phố giàu lịch sử, với những con phố thuộc khu phố cổ ngoằn ngoèo có niên đại từ thế kỷ 14. Dạo bước trên những con đường rợp bóng cây, ngang qua các công trình kiến trúc cổ kính thời Pháp, bạn sẽ có cảm giác như được quay ngược thời gian. Tuy nhiên, Hà Nội ngày nay không chỉ là câu chuyện của quá khứ. Thành phố nghìn năm tuổi này đang được thổi luồng sinh khí mới với những quán cà phê hiện đại, nhà hàng đẳng cấp quốc tế và các phòng trưng bày nghệ thuật đầy sáng tạo. Khi màn đêm buông xuống, bạn có thể lựa chọn giữa những quán bar sân thượng sang trọng hay những quán bia hơi nhộn nhịp. Nếu đây là lần đầu tiên bạn đến Hà Nội, có những trải nghiệm bạn nhất định phải thử ít nhất một lần trong đời. Từ những ngôi chùa cổ kính đến các khu chợ tấp nập, Hà Nội có tất cả. Nói một cách khác, nơi đây chính là trái tim văn hóa của Việt Nam."
   },
+  "footer": {
+    "detail": "Khám phá vẻ đẹp Việt Nam với những hành trình đáng nhớ. Chúng tôi mang đến trải nghiệm du lịch tuyệt vời nhất với dịch vụ chuyên nghiệp và tận tâm.",
+    "Quick link": "Liên kết nhanh",
+    "Home": "Trang chủ",
+    "Hotel": "Khách sạn",
+    "Restaurant": "Nhà hàng",
+    "About Us": "Về chúng tôi",
+    "Popular destination": "Điểm đến phổ biến",
+    "Ha Long Bay": "Vịnh Hạ Long",
+    "Hoi An ancient town": "Phố cổ Hội An",
+    "Quang Ninh": "Quảng Ninh",
+    "Quang Nam": "Quảng Nam",
+    "Lao Cai": "Lào Cai",
+    "Contact & Newsletter": "Liên hệ & Bản tin",
+    "Address": "Địa chỉ",
+    "Rights": "Tất cả các quyền được bảo lưu.",
+    "Privacy": "Chính sách bảo mật",
+    "Terms of Use": "Điều khoản sử dụng",
+    "Payment Methods": "Phương thức thanh toán",
+    "Cookie Policy": "Chính sách cookie",
+    "Ha Noi": "Hà Nội",
+    "Viet Nam": "Việt Nam"
+  },
   "Travel Destinations": {
     "Travel Destinations": "Điểm đến du lịch",
     "The Temple of Literature": "Văn Miếu - Quốc Tử Giám",
@@ -3374,9 +3397,9 @@
     ]
   },
   "Bach Ma Temple": {
-    "name": "ĐỀN BẠCH MÃ",
-    "map": "76 phố Hàng Buồm, Q. Hoàn Kiếm, TP. Hà Nội",
-    "type": "Di tích lịch sử, Địa điểm tâm linh",
+    "name": "Bach Ma Temple",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9224790971684!2d105.84843347515333!3d21.035787587537406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abbf47ca8df5%3A0xe66fe1153b046b!2zxJDhu4FuIELhuqFjaCBNw6M!5e0!3m2!1svi!2s!4v1760759065242!5m2!1svi!2s",
+    "type": "spirituality",
     "introduction": "Đền Bạch Mã là một trong những di tích lịch sử nổi tiếng ở Hà Nội. Giống như đền Quán Thánh, đền Bạch Mã cũng nằm trong cụm di tích Thăng Long Tứ Trấn. Đây là một ngôi đền linh thiêng, mang trong mình lịch sử và văn hóa đặc trưng của dân tộc.",
     "location": "76 phố Hàng Buồm, Q. Hoàn Kiếm, TP. Hà Nội",
     "description": [
@@ -3385,7 +3408,8 @@
         "content": [
           "Đền Bạch Mã là một trong số 'Tứ Trấn' của kinh thành Thăng Long xưa. Vị trí của đền nằm trên địa bàn huyện Thọ Xương, phủ Hoài Đức, hiện nay có địa chỉ số 76 phố Hàng Buồm, quận Hoàn Kiếm, thành phố Hà Nội.",
           "Từ trung tâm thành phố Hà Nội, bạn có thể đến đền Bạch Mã bằng các phương tiện: Xe ô tô hoặc xe máy, Xe buýt: bắt các tuyến xe buýt số 18, 32, 34 để đến điểm dừng xe buýt Trần Nhật Duật."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105016.png"
       },
       {
         "title": "Đền Bạch Mã thờ ai? Lịch sử đền Bạch Mã Hà Nội",
@@ -3395,27 +3419,35 @@
           "Trong thời kỳ triều Nguyễn, vua Đồng Khánh đã ban sắc phong cho thần Bạch Mã là Hàm Quang Thượng Đẳng Thần.",
           "Năm 1010, khi vua Lý Thái Tổ dời đô từ Hoa Lư ra Thăng Long, thành đắp nhiều lần nhưng vẫn sụp đổ cho đến khi vua cầu nguyện tại đền thờ thần Long Đỗ và được hướng dẫn bởi một con ngựa trắng từ đền đi ra. Vua đã theo vết chân của ngựa và xây dựng thành Thăng Long mới. Lúc này, thần được phong làm Thành hoàng của kinh thành.",
           "Tính đến thời điểm hiện tại, ngôi đền đã được tu bổ nhiều lần, trong đó có 2 đợt trùng tu lớn nhất là vào niên hiệu Chính Hòa đời Lê Hy Tông và năm Minh Mệnh thứ 20. Đền Bạch Mã ngày này là địa điểm tham quan nổi tiếng ở vùng đất thiêng với cảnh quan tôn nghiêm."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105044.png"
       },
       {
         "title": "Tìm hiểu kiến trúc đền Bạch Mã",
         "content": [
           "Vừa đặt chân tới đền Bạch Mã, du khách sẽ ngay lập tức bị cuốn hút bởi nền tường màu vàng nổi bật cùng cánh cửa bằng gỗ đỏ được chạm khắc hoa văn rồng vàng, tạo nên vẻ đẹp cổ kính, trang nghiêm cho ngôi đền.",
           "Nét kiến trúc đặc trưng bên trong đền là toàn bộ khung nhà gỗ với hệ thống cột gỗ lim lớn, bộ đỡ mái được chế tác theo phong cách 'giá chiêng chồng rường con nhị' với nét chạm khắc tỉ mỉ, chắc chắn.",
-          "Nhà Đại Bái đền Bạch Mã đặt áng thờ, gây ấn tượng với hình ảnh rồng phượng sơn son thếp vàng được chạm khắc vô cùng tinh xảo. Những chi tiết đầu rồng, hoành phi, câu đối không chỉ được thếp vàng sáng bóng đẹp mắt mà còn rất tinh tế và sống động.",
+          "Nhà Đại Bái đền Bạch Mã đặt áng thờ, gây ấn tượng với hình ảnh rồng phượng sơn son thếp vàng được chạm khắc vô cùng tinh xảo. Những chi tiết đầu rồng, hoành phi, câu đối không chỉ được thếp vàng sáng bóng đẹp mắt mà còn rất tinh tế và sống động."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105120.png"
+      },
+      {
+        "content": [
           "Nội thất của ngôi đền này bao gồm phương đình ở phía trong, bên trái là cây hương, bàn thờ, miếu thờ Tề Vương Phi, còn ở bên phải thờ Bể Núi. Tại Thiêu hương và Cung cấm có ban thờ và đồ tế lễ, tất cả đều được sắp xếp gọn gàng, trang trọng.",
           "Bên cạnh đó, tại đây còn lưu giữ nhiều hiện vật quý giá mang giá trị lịch sử to lớn, bao gồm sắc phong, đôi phổng, chuông đồng, kiệu rước, độc bình, 15 tấm bia văn với các điển tích, thần thoại kể về việc xây dựng đền, những nghi lễ tôn thờ thần cùng với các lần tôn tạo trong hơn 1000 năm qua."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105407.png"
       },
       {
         "title": "Lễ hội đền Bạch Mã",
         "content": [
           "Lễ hội đền Bạch Mã kéo dài trong hai ngày, từ ngày 12 đến 13 tháng Hai Âm lịch hàng năm để tưởng nhớ công ơn của thần Long Đỗ. Ngày đầu tiên, đội rước kiệu di chuyển từ đền Mã Mây đến đền Bạch Mã với đầy đủ các đội như đội múa rồng, đội tế nam quan, đội tế nữ và mô hình trâu để làm lễ tiến Xuân Ngưu. Lễ hội khai mạc bằng lễ cáo thỉnh và tiếp đó là lễ tế Thánh.",
           "Ngày thứ hai, các đội tế nam và dâng hương nữ của các làng lân cận vào lễ Thánh, kết thúc bằng lễ tế giã hội của đội tế nam đền Bạch Mã. Ngoài ra, lễ hội còn tổ chức nhiều chương trình vui chơi, giải trí và biểu diễn nghệ thuật dân tộc đặc sắc."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105428.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20104926.png",
     "activities": [
       {
         "title": "Địa điểm tham quan gần đó",
@@ -3430,9 +3462,9 @@
     ]
   },
   "LANG PAGODA": {
-    "name": "CHÙA LÁNG",
-    "map": "116 phố Chùa Láng, P. Láng Thượng, Q. Đống Đa, Hà Nội",
-    "type": "Di tích lịch sử, Địa điểm tâm linh",
+    "name": "LANG PAGODA",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.266565106311!2d105.80650807515302!3d21.022017488010306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab02b1d6a17b%3A0x106cfbbf587d062!2zQ2jDuWEgbMOhbmc!5e0!3m2!1svi!2s!4v1760760010559!5m2!1svi!2s",
+    "type": "spirituality",
     "introduction": "Chùa Láng là địa điểm du lịch tâm linh nổi tiếng ở Hà Nội. Thăng Long - Hà Nội được biết đến là trung tâm chính trị, tôn giáo của đất nước từ rất lâu đời. Qua hàng ngàn năm lịch sử, nơi đây đã gìn giữ biết bao đền chùa cổ kính, đóng vai trò quan trọng trong đời sống tinh thần của người dân. Trong số đó, không thể không nhắc đến ngôi chùa mang danh Đệ Nhất Tùng Lâm - Chùa Láng.",
     "location": "116 phố Chùa Láng, P. Láng Thượng, Q. Đống Đa, Hà Nội",
     "description": [
@@ -3442,51 +3474,88 @@
           "Chùa Láng còn được biết đến với tên gọi khác là Chiêu Thiền tự. Ngôi chùa Hà Nội này cách trung tâm thành phố khoảng 5km.",
           "Giờ mở cửa: 8:30 - 20:00 mỗi ngày. Trong những ngày đặc biệt như rằm, mùng 1 và lễ, Tết, thời gian mở cửa sẽ được kéo dài hơn thời gian bình thường.",
           "Chùa Láng ở ngay gần trung tâm Thủ đô nên việc di chuyển đến đó rất thuận tiện. Bạn có thể chọn phương tiện như ô tô, xe máy, xe buýt hoặc taxi để đến chùa. Nếu sử dụng xe buýt, sẽ có các tuyến xe số 09 BCT, 55A, 55B, 26, 28 là có điểm dừng gần Chùa Láng."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110153.png"
       },
       {
         "title": "Chùa Láng thờ ai? Lịch sử Chùa Láng Đống Đa Hà Nội",
         "content": [
           "Tương truyền, Chùa Láng được khởi công xây dựng vào thời vua Lý Anh Tông (trị vì từ 1138 - 1175), thờ thiền sư Từ Đạo Hạnh. Theo dân gian, vị thiền sư này đã đầu thai làm con trai của nhà quý tộc Sùng Hiền Hầu (em vua Lý Nhân Tông), sau đó được nối ngôi làm vua Lý Thần Tông (trị vì từ 1128 - 1138) khi vua không có con.",
           "Vì sự tích ấy, Lý Anh Tông, con trai của Lý Thần Tông đã cho dựng nên chùa Láng để thờ phụ vương và tiền thân của ngài là Thiền sư Từ Đạo Hạnh. Chùa đã trải qua nhiều lần tu sửa, trong đó có các lần quan trọng nhất vào các năm 1656, 1901 và 1989."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110226.png"
       },
       {
         "title": "Khám phá kiến trúc Chùa Láng",
         "content": [
-          "Theo các tài liệu ghi lại, Chùa Láng trước đây có tổng cộng 100 gian, được xây dựng theo phong cách kiến trúc nội công ngoại quốc. Kiểu kiến trúc này đã phổ biến ở Việt Nam từ thời xưa, với đặc điểm là có hai hành lang dài kết nối nhà tiền đường và hậu đường tạo thành một khung hình chữ nhật đóng kín, ở giữa có thể là nhà thiêu hương hoặc nhà thượng điện.",
-          "Hiện nay, Chùa Láng vẫn giữ được sự uy nghi, bề thế với một quần thể công trình hài hòa và cân đối với không gian xung quanh. Sự kết hợp tinh tế giữa kiến trúc chùa với thiên nhiên, sân vườn và những cây cổ thụ tạo nên một không gian yên bình và tĩnh lặng. Chùa Láng trước đây từng được mệnh danh là 'Đệ Nhất Tùng Lâm', mang ý nghĩa là nơi có rừng thông đẹp bậc nhất ở khu vực phía Tây kinh thành Thăng Long.",
-          "Khi đến tham quan ngôi chùa, du khách sẽ nhìn thấy cổng tam quan đầu tiên. Cổng tam quan của chùa có bốn cột vuông, phía trên là 3 mái vòm gắn liền với sườn cột chứ không phủ trùm lên trên. Kiểu kiến trúc này có sự tương đồng với cổng trong cung của phủ vua chúa.",
-          "Nhà Bát Giác được xây dựng có mái chồng 2 tầng, 16 mái, trên đầu được đắp 8 con rồng tượng trưng cho 8 đời vua Lý. Sau đó là các công trình chính của chùa như Bái Đường, Thượng Điện, nhà thiêu hương, nhà Tổ và Tăng phòng.",
+          "Theo các tài liệu ghi lại, Chùa Láng trước đây có tổng cộng 100 gian, được xây dựng theo phong cách kiến trúc nội công ngoại quốc. Kiểu kiến trúc này đã phổ biến ở Việt Nam từ thời xưa, với đặc điểm là có hai hành lang dài kết nối nhà tiền đường và hậu đường tạo thành một khung hình chữ nhật đóng kín, ở giữa có thể là nhà thiêu hương hoặc nhà thượng điện."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110253.png"
+      },
+      {
+        "content": [
+          "Hiện nay, Chùa Láng vẫn giữ được sự uy nghi, bề thế với một quần thể công trình hài hòa và cân đối với không gian xung quanh. Sự kết hợp tinh tế giữa kiến trúc chùa với thiên nhiên, sân vườn và những cây cổ thụ tạo nên một không gian yên bình và tĩnh lặng. Chùa Láng trước đây từng được mệnh danh là 'Đệ Nhất Tùng Lâm', mang ý nghĩa là nơi có rừng thông đẹp bậc nhất ở khu vực phía Tây kinh thành Thăng Long."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110344.png"
+      },
+      {
+        "content": [
+          "Khi đến tham quan ngôi chùa, du khách sẽ nhìn thấy cổng tam quan đầu tiên. Cổng tam quan của chùa có bốn cột vuông, phía trên là 3 mái vòm gắn liền với sườn cột chứ không phủ trùm lên trên. Kiểu kiến trúc này có sự tương đồng với cổng trong cung của phủ vua chúa."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110418.png"
+      },
+      {
+        "content": [
+          "Nhà Bát Giác được xây dựng có mái chồng 2 tầng, 16 mái, trên đầu được đắp 8 con rồng tượng trưng cho 8 đời vua Lý. Sau đó là các công trình chính của chùa như Bái Đường, Thượng Điện, nhà thiêu hương, nhà Tổ và Tăng phòng."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110447.png"
+      },
+      {
+        "content": [
           "Ngoài ra, Chùa Láng còn nổi tiếng gần xa khi sở hữu 198 pho tượng lớn nhỏ quý giá, trong đó có tượng vua Lý Thần Tông ngồi trên ngai vàng và pho tượng Thiền Sư Từ Đạo Hạnh là gây ấn tượng mạnh mẽ nhất. Ngoài ra, chùa còn lưu giữ nhiều bảo vật quý giá khác như 31 câu đối, 39 bức hoành phi, 15 bia đá…"
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110517.png"
       },
       {
         "title": "Lễ hội Chùa Láng Hà Nội",
         "content": [
           "Mỗi năm, vào ngày mồng 7 tháng 3 âm lịch, người dân tại phường Láng Thượng lại tiến hành tổ chức lễ hội Chùa Láng với nghi thức trang trọng. Đây cũng chính là ngày sinh của Thiền Sư Từ Đạo Hạnh. Lễ hội bao gồm nhiều hoạt động thú vị, nhưng đặc biệt là phần rước kiệu Thánh từ Chùa Láng đến chùa Hoa Lăng để thăm thân mẫu. Tại lễ hội, người ta còn tái hiện lại cuộc đấu thần giữa Thiền Sư Từ Đạo Hạnh và sư Đại Điên.",
           "Không chỉ có những nghi thức trang trọng, lễ hội còn có nhiều trò chơi dân gian đặc sắc như 'bịt mắt đập niêu', 'thi thổi cơm'… mang đến niềm vui, xây dựng tình đoàn kết cho người dân trong làng cũng như du khách đến dự."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110548.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110124.png",
     "activities": [
       {
         "title": "Ẩm thực quanh chùa Láng",
         "content": [
           "Ốc luộc Chùa Láng: Món ăn đặc trưng của Chùa Láng mà bạn nhất định không thể bỏ qua chính là ốc luộc. Với việc luộc chung ốc với lá chanh, sả, ớt giúp tạo nên mùi thơm đặc trưng, hấp dẫn khó cưỡng.",
-          "Thịt xiên nướng: Món thịt xiên nướng tại Chùa Láng được ví như là món ăn 'vạn người mê', trong đó có Hoàng Đức là quán thịt xiên nổi tiếng nhất tại đây.",
+          "Thịt xiên nướng: Món thịt xiên nướng tại Chùa Láng được ví như là món ăn 'vạn người mê', trong đó có Hoàng Đức là quán thịt xiên nổi tiếng nhất tại đây."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110618.png"
+      },
+      {
+        "content": [
           "Bánh xèo: Các quán bánh xèo ở Chùa Láng đặc biệt được giới trẻ yêu thích và thường xuyên ghé thăm.",
           "Bún sườn chua: Mùi thơm dịu nhẹ thoang thoảng của bún kết hợp với miếng sườn mềm ngọt và nước dùng đậm đà.",
           "Mì hải sản: Khác với bún hải sản, mỳ hải sản sẽ đem đến cho bạn một trải nghiệm ẩm thực mới lạ và độc đáo hơn."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110658.png"
+      },
+      {
+        "title": "Ẩm thực quanh chùa Láng",
+        "content": [
+          "Mì hải sản: Khác với bún hải sản, mỳ hải sản sẽ đem đến cho bạn một trải nghiệm ẩm thực mới lạ và độc đáo hơn."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110720.png"
       }
     ]
   },
   "BA TRIEU TEMPLE": {
-    "name": "ĐỀN BÀ TRIỆU",
-    "map": "làng Phú Điền, huyện Hậu Lộc, Thanh Hóa",
-    "type": "Di tích lịch sử, Địa điểm tâm linh",
+    "name": "BA TRIEU TEMPLE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.848591351744!2d105.81620277512798!3d19.930784224582965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31365f1af3bfa26d%3A0xaaf9ce54e1ee9e6d!2zxJDhu4FuIELDoCBUcmnhu4d1!5e0!3m2!1svi!2s!4v1760760725224!5m2!1svi!2s",
+    "type": "spirituality",
     "introduction": "Đền Bà Triệu là một di tích lịch sử nổi tiếng, gần với nhiều địa điểm du lịch Thanh Hóa. Ngôi đền linh thiêng trải qua thời gian đã nhuốm màu phong sương, cổ kính, tuy nhiên, đây vẫn là điểm dừng chân lý tưởng để chiêm bái, vãn cảnh và khám phá kiến trúc độc đáo.",
     "location": "trên ngọn núi Gai, thuộc địa phận làng Phú Điền, huyện Hậu Lộc, Thanh Hóa",
     "description": [
@@ -3496,56 +3565,103 @@
           "Đền thờ Bà Triệu, hay còn có tên gọi khác là đền thờ bà Triệu Thị Trinh – một trong những vị tướng anh hùng có công lao rất lớn trong việc đánh đuổi giặc Trung Quốc đến xâm chiếm bờ cõi nước ta vào thế kỷ III (TCN).",
           "Ngôi đền được xây dựng theo đúng kiến trúc của Bắc Trung Bộ, vừa trầm mặc, cổ kính nhưng cũng rất tinh tế. Hiện tại, nơi đây còn lưu giữ nhiều cổ vật, các kho tàng sự tích, ca dao, huyền thoại và cả những hiện vật hiếm có.",
           "Giá vé tham quan tham khảo: Miễn phí"
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111413.png"
       },
       {
         "title": "Lịch sử đền Bà Triệu Thanh Hóa",
         "content": [
           "Đền Bà Triệu được vua Lý Nam Đế xây dựng vào thế kỷ VI. Công trình là nơi tưởng nhớ Bà Triệu Thị Trinh - vị nữ tướng anh hùng có công lao trong cuộc khởi nghĩa năm 248 chống quân Ngô xâm lược.",
           "Dưới thời vua Minh Mạng (thế kỷ XVIII), công trình này được chuyển tới vị trí hiện tại và giữ nguyên cho tới bây giờ. Trải qua thời gian, công trình cũng nhuốm màu phong sương, cổ kính, tuy nhiên, địa phương cũng có những dự án tu sửa hằng năm nhằm đáp ứng nhu cầu tham quan của khách trong và ngoài tỉnh."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111438.png"
       },
       {
         "title": "Kiến trúc đền Bà Triệu Hậu Lộc",
         "content": [
           "Di tích lịch sử đền Bà Triệu có kiến trúc độc đáo, mỗi khu vực đều có kiểu thiết kế riêng, tựu trung lại là một công trình quy mô, mang đậm nét văn hóa truyền thống của Bắc Trung Bộ. Cụ thể:",
-          "Nghi môn ngoại: Khu vực này được xây bằng đá nguyên khối với kiểu tứ trụ độc đáo. Đỉnh cột có chim phượng lá lật, chi tiết lồng đèn được chạm hình tứ linh, bức tường hai bên được chạm nổi tượng voi chầu.",
+          "Nghi môn ngoại: Khu vực này được xây bằng đá nguyên khối với kiểu tứ trụ độc đáo. Đỉnh cột có chim phượng lá lật, chi tiết lồng đèn được chạm hình tứ linh, bức tường hai bên được chạm nổi tượng voi chầu."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111504.png"
+      },
+      {
+        "content": [
           "Hồ nước: Chiều dài và chiều rộng của hồ lần lượt là 29.8m và 42.2m. Hồ tọa lạc đối diện với Nghi môn nội, có bậc thang lên xuống để thuận tiện cho việc tham quan.",
           "Bình phong: Chi tiết này được làm bằng đá nguyên khối, đặt ở phía trước Nghi môn trung.",
           "Nghi môn trung: Xây dựng theo kiến trúc tứ trụ, tương tự như kiến trúc của nghi môn ngoại.",
-          "Sân dưới: Toạ lạc ở phần trước của nghi môn nội, chiều dài và chiều rộng lần lượt là 49.8m và 12m.",
+          "Sân dưới: Toạ lạc ở phần trước của nghi môn nội, chiều dài và chiều rộng lần lượt là 49.8m và 12m."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111526.png"
+      },
+      {
+        "title": "Kiến trúc đền Bà Triệu Hậu Lộc",
+        "content": [
           "Nghi môn nội: Được thiết kế tương tự như khu vực Tam Quan, hai bên cửa chính được đặt 2 bức tượng nghê chầu cổ bằng đá rất cổ kính.",
           "Tả/Hữu mạc: Tạo lạc ở khu vực sân trước của Tiền đường, mỗi nhà được xây dựng 5 gian, kèo làm bằng gỗ lim, nền lát gạch bát cổ.",
-          "Tiền đường: Cấu trúc 3 gian 2 chái, từng chi tiết bên trong nhà, nóc nhá đều được chạm khắc tinh tế, trang trí đẹp mắt.",
+          "Tiền đường: Cấu trúc 3 gian 2 chái, từng chi tiết bên trong nhà, nóc nhá đều được chạm khắc tinh tế, trang trí đẹp mắt."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111550.png"
+      },
+      {
+        "title": "Kiến trúc đền Bà Triệu Hậu Lộc",
+        "content": [
           "Trung đường: Xây dựng theo kiến trúc gỗ 5 gian 2 tầng và có phần mái cong, nằm ngăn cách với khu vực nhà Tiền đường ở sân thượng. Công trình được trang trí với hoa lá, rồng hóa, đá vân mây đặc sắc…",
           "Hậu cung: Kiến trúc 3 gian 2 chái, chiều dài 2.45m và chiều rộng 6.9m. Hệ khung vì là ở hậu cung cũng được trang trí với nhiều bức tranh chạm nổi cầu kỳ, đẹp mắt."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111611.png"
       },
       {
         "title": "Lễ hội đền Bà Triệu",
         "content": [
           "Không chỉ là điểm du lịch tâm linh, chiêm bái, đền Bà Triệu còn là địa điểm tổ chức nhiều lễ hội Thanh Hóa nổi tiếng. Cụ thể, các lễ hội thường được tổ chức vào khoảng từ 21 – 24/2 âm lịch hằng năm, chứa đựng nhiều hoạt động văn hóa truyền thống của người Việt.",
           "Trong những sự kiện lễ hội, du khách và người dân có thể tham gia nhiều hoạt động như: rước kiệu, tế lễ, tế nữ quan… hay các trò chơi dân gian như: thổi cơm, thi đấu vật, đánh cờ tướng…"
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111634.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111340.png",
     "activities": [
       {
         "title": "Địa điểm du lịch gần đền Bà Triệu",
         "content": [
           "Khu lăng mộ Bà Triệu: Nằm trên đỉnh núi Tùng, thuộc địa phận, địa phận xã Triệu Lộc, huyện Hậu Lộc, Thanh Hóa",
+          "Khu mộ Bà Triệu được xây dựng bao gồm lăng Bà Triệu, phần mộ và tháp chúa. Phần lăng được tác từ đá xanh nguyên khối, bên trong đặt bát hương. Đây là điểm để du khách thắp hương bày tỏ sự thành kính, vừa tham quan, vãn cảnh trên đỉnh núi Tùng."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111705.png"
+      },
+      {
+        "content": [
           "Núi Hàm Rồng: Địa phận làng Dương Xá, thuộc xã Thiệu Dương, huyện Thiệu Hóa, Thanh Hóa",
+          "Vẻ đẹp núi Hàm Rồng được nhắc đến nhiều trong các tác phẩm thi ca, bởi vậy đây cũng là một trong những danh lam thắng cảnh nổi tiếng mà bạn nên kết nối lịch trình cùng với đền Bà Triệu. Không chỉ sở hữu thiên nhiên đẹp tựa tranh vẽ, đây còn là minh chứng về những vẻ vang, chiến tích trong lịch sử dân tộc"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111754.png"
+      },
+      {
+        "content": [
           "Bãi biển Hải Tiến: Thuộc địa phận của huyện Hoằng Hóa, tỉnh Thanh Hóa",
-          "Bãi biển Sầm Sơn: Thuộc địa phận của thành phố Sầm Sơn, tỉnh Thanh Hóa"
-        ]
+          "Biển Hải Tiến là một vùng biển còn rất hoang sơ, vì vậy không gian ở đây xanh mát, yên bình, rất thích hợp để nghỉ ngơi thư giãn. Đây còn là địa điểm gần với đền Bà Triệu, du khách đến đây có thể thưởng thức nhiều món hải sản tươi ngon với mức giá cực rẻ. Hiện nay, các dịch vụ du lịch ở vùng biển này cũng được chú trọng phát triển, đáp ứng nhu cầu khách tham quan."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111340.png"
+      },
+      {
+        "content": [
+          "Bãi biển Sầm Sơn: Thuộc địa phận của thành phố Sầm Sơn, tỉnh Thanh Hóa",
+          "Nhắc đến biển Thanh Hóa thì không thể không nhắc tới biển Sầm Sơn nổi tiếng, địa chỉ này cách đền Bà Triệu 32,4km, vì vậy du khách sẽ mất khoảng 41 phút di chuyển. Là điểm du lịch biển sầm uất, bạn sẽ được thỏa sức vui chơi với nhiều hoạt động hấp dẫn như: tắm biển, vui chơi, thưởng thức hải sản… "
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111832.png"
+      },
+      {
+        "content": [
+          "Đền Bà Triệu đến nay đã hơn 2000 năm tuổi, thời gian có thể làm công trình hao mòn nhưng giá trị về lịch sử, văn hóa vẫn còn được lưu truyền cho tới ngày nay. Vì vậy, nếu có dịp đến thăm mảnh đất xứ Thanh, du khách có thể lên lịch trình để đến với ngôi đền trên ngọn núi Gai kỳ vĩ, lắng nghe nhiều câu chuyện lịch sử và tìm hiểu về kiến trúc xây dựng độc đáo của Bắc Trung Bộ thời xưa. Hy vọng những chia sẻ trên sẽ giúp bạn dễ dàng lên lịch trình cho chuyến đi sắp tới!"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111903.png"
       }
     ]
   },
   "DUONG LAM ANCIENT VILLAGE": {
-    "name": "LÀNG CỔ ĐƯỜNG LÂM",
-    "map": "X.Đường Lâm, Sơn Tây, Hà Nội",
-    "type": "Làng cổ, Di tích lịch sử",
+    "name": "DUONG LAM ANCIENT VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.8750524654074!2d105.46998037515618!3d21.157370183349006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134f5651ec5a1fb%3A0xbf4c62a0fffd9d50!2zTMOgbmcgY-G7lSDEkMaw4budbmcgTMOibQ!5e0!3m2!1svi!2s!4v1760879346030!5m2!1svi!2s",
+    "type": "culture",
     "introduction": "Làng cổ Đường Lâm - ngôi làng cổ lâu đời ở Hà Nội. Đến du lịch Hà Nội, tham quan các công trình kiến trúc, khám phá nét văn hóa đặc sắc thì làng cổ Đường Lâm chính là địa điểm bạn nhất định phải ghé.",
     "location": "X.Đường Lâm, Sơn Tây, Hà Nội",
     "description": [
@@ -3554,7 +3670,8 @@
         "content": [
           "Làng cổ Đường Lâm thuộc địa phận thị xã Sơn Tây, chỉ cách trung tâm Thủ đô Hà Nội khoảng 44km. Ngôi làng cổ ở Hà Nội này nằm ở phía Nam sông Hồng, ngay cạnh ngã ba giao giữa đường mòn Hồ Chí Minh với quốc lộ 32.",
           "Nằm cách Thủ đô không quá xa, việc di chuyển đến làng cổ Đường Lâm cũng rất thuận tiện, dễ dàng."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201131.png"
       },
       {
         "title": "Di chuyển",
@@ -3562,48 +3679,65 @@
           "Xe buýt: là cách di chuyển đến Đường Lâm an toàn và tiết kiệm nhất. Từ Hà Nội bạn có thể lựa chọn 1 trong các tuyến xe buýt đến làng cổ Đường Lâm là xe số 71 (Mỹ Đình - bến xe Sơn Tây), xe số 73 (Mỹ Đình - chùa Thầy), xe số 89 (bến xe Yên Nghĩa - bến xe Sơn Tây)... Giá vé rất phải chăng chỉ từ 9.000 - 20.000 VNĐ/lượt.",
           "Xe máy, ô tô cá nhân: đây là lựa chọn phù hợp với những bạn thích chủ động. Cung đường đến làng cổ cũng khá dễ đi, thuận tiện.",
           "Xe khách: đây cũng là một trong những hình thức di chuyển được nhiều du khách lựa chọn. Xuất phát từ Hà Nội, bạn có thể bắt tuyến xe Mỹ Đình - Phú Thọ để đến làng cổ Đường Lâm."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201210.png"
       },
       {
         "title": "Điểm tham quan nổi bật",
         "content": [
-          "Cổng làng Mông Phụ: Nơi đây được xây dựng vào năm 1833 với kiến trúc vòm và lớp đá ong tổ mang đậm nét văn hóa kiến trúc thời nhà Lê. Bên cạnh cổng còn có cây đa hơn 300 năm tuổi.",
-          "Đình làng cổ Đường Lâm: Được xây dựng từ năm 1684 mang đậm nét kiến trúc Việt – Mường với nhà sàn và sàn gỗ cách đất. Nơi này gồm Nghi Môn, sân đình, 2 tòa Tả Mạc và Hữu Mạc hai bên, ở giữa là tòa Đại đình.",
-          "Giếng cổ Đường Lâm: Du lịch làng cổ Đường Lâm bạn có thể bắt gặp rất nhiều giếng cổ. Nước ở đây rất trong và cũng là nơi người dân lấy nước sinh hoạt hằng ngày.",
-          "Nhà thờ Thám hoa Giang Văn Minh: Nơi đây được xây dựng từ thời vua Tự Đức, là nơi thờ phụng và tưởng nhớ công ơn của Thám hoa Giang Văn Minh.",
-          "Nhà cổ bà Điền: Ngôi nhà có tuổi đời 200 năm, in đậm dấu ấn của thời gian qua những lớp rêu bám, những viên ngói vỡ, nhạt màu hay thậm chí phong cách trang trí nhà cũng mang đậm nét cổ xưa.",
-          "Nhà cổ ông Hùng: Nơi đây có tuổi đời gần 400 năm và đã trải qua 12 thế hệ sinh sống.",
+          "Cổng làng Mông Phụ: Nơi đây được xây dựng vào năm 1833 với kiến trúc vòm và lớp đá ong tổ mang đậm nét văn hóa kiến trúc thời nhà Lê. Bên cạnh cổng còn có cây đa hơn 300 năm tuổi rủ bóng mát che nắng cho người dân nghỉ chân, khung cảnh này tạo nên một cảnh quan thực sự thanh bình, cổ kính và mang đậm hồn quê..",
+          "Đình làng cổ Đường Lâm: Được xây dựng từ năm 1684 mang đậm nét kiến trúc Việt – Mường với nhà sàn và sàn gỗ cách đất. Nơi này gồm Nghi Môn, sân đình, 2 tòa Tả Mạc và Hữu Mạc hai bên, ở giữa là tòa Đại đình. Bước vào bên trong bạn sẽ được chiêm ngưỡng rất nhiều bức hoành phi câu đối cổ có niên đại mấy trăm năm."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201254.png"
+      },
+      {
+        "content": [
+          "Giếng cổ Đường Lâm: Du lịch làng cổ Đường Lâm bạn có thể bắt gặp rất nhiều giếng cổ. Nước ở đây rất trong và cũng là nơi người dân lấy nước sinh hoạt hằng ngày. Trải qua hàng trăm năm, những chiếc giếng cổ tại làng Đường Lâm vẫn còn nguyên vẹn và vô cùng chắc chắn."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201321.png"
+      },
+      {
+        "content": [
+          "Nhà thờ Thám hoa Giang Văn Minh: Nơi đây được xây dựng từ thời vua Tự Đức, là nơi thờ phụng và tưởng nhớ công ơn của Thám hoa Giang Văn Minh. Nhà cổ bà Điền: Ngôi nhà có tuổi đời 200 năm, in đậm dấu ấn của thời gian qua những lớp rêu bám, những viên ngói vỡ, nhạt màu hay thậm chí phong cách trang trí nhà cũng mang đậm nét cổ xưa. Nhà cổ ông Hùng: Nơi đây có tuổi đời gần 400 năm và đã trải qua 12 thế hệ sinh sống."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201358.png"
+      },
+      {
+        "content": [
           "Lăng và đền thờ Ngô Quyền: Quần thể đền và lăng Ngô Quyền được xây dựng trên đồi Cấm, tuy có diện tích nhỏ nhưng khuôn viên được chăm sóc tỉ mỉ."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201432.png"
       },
       {
         "title": "Ẩm thực",
         "content": [
-          "Gà mía: loại gà có chân nhỏ, lông vàng, khi luộc chín thịt có màu trắng, da vàng và giòn.",
-          "Thịt quay đòn: nổi tiếng không chỉ về hương vị khác biệt mà còn bởi cách chế biến vô cùng độc đáo và cầu kỳ.",
-          "Chè kho: làm từ đỗ xanh đã được đồ lên, rồi cho thêm đường vào, dùng đũa cái to đảo thật đều tới khi những hạt đỗ nát ra, láng mịn.",
-          "Tương gạo: là món ăn dân dã, phổ biến được làm từ gạo, đỗ tương, muối, nước lấy từ giếng làng…",
-          "Kẹo vừng, dồi, lạc: loại kẹo được làm từ các nguyên liệu dân dã như: lạc, vừng, đường, mạch nha…",
-          "Bánh tẻ: bánh tẻ ở đâu cũng có nhưng ở Đường Lâm lại có nhiều nét khác biệt so với những vùng miền khác."
-        ]
+          "Gà mía: loại gà có chân nhỏ, lông vàng, khi luộc chín thịt có màu trắng, da vàng và giòn. Ngày trước, đây là một món ăn quý chỉ dùng để tiến vua hoặc dùng trong những dịp hội làng. Đến du lịch làng cổ Đường Lâm bạn đừng quên thưởng thức món ăn đặc sản này nhé.",
+          "Thịt quay đòn: nổi tiếng không chỉ về hương vị khác biệt mà còn bởi cách chế biến vô cùng độc đáo và cầu kỳ.  Điểm nhấn của món ngon này là phần lá ổi non được băm nhỏ và tẩm ướp cùng thịt. Thưởng thức miếng thịt ngoài giòn trong ngọt mềm, béo ngậy lại thơm lừng hương ổi thật tuyệt vời đúng không",
+          "Chè kho: làm từ đỗ xanh đã được đồ lên, rồi cho thêm đường vào, dùng đũa cái to đảo thật đều tới khi những hạt đỗ nát ra, láng mịn. Chè kho sẽ ngon hơn khi ăn nguội, vừa ăn từng miếng nhỏ, vừa nhấp môi chút chè xanh thì sẽ thấy vị ngọt thơm dìu dịu lan tỏa rất dễ chịu.",
+          "Tương gạo: là món ăn dân dã, phổ biến được làm từ gạo, đỗ tương, muối, nước lấy từ giếng làng…Tương dùng để chấm rau, chấm đậu rán, kho cá, kho thịt… cho hương thơm và mùi vị khó cưỡng.",
+          "Kẹo vừng, dồi, lạc: loại kẹo được làm từ các nguyên liệu dân dã như: lạc, vừng, đường, mạch nha…Ngồi nhâm nhi đôi ba chiếc kẹo cùng một ly chè xanh chát nhẹ thì thật đúng là ngon hết ý.",
+          "Bánh tẻ: bánh tẻ ở đâu cũng có nhưng ở Đường Lâm lại có nhiều nét khác biệt so với những vùng miền khác.  Ở đây bánh được gói bằng lá dong, thon dài, nhân trải đều dọc sống lá. Khi ăn, bánh có vị vô cùng đặc trưng, dẻo và thơm."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201512.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201050.png",
     "activities": [
       {
         "title": "Thông tin tham quan",
         "content": [
-          "Giá vé vào làng cổ Đường lâm là 20.000 VNĐ/người lớn, 20.000 VNĐ/trẻ em trên 14 tuổi, miễn phí trẻ em dưới 14 tuổi.",
+          "Giá vé vào làng cổ Đường lâm là 20.000 VNĐ/người lớn, 20.000 VNĐ/trẻ em trên 14 tuổi, miễn phí trẻ em dưới 14 tuổi. Nếu muốn tiết kiệm thời gian thì bạn có thể mua vé online trước tại nhà và khi đến làng cổ bạn chỉ cần xuất trình mã QR với người soát vé để vào cổng mà không cần phải chờ đợi mua vé. Nếu quên chưa đặt vé hoặc không muốn mua vé online thì bạn cũng có thể lựa chọn mua vé tại cổng nha.",
           "Thời điểm nên đi: bạn có thể đến tham quan làng cổ Đường Lâm bất cứ thời điểm nào trong năm. Tuy nhiên, mùa lễ hội và mùa lúa chín là thời điểm lý tưởng, đẹp và thú vị nhất."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203404.png"
       }
     ]
   },
   "BAT TRANG POTTERY VILLAGE": {
-    "name": "LÀNG GỐM BÁT TRÀNG",
-    "map": "xã Bát Tràng, huyện Gia Lâm, Hà Nội",
-    "type": "Làng nghề truyền thống",
-    "introduction": "Làng gốm Bát Tràng được hình thành từ thời Lý, nằm ở tả ngạn sông Hồng. Sau gần 1000 năm tồn tại và phát triển, Làng gốm Bát Tràng ngày nay trở thành trung tâm sản xuất gốm sứ có quy mô chuyên nghiệp, với nhiều công ty lớn được thành lập bên cạnh những đơn vị sản xuất nhỏ theo hộ gia đình.",
+    "name": "BAT TRANG POTTERY VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.3803854423363!2d105.90875208046155!3d20.977383939692846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135afa57ac82a29%3A0xbb2f62a917c8830!2zTMOgbmcgZ-G7kW0gQsOhdCBUcsOgbmc!5e0!3m2!1svi!2s!4v1760880622202!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Làng gốm Bát Tràng được hình thành từ thời Lý, nằm ở tả ngạn sông Hồng. Sau gần 1000 năm tồn tại và phát triển, Làng gốm Bát Tràng ngày nay trở thành trung tâm sản xuất gốm sứ có quy mô chuyên nghiệp, với nhiều công ty lớn được thành lập bên cạnh những đơn vị sản xuất nhỏ theo hộ gia đình. ",
     "location": "xã Bát Tràng, huyện Gia Lâm, Hà Nội",
     "description": [
       {
@@ -3621,28 +3755,53 @@
           "Làng gốm Bát Tràng nằm tại xã Bát Tràng, bao gồm thôn Giang Cao và thôn Bát Tràng, thuộc huyện Gia Lâm, thành phố Hà Nội.",
           "Theo các ghi chép lịch sử, khi nhà Lý dời đô từ Hoa Lư về Thăng Long, dân Bát tràng đã di cư theo. Khi đến gần kinh đô, thấy vùng đất bồi ven sông Hồng màu mỡ, họ quyết định định cư ở đó và cùng nhau tạo ra nghề làm gốm.",
           "Suốt gần 1000 năm lịch sử, làng gốm đã trải qua nhiều biến cố và thăng trầm. Tuy nhiên, nhờ sự bền vững và sự chăm chỉ của những người dân và nghệ nhân tại đây, làng gốm vẫn tồn tại và phát triển cho đến ngày nay."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203436.png"
       },
       {
         "title": "Điểm tham quan",
         "content": [
-          "Làng Cổ Bát Tràng: Dạo quanh khu vực làng cổ, đi dọc đường đê, hay len vào những con ngõ nhỏ là một trong những điều thú vị khi đến Làng gốm Bát Tràng.",
-          "Chợ Gốm Bát Tràng: Khu chợ rộng 6.000m2 này bày bán rất nhiều các sản phẩm gốm sứ, từ đồ trang trí mỹ nghệ, quà lưu niệm, cho đến đồ tiêu dùng, thờ cúng, tiểu cảnh non bộ.",
-          "Nhà Cổ Vạn Vân: Là nơi lưu giữ sản phẩm của các làng nghề, nhiều nhất là gốm sứ Bát Tràng. Nằm ở cuối làng Bát Tràng, ngôi nhà cổ thích hợp để bạn ghé đến nghỉ chân, chiêm ngưỡng bộ sưu tập hơn 400 món đồ gốm sứ cổ quý giá có niên đại khoảng 500 năm.",
-          "Bảo Tàng Gốm Bát Tràng: Tọa lạc ở thôn 5, xã Bát Tràng, Bảo tàng gốm Bát Tràng là một địa điểm check-in mới với 7 xoáy ốc khổng lồ đấu vào nhau, dựa trên ý tưởng bàn xoay vuốt gốm.",
-          "Lò Bầu Cổ: Ngày nay, trong làng gốm Bát Tràng vẫn còn tồn tại 5 lò bầu lâu đời, đã tồn tại hơn gần 100 năm và được coi là những di sản cuối cùng của làng gốm này."
-        ]
+          "Làng Cổ Bát Tràng: Dạo quanh khu vực làng cổ, đi dọc đường đê, hay len vào những con ngõ nhỏ là một trong những điều thú vị khi đến Làng gốm Bát Tràng.  Những giàn phơi gốm dọc đường làng, những bức tường phủ rêu, cổng làng, sân đình, cột đá... chắc chắn sẽ làm nền cho những bức hình đậm chất vintage của bạn."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203506.png"
+      },
+      {
+        "content": [
+          "Chợ Gốm Bát Tràng: Khu chợ rộng 6.000m2 này bày bán rất nhiều các sản phẩm gốm sứ, từ đồ trang trí mỹ nghệ, quà lưu niệm, cho đến đồ tiêu dùng, thờ cúng, tiểu cảnh non bộ.  Bạn hoàn toàn có thể sở hữu một món đồ từ Chợ gốm Bát Tràng với mức giá vừa túi của mình."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203531.png"
+      },
+      {
+        "content": [
+          "Nhà Cổ Vạn Vân: Là nơi lưu giữ sản phẩm của các làng nghề, nhiều nhất là gốm sứ Bát Tràng. Nằm ở cuối làng Bát Tràng, ngôi nhà cổ thích hợp để bạn ghé đến nghỉ chân, chiêm ngưỡng bộ sưu tập hơn 400 món đồ gốm sứ cổ quý giá có niên đại khoảng 500 năm. Giờ mở cửa tham quan: Từ 8h -17h30 ngày trong tuần"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203553.png"
+      },
+      {
+        "content": [
+          "Bảo Tàng Gốm Bát Tràng: Tọa lạc ở thôn 5, xã Bát Tràng, Bảo tàng gốm Bát Tràng là một địa điểm check-in mới với 7 xoáy ốc khổng lồ đấu vào nhau, dựa trên ý tưởng bàn xoay vuốt gốm, với những mặt cong đa diện, tạo thành một khối kiến trúc uốn lượn rất mềm mại. Ngoài ra, công trình này còn sử dụng triệt để các vật liệu địa phương như gạch nung và ngói Bát Tràng để tôn vinh nét mộc mạc, và bình dị của làng nghề truyền thống."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203615.png"
+      },
+      {
+        "content": [
+          "Lò Bầu Cổ: Ngày nay, trong làng gốm Bát Tràng vẫn còn tồn tại 5 lò bầu lâu đời, đã tồn tại hơn gần 100 năm và được coi là những di sản cuối cùng của làng gốm này. Những lò bầu này trước kia được sử dụng để nung gốm bằng phương pháp thủ công, đóng góp quan trọng vào quá trình sản xuất gốm truyền thống."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203644.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201548.png",
     "activities": [
       {
         "title": "Trải nghiệm",
         "content": [
           "Trải nghiệm làm gốm: Đăng ký chơi làm gốm với giá khoảng 10.000đ/lượt. Với chiếc bàn gốm xoay, và được chỉ dẫn tận tình về cách tạo hình, tạo mẫu, bạn đã có thể thử tài nặn gốm, và sáng tạo theo ý mình.",
-          "Tham quan quy trình sản xuất gốm: Để làm ra một sản phẩm gốm sứ Bát Tràng hoàn hảo, các nghệ nhân Bát Tràng phải trải qua hai công đoạn chính: tạo cốt gốm và họa tiết, sau đó là phủ men.",
-          "Thưởng thức ẩm thực: Bát Tràng không chỉ có đặc sản đồ gốm, mà còn được biết với món canh măng mực - một món ăn 'lên rừng xuống biển' khi kết hợp giữa măng và mực rất đặc sắc."
-        ]
+          "Tham quan quy trình sản xuất gốm: Để làm ra một sản phẩm gốm sứ Bát Tràng hoàn hảo, các nghệ nhân Bát Tràng phải trải qua hai công đoạn chính: tạo cốt gốm và họa tiết, sau đó là phủ men. Những sản phẩm của Bát Tràng luôn có chất riêng và nổi bật với lớp men sáng bóng, họa tiết sắc nét, với độ bền rất cao, không lo bị hỏng hay vỡ nét qua thời gian.",
+          "Thưởng thức ẩm thực: Bát Tràng không chỉ có đặc sản đồ gốm, mà còn được biết với món canh măng mực - một món ăn 'lên rừng xuống biển' khi kết hợp giữa măng và mực rất đặc sắc. Món ăn này dường như là không thể thiếu trên mâm cỗ của người dân Bát Tràng trong mỗi dịp lễ hội hay Tết. Ngoài ra, bạn còn có thể thưởng thức những món ngon của Hà Nội hay chiều cái bụng bằng những món ăn vặt siêu hấp dẫn.",
+          "Làng gốm Bát Tràng như một bảo tàng sống động, nơi bạn có thể tham quan các di tích văn hóa, cổ vật, những ngôi nhà gạch, cũng như đền, đình đã có từ thế kỷ 19, để hiểu hơn về cuộc sống tâm linh, các phong tục, lễ hội của người dân làng gốm.",
+          "Đặc biệt, trong chuyến thăm làng nghề, bạn còn được trải nghiệm công đoạn tạo hình các sản phẩm gốm mà bạn yêu thích. Các nghệ nhân ở Bát Tràng sẽ tư vấn về chủng loại gốm, sứ, các loại men phủ cũng như giới thiệu những sản phẩm truyền thống lẫn công nghiệp mà các lò gốm ở Bát Tràng đang sản xuất."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203703.png"
       },
       {
         "title": "Di chuyển",
@@ -3654,9 +3813,9 @@
     ]
   },
   "VAN PHUC SILK VILLAGE": {
-    "name": "LÀNG LỤA VẠN PHÚC",
-    "map": "phường Vạn Phúc, quận Hà Đông, Hà Nội",
-    "type": "Làng nghề truyền thống",
+    "name": "VAN PHUC SILK VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7450.6386620680505!2d105.77019809191444!3d20.97983289024553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31345331fc47aee7%3A0x578be675ac809ead!2zbMOgbmcgVuG6oW4gUGjDumMsIFbhuqFuIFBow7pjLCBIw6AgxJDDtG5nLCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1760882309009!5m2!1svi!2s",
+    "type": "culture",
     "introduction": "Làng Vạn Phúc là làng nghề ở Hà Nội, mang vẻ đẹp cổ kính, nổi tiếng với các sản phẩm lụa dệt tơ tằm chất lượng và sở hữu nhiều điểm check-in sống ảo thu hút giới trẻ cùng khách du lịch.",
     "location": "phường Vạn Phúc, quận Hà Đông, Hà Nội",
     "description": [
@@ -3665,7 +3824,8 @@
         "content": [
           "Làng dệt lụa Vạn Phúc thuộc phường Hà Đông, Hà Nội. Làng lụa đã tồn tại hơn 1000 năm và nằm trong số những làng dệt lụa nổi tiếng, đẹp nhất Việt Nam.",
           "Đường di chuyển đến làng Vạn Phúc là đường bê tông nên bạn có thể dễ dàng đến đây. Từ trung tâm thành phố, bạn có thể lựa chọn cung đường đi Nguyễn Trãi - Bưu điện Hà Đông rồi rẽ phải sẽ đến làng."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210641.png"
       },
       {
         "title": "Lịch sử",
@@ -3678,31 +3838,64 @@
       {
         "title": "Sản phẩm",
         "content": [
-          "Theo dòng lịch sử lâu đời, các sản phẩm của làng lụa Vạn Phúc đến nay vẫn duy trì vẻ đẹp truyền thống và được biến tấu, cải tiến mỗi ngày một đa dạng, bắt mắt hơn.",
-          "Sản phẩm tơ lụa Vạn Phúc luôn được đánh giá tốt, vừa đẹp vừa bền. Nguyên liệu của sản phẩm chủ yếu làm từ tơ tằm nên có độ mềm mại, dẻo dai đặc trưng.",
-          "Hoa văn trang trí trên lụa được thể hiện tinh tế, sáng tạo qua tay nghề người thợ như long phượng, đũi hoa, vân thọ đỉnh, tứ quế, mây bay,…",
-          "Mỗi năm, tơ lụa Vạn Phúc Hà Đông xuất khẩu khoảng 2,5 đến 3 triệu mét vuông vải."
-        ]
+          "Theo dòng lịch sử lâu đời, các sản phẩm của làng lụa Vạn Phúc đến nay vẫn duy trì vẻ đẹp truyền thống và được biến tấu, cải tiến mỗi ngày một đa dạng, bắt mắt hơn. ",
+          "Sản phẩm tơ lụa Vạn Phúc luôn được đánh giá tốt, vừa đẹp vừa bền. Nguyên liệu của sản phẩm chủ yếu làm từ tơ tằm nên có độ mềm mại, dẻo dai đặc trưng. Kết hợp với tay nghề điêu luyện của người thợ và nhiều công đoạn cầu kỳ đã tạo ra sản phẩm chất lượng cao",
+          "Hoa văn trang trí trên lụa được thể hiện tinh tế, sáng tạo qua tay nghề người thợ như long phượng, đũi hoa, vân thọ đỉnh, tứ quế, mây bay,… Cách trang trí hoa văn cân xứng, đường nét thanh thoát nhưng vẫn mang đậm sự dứt khoát, phóng khoáng giúp sản phẩm trở nên nổi bật và mang tính thẩm mỹ cao.",
+          "Mỗi năm, tơ lụa Vạn Phúc Hà Đông xuất khẩu khoảng 2,5 đến 3 triệu mét vuông vải.  Với việc sở hữu những đặc tính nổi bật, lụa Vạn Phúc Hà Đông cũng thường được lựa chọn là món quà sang trọng dành tặng cho người thân, bạn bè hay đối tác"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210703.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210548.png",
     "activities": [
       {
         "title": "Trải nghiệm",
         "content": [
-          "Check-in con đường ô: Con đường ô lung linh, rực rỡ sắc màu ngay đầu cổng làng. Phía trên đầu của con đường 100m được trang trí bằng những chiếc ô nhựa đầy đủ màu sắc.",
-          "Tham quan chùa Vạn Phúc: Ngôi chùa nằm ở vị trí ngay sát bên trái cổng làng với lối kiến trúc cổ kính của những ngôi chùa miền Bắc.",
-          "Chụp ảnh với bức tường bích họa: Những bức tường trong làng được các cô giáo mầm non khoác lên một màu áo mới đầy sắc màu.",
-          "Khám phá chợ lụa Vạn Phúc: Khu chợ là nơi giới thiệu, quảng bá các sản phẩm tơ lụa của làng tới du khách.",
-          "Tham gia lễ hội: Lễ hội ở làng tổ chức theo 3 phần chính là phần lễ, phần hội và phần quảng bá, diễn ra từ 26/10 đến 2/11 hằng năm."
-        ]
+          "Check-in con đường ô: Con đường ô lung linh, rực rỡ sắc màu ngay đầu cổng làng. Phía trên đầu của con đường 100m được trang trí bằng những chiếc ô nhựa đầy đủ màu sắc. Con đường ô không chỉ mang ý nghĩa về thẩm mỹ mà còn tượng trưng cho những tấm vải nhiều màu sắc, tạo điểm nhấn độc đáo cho làng lụa. Dọc hai bên con đường ô cũng là các hàng quán san sát nhau trưng bày sản phẩm đặc trưng, đa dạng của làng nghề. Đặc biệt, bạn có thể thuê áo dài và chụp ảnh check-in cùng với con đường ô đặc sắc nơi đây"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210548.png"
+      },
+      {
+        "content": [
+          "Tham quan chùa Vạn Phúc:Lựa chọn ghé thăm làng nghề lụa Vạn Phúc, bạn vừa được chiêm ngưỡng những dải lụa mềm mại, hút hồn; những không gian rực rỡ sắc màu; vừa được tận hưởng khoảng thời gian tĩnh lặng, yên bình của làng quê tại chùa Vạn Phúc cổ. Ngôi chùa nằm ở vị trí ngay sát bên trái cổng làng với lối kiến trúc cổ kính của những ngôi chùa miền Bắc. Không gian sân vườn chùa Vạn Phúc được lát gạch đỏ, gốc cây đa cổ thụ, giếng sen, thác nước và cây cầu gỗ đều đã nhuốm màu thời gian. Tiếng nhà chùa gõ mõ, tụng kinh hòa cùng bầu không khí yên tĩnh của chùa sẽ đem lại cho du khách những cảm nhận thư giãn, thoải mái"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210731.png"
+      },
+      {
+        "content": [
+          "Chụp ảnh với bức tường bích họa:Không chỉ có con đường ô rực rỡ sắc màu nổi tiếng, đến làng lụa Vạn Phúc, bạn có thể thỏa sức pose dáng, chụp ảnh với con đường bích họa. Những bức tường trong làng được các cô giáo mầm non khoác lên một màu áo mới đầy sắc màu.Bức tường bích họa là bức tranh khổng lồ tái hiện lại những cảnh làng nghề quen thuộc từ thời xưa. Vị trí bức tường bích họa nằm ở giữa trung tâm làng, không gian xung quanh là sân đình nên rất rộng rãi, thoáng mát. Bức bích họa đầy màu sắc giữa nổi bật trong không gian yên bình, cổ kính của làng cổ chắc chắn sẽ giúp bạn có những bức ảnh tuyệt đẹp."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210749.png"
+      },
+      {
+        "content": [
+          "Đến làng lụa Vạn Phúc Hà Đông, chắc chắn bạn không thể bỏ lỡ khu chợ lụa nổi tiếng. Khám phá chợ lụa Vạn Phúc: Khu chợ là nơi giới thiệu, quảng bá các sản phẩm tơ lụa của làng tới du khách. Tại khu chợ lụa có rất nhiều cửa hàng bán tơ lụa khác nhau, mỗi cửa hàng lại được decor bài trí theo phong cách riêng nhưng đều rực rỡ và tràn đầy sắc màu",
+          "Trong mỗi cửa hàng, rất nhiều mẫu mã sản phẩm như quần áo, áo dài hay khăn được bày bán để du khách lựa chọn. Ngoài các sản phẩm chất liệu chính là tơ lụa, cửa hàng ở chợ làng Vạn Phúc còn buôn bán các mặt hàng sản phẩm phong phú kết hợp từ những chất liệu vải khác nhau hay các món đồ trang trí độc đáo, bắt mắt."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210810.png"
+      },
+      {
+        "content": [
+          "Ngoài những trải nghiệm hấp dẫn phía trên, làng lụa Vạn Phúc còn tổ chức lễ hội vô cùng đặc sắc và nhộn nhịp. Tham gia lễ hội: Lễ hội ở làng tổ chức theo 3 phần chính là phần lễ, phần hội và phần quảng bá, diễn ra từ 26/10 đến 2/11 hằng năm.",
+          "Trong thời gian diễn ra lễ hội, không gian làng lụa được trang trí vô cùng rực rỡ, tràn đầy màu sắc từ con đường ô nổi bật ngay từ cổng làng tới các gian hàng lụa. Khung cảnh lễ hội đẹp nhất là vào buổi tối đêm, lúc này những ánh đèn vàng được bật sáng hòa cùng sắc màu rực rỡ khiến nhiều du khách liên tưởng tới một “Hội An thu nhỏ”.",
+          "Tham gia lễ hội, bạn sẽ có cơ hội chứng kiến và trải nghiệm quy trình dệt tơ lụa từ A đến Z. Bầu không khí sôi động, nhộn nhịp cùng sự nhiệt tình của người dân trong dịp lễ hội ở làng Vạn Phúc sẽ giúp bạn có cảm nhận về một lễ hội vui vẻ, ấn tượng.",
+          "Có một số kinh nghiệm du lịch làng lụa Vạn Phúc mà bạn có thể tham khảo cho chuyến tham quan, khám phá của mình như: Ngoài phương tiện cá nhân như xe máy, ô tô, bạn có thể lựa chọn các phương tiện công cộng như xe bus, tàu điện trên cao để đến làng lụa Vạn Phúc. Khi đến tham quan làng bằng phương tiện cá nhân, bạn có thể gửi xe ở điểm trông xe sau khi qua cổng làng vài mét. Làng không quá rộng nên việc gửi xe, đi bộ sẽ giúp bạn thoải mái hơn trong quá trình tham quan, mua sắm. Bạn có thể đến tham quan, khám phá làng Vạn Phúc bất cứ thời điểm nào trong năm. Tuy nhiên, thời điểm làng sôi động, nhộn nhịp nhất là vào khoảng thời gian diễn ra tuần lễ văn hóa cuối tháng 10 cuối năm và những buổi tối cuối tuần. Nếu bạn lựa chọn đến tham quan, khám phá làng vào đúng ngày mùng một hay ngày rằm hàng tháng, hãy hạn chế mặc cả để tránh thể hiện ý không hay tới người dân buôn bán"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210856.png"
+      },
+      {
+        "content": [
+          "Tham gia lễ hội, bạn sẽ có cơ hội chứng kiến và trải nghiệm quy trình dệt tơ lụa từ A đến Z. Bầu không khí sôi động, nhộn nhịp cùng sự nhiệt tình của người dân trong dịp lễ hội ở làng Vạn Phúc sẽ giúp bạn có cảm nhận về một lễ hội vui vẻ, ấn tượng.",
+          "Có một số kinh nghiệm du lịch làng lụa Vạn Phúc mà bạn có thể tham khảo cho chuyến tham quan, khám phá của mình như: Ngoài phương tiện cá nhân như xe máy, ô tô, bạn có thể lựa chọn các phương tiện công cộng như xe bus, tàu điện trên cao để đến làng lụa Vạn Phúc. Khi đến tham quan làng bằng phương tiện cá nhân, bạn có thể gửi xe ở điểm trông xe sau khi qua cổng làng vài mét. Làng không quá rộng nên việc gửi xe, đi bộ sẽ giúp bạn thoải mái hơn trong quá trình tham quan, mua sắm. Bạn có thể đến tham quan, khám phá làng Vạn Phúc bất cứ thời điểm nào trong năm. Tuy nhiên, thời điểm làng sôi động, nhộn nhịp nhất là vào khoảng thời gian diễn ra tuần lễ văn hóa cuối tháng 10 cuối năm và những buổi tối cuối tuần. Nếu bạn lựa chọn đến tham quan, khám phá làng vào đúng ngày mùng một hay ngày rằm hàng tháng, hãy hạn chế mặc cả để tránh thể hiện ý không hay tới người dân buôn bán"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210925.png"
       }
     ]
   },
   "BELL VILLAGE": {
-    "name": "LÀNG CHUÔNG",
-    "map": "xã Phương Trung, huyện Thanh Oai, Hà Nội",
-    "type": "Làng nghề truyền thống",
+    "name": "BELL VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3729.041772404806!2d105.75914917514845!3d20.830019594575173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31344ca08188fcdb%3A0x91b7d910e57d138a!2zQ2jDuWEgTMOgbmcgQ2h1w7RuZw!5e0!3m2!1svi!2s!4v1760883785923!5m2!1svi!2s",
+    "type": "culture",
     "introduction": "Làng Chuông là một làng nghề nổi tiếng cả nước với truyền thống làm nón lâu đời thông qua sản phẩm nón lá. Người dân làng Chuông sống chủ yếu bằng nghề làm nón lá còn hoạt động làm nông nghiệp không nhiều vì nơi đây đất chật người đông.",
     "location": "xã Phương Trung, huyện Thanh Oai, Hà Nội",
     "description": [
@@ -3718,51 +3911,67 @@
         "content": [
           "Là một làng nghề ở Hà Nội lâu đời, không ai biết chính xác làng Chuông làm nón cụ thể từ năm nào. Tuy nhiên theo lời những cụ bô lão trong làng, từ thế kỉ thứ 8 thì làng đã bắt đầu sản xuất nón.",
           "Thuở đó, làng Chuông có tên gọi là Trang Thì Trung, chuyên làm các loại nón cho hầu hết mọi tầng lớp khác nhau trong xã hội.",
-          "Trong thời kỳ phát triển, làng Chuông Hà Nội là nơi cung cấp nhiều loại nón truyền thống như nón quai thao, nón lá giá ghép sống.",
-          "Hiện tại, có hơn 4000 hộ dân ở làng Chuông đan nón lá đem đến những sản phẩm giá rẻ, mẫu mã phong phú cho khách hàng trong nước và quốc tế."
-        ]
+          "Trong thời kỳ phát triển, làng Chuông Hà Nội là nơi cung cấp nhiều loại nón truyền thống như nón quai thao, nón lá giá ghép sống.rong đó, quai thao sử dụng để người già đội đi chùa chiền. Còn nón lá già ghép sống phục vụ những người phụ nữ làm công việc đồng áng.",
+          "Hàng trăm năm đi qua, nghề đan nón lá tại làng Chuông ngày một thịnh vượng. Nghề đan nón đã truyền qua nhiều thế hệ và là một trong những chiếc nôi sản xuất nón lá nổi tiếng nhất Hà Thành. Hiện tại, có hơn 4000 hộ dân ở làng Chuông đan nón lá đem đến những sản phẩm giá rẻ, mẫu mã phong phú cho khách hàng trong nước và quốc tế."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213655.png"
       },
       {
         "title": "Đặc điểm nón làng Chuông",
         "content": [
-          "Nguyên liệu chính để làm cái nón lá là lá cọ tươi nhập từ một số tỉnh Quảng Bình, Quảng Trị, còn chỉ và khung nón đan bằng nan tre có ở địa phương.",
-          "Lá cọ tươi khá nặng và có hàm lượng cao cho nên người thợ cần phơi khoảng 3 nắng to làm nước bay hơi thì mới bắt tay vào sản xuất.",
-          "Để tạo ra nón đẹp trước hết cần có khung vững chắc. Khung chủ yếu được đan bởi nan nứa và vật liệu này có nhiều dọc hai bờ đê sông Đáy.",
-          "Cái tài của người thợ làng Chuông là các mối kết nối dây đan đều giấu kín bằng từng đường chỉ tinh tế.",
-          "Trong khi làm nón, các cô gái làng Chuông trang trí thêm bằng việc dán vào thân nón những họa tiết hoa bằng giấy đủ màu."
-        ]
+          "Về với làng Chuông, bạn được trực tiếp chiêm ngưỡng quy trình sản xuất chiếc nón lá đó là một nghề truyền thống chứ không có tính chất kinh doanh nên người dân không ai giấu nghiệp. Nguyên liệu chính để làm cái nón lá là lá cọ tươi nhập từ một số tỉnh Quảng Bình, Quảng Trị, còn chỉ và khung nón đan bằng nan tre có ở địa phương.",
+          "Lá cọ tươi khá nặng và có hàm lượng cao cho nên người thợ cần phơi khoảng 3 nắng to làm nước bay hơi thì mới bắt tay vào sản xuất. Bước kế tiếp là xử lý lá mà dân gian gọi là quay lá cho lá khô và mềm hơn nữa. Sau nữa, phải hong khô lá và đem đi sấy lần cuối cùng mới kết thúc việc xử lý lá. Lúc này lá cọ non sẽ chuyển đổi từ màu xanh thành màu vàng.",
+          "Để tạo ra nón đẹp trước hết cần có khung vững chắc. Khung chủ yếu được đan bởi nan nứa và vật liệu này có nhiều dọc hai bờ đê sông Đáy. Người thợ cần quấn đủ 16 vành trong xếp tầng từ trên xuống dưới theo một kích thước nhất định. Các bước tiếp theo là khâu lá vào khung và đan nhôi nón. Cái tài của người thợ làng Chuông là các mối kết nối dây đan đều giấu kín bằng từng đường chỉ tinh tế.",
+          "Sợi dây đan theo các đường kim với 16 lớp vòng thì chiếc nón mới thành hình. Khi chiếc nón đã đan xong, người ta hơ với hơi diêm để làm màu nón trở nên trắng và giữ nón không ẩm mốc. Hoặc cũng có thể quét dầu bên ngoài để nón sáng, bóng và đều màu. Trong khi làm nón, các cô gái làng Chuông trang trí thêm bằng việc dán vào thân nón những họa tiết hoa bằng giấy đủ màu."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213815.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213619.png",
     "activities": [
       {
         "title": "Trải nghiệm",
         "content": [
-          "Tham gia các lễ hội: Lễ hội hàng năm lớn nhất của làng Chuông nón lá là lễ hội vào ngày 10 tháng 3 âm lịch, kéo dài ba ngày từ mồng 9 đến 11 tháng 3.",
-          "Tham quan chợ Chuông: Chợ làng Chuông ngày nào cũng mở, riêng chợ nón một tháng có sáu phiên, vào các dịp mùng 4, 10, 14, 20, 24 và 30 âm lịch.",
-          "Tham quan Đình làng Chuông: Ngôi đình làng Chuông được xây dựng từ lâu đời vào năm Giáp Ngọ 1894, dưới thời vua Thành Thái thứ 6.",
-          "Dạo quanh chùa làng nón Chuông: Làng nón Chuông khoác trên mình một nét cổ kính nhuộm màu thời gian mang đặc trưng của những ngôi làng cổ ở Hà Nội."
+          "Tham gia các lễ hội: Lễ hội hàng năm lớn nhất của làng Chuông nón lá là lễ hội vào ngày 10 tháng 3 âm lịch, kéo dài ba ngày từ mồng 9 đến 11 tháng 3. Ngoài ra, điểm độc đáo tại làng Chuông còn là Hội chợ. Hội chợ làng Chuông thường họp vào khoảng ngày mùng 10 tháng Giêng âm mỗi năm và cũng là hội chợ lớn nhất của tỉnh Hà Đông cũ. Từ đó đến hết ngày 10 tháng Ba âm là hội làng cũng là dịp có hội chợ lớn. Theo dòng chảy lịch sử, ngày xưa chợ không đơn thuần là nơi mua bán hàng hoá mà là địa điểm hội tụ và diễn ra nhiều hoạt động văn hoá dân gian trong vùng. Nói về hội ở chợ Chuông, người xưa có câu ca dao: “Mồng mười đi chợ Chuông chơi, Xem đánh cờ người xem thổi cơm thi.”"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213846.png"
+      },
+      {
+        "content": [
+          "Tham quan chợ Chuông: Chợ làng Chuông ngày nào cũng mở, riêng chợ nón một tháng có sáu phiên, vào các dịp mùng 4, 10, 14, 20, 24 và 30 âm lịch. Chợ chủ yếu bán nón cùng một số nguyên vật liệu đan nón. Chợ làng Chuông mở từ khá sớm, 6 giờ sáng đã có đông người trong làng ra mua. Không khí quanh chợ, nhà nhà nô nức đem theo các mặt hàng của gia đình về đây bày bán. Chợ họp sớm, đông đúc và nhộn nhịp nhưng mau chóng giải tán sau khoảng 3 tiếng đồng hồ. Người tới chợ thường đi từ khá sớm, ai thích đến thăm cũng phải tranh thủ đến thật sáng tinh mơ để được tận hưởng cái bầu không khí nhộn nhịp của chợ nón. Khách về với làng Chuông, có mặt tại những buổi chợ nón sẽ thấy rất thích thú trước nét văn hoá độc đáo này. Không rõ có từ lúc nào nhưng từ nhiều đời qua, người dân làng Chuông đã giữ nếp sinh hoạt phiên chợ này. Đây là một bản sắc giá trị riêng của làng Chuông."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213909.png"
+      },
+      {
+        "content": [
+          "Tham quan Đình làng Chuông: Ngôi đình làng Chuông được xây dựng từ lâu đời vào năm Giáp Ngọ 1894, dưới thời vua Thành Thái thứ 6. Đình làng Chuông toạ lạc ở vị trí đẹp khá gần đường quốc lộ, có kiến trúc kiểu “nội công ngoại quốc” đặc trưng triều Nguyễn, bao gồm toà Trung cung, Hậu cung và Đại Bái. Qua cổng Nghi môn kiểu Tứ trụ và khoảng sân rộng tại đình làng Chuông, du khách sẽ choáng ngợp trước lối kiến trúc của tòa Đại bái. Hệ thống cột đỡ tại toà Đại bái đình làng Chuông đều làm từ loại cây lim già có lõi rắn chắc, đan xen là những mảng cốn chạm trổ tinh tế hình rồng cùng tứ quý (long ly quy phụng – tùng cúc trúc mai) . Trên bức cốn phía trước sân đình có 3 con hổ, thể hiện yếu tố mỹ thuật truyền thống dân gian đầy khoáng đạt. Trung điện và Hậu điện đình làng Chuông có cấu trúc gần giống nha xây dựng kiểu chồng diêm hai tầng mái. Ngôi đình làng Chuông còn gìn giữ và trưng bày nhiều hoành phi, cuốn thư và câu đối cổ xưa,…"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213941.png"
+      },
+      {
+        "content": [
+          "Dạo quanh chùa làng nón Chuông: Làng nón Chuông khoác trên mình một nét cổ kính nhuộm màu thời gian mang đặc trưng của những ngôi làng cổ ở Hà Nội. Từ các con hẻm nhỏ nhắn đến từng căn nhà với mái ngói cũ đã tạo ra một nét hoài cổ và yên bình nơi làng quê Bắc bộ. Nơi đây hấp dẫn du khách bởi đây là địa chỉ có rất nhiều góc sống ảo. Bất cứ góc nào, chỉ cần giơ máy lên là bạn đã có thể chụp một bộ ảnh sống ảo đẹp lung linh rồi. Không chỉ thu hút bởi nét đẹp cổ xưa, làng nón Chuông còn mang một vẻ đẹp văn hóa của làng nghề nón lá. Là làng nghề truyền thống Việt Nam, nên khi đi dạo xung quanh Làng nón Chuông, các bạn sẽ bắt gặp người người nhà nhà làm nón lá với nhiều loại dáng nón xinh xắn truyền thống của người Việt. Đây thực sự là một trải nghiệm quý báu của bất kỳ người con Việt Nam."
         ]
       },
       {
         "title": "Ẩm thực",
         "content": [
-          "Bánh cuốn làng Chuông: Làng nón Chuông có món bánh cuốn rất nổi tiếng khắp vùng.",
-          "Bánh đúc lạc: Tại chợ Chuông còn có món bánh đúc lạc cũng được bán nhiều trong mỗi buổi chợ."
+          "Bánh cuốn làng Chuông: Làng nón Chuông có món bánh cuốn rất nổi tiếng khắp vùng. ",
+          "Bánh đúc lạc: Tại chợ Chuông còn có món bánh đúc lạc cũng được bán nhiều trong mỗi buổi chợ cũng là một món ngon bình dị gắn với đời sống của người dân."
         ]
       },
       {
         "title": "Di chuyển",
         "content": [
-          "Từ Hà Nội du khách đi theo đường quốc lộ 6 theo hướng đi Hoà Bình. Sau khi đi theo hướng Chùa Hương cách thị trấn Kim Bài vào khoảng 2km rồi rẽ phải vào tại ngã ba là đã tới Làng nón Chuông ngay bên bờ sông Đáy."
+          "Từ Hà Nội du khách đi theo đường quốc lộ 6 theo hướng đi Hoà Bình. Sau khi đi theo hướng Chùa Hương cách thị trấn Kim Bài vào khoảng 2km rồi rẽ phải vào tại ngã ba là đã tới Làng nón Chuông ngay bên bờ sông Đáy. Là làng nón lá lâu đời nằm lặng lẽ cạnh bên con sông Đáy, làng nón Chuông mang vẻ đẹp mộc mạc và truyền thống của làng quê Bắc Bộ, hòa cùng vẻ đẹp độc đáo mà nghề sản xuất nón lá mang lại. Nếu là lữ khách phương xa, du khách nhớ đến làng Chuông khi có dịp du lịch Hà Nội để khám phá và tìm về những vẻ đẹp xưa giản dị .mà chân phương của dân tộc cũng như lịch sử làng nón Chuông và sự hình thành phát triển của ngôi làng này. "
         ]
       }
     ]
   },
   "PHU DONG VILLAGE": {
-    "name": "LÀNG PHÙ ĐỔNG",
-    "map": "xã Phù Đổng, huyện Gia Lâm, Hà Nội",
-    "type": "Di tích lịch sử, Địa điểm tâm linh",
+    "name": "PHU DONG VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.450672957844!2d105.95849167515378!3d21.054654986888842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a8707f85a527%3A0xcad75e483eb36f9c!2zxJDDqsyAbiBHacOzbmcgUGjDuSDEkOG7lW5n!5e0!3m2!1svi!2s!4v1760885188756!5m2!1svi!2s",
+    "type": "spirituality",
     "introduction": "Đền Gióng Phù Đổng là ngôi đền cổ kính mang đậm chất kiến trúc truyền thống Việt Nam. Nơi đây gắn liền với truyền thuyết về vị anh hùng dân tộc Thánh Gióng. Mỗi không gian trong đền đều gợi lên niềm tự hào về lịch sử dân tộc trong lòng du khách.",
     "location": "xã Phù Đổng, huyện Gia Lâm, Hà Nội",
     "description": [
@@ -3772,18 +3981,21 @@
           "Đền Gióng Phù Đổng (Đền Phù Đổng) nằm ở xã Phù Đổng, huyện Gia Lâm, Hà Nội. Đây là một vùng đất giàu truyền thống lịch sử ở Thủ đô.",
           "Ngôi đền hướng mặt về phía Nam, nằm tựa lưng đê sông Đuống, tạo nên khung cảnh vừa nên thơ vừa cổ kính.",
           "Ngôi đền là quần thể kiến trúc gồm nhiều hạng mục như cổng ngũ môn, thủy đình, tiền đường, trung đường và hậu cung.",
-          "Đền Phù Đổng còn là ngôi đền biểu tượng gắn liền với truyền thuyết Thánh Gióng nổi tiếng."
-        ]
+          "Ngôi đền là minh chứng sống động cho sự giao thoa giữa các phong cách kiến trúc từ thời Lý đến thời Nguyễn. Đền Phù Đổng còn là ngôi đền biểu tượng gắn liền với truyền thuyết Thánh Gióng nổi tiếng."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215951.png"
       },
       {
         "title": "Lịch sử hình thành",
         "content": [
-          "Đền Gióng Phù Đổng thuộc khu di tích lịch sử Phù Đổng và được xây dựng để tưởng nhớ đến Thánh Gióng - Vị anh hùng dân tộc có công đuổi giặc Ân xâm lược.",
+          "Đền Gióng Phù Đổng thuộc khu di tích lịch sử Phù Đổng và được xây dựng để tưởng nhớ đến Thánh Gióng - Vị anh hùng dân tộc có công đuổi giặc Ân xâm lược. Đến nay, Đền Thánh Gióng vẫn giữ nguyên giá trị văn hóa và trở thành biểu tượng lịch sử, là niềm tự hào của nhiều người con Việt.",
           "Thời Vua Hùng Vương: Đền Gióng Phù Đổng được xây dựng để thờ Thánh Gióng. Theo truyền thuyết lưu truyền thì đền được xây dựng trên nền nhà của mẹ Thánh Gióng.",
-          "Cuối thế kỷ XI: Dưới triệu đại của Vua Lý Thái Tổ, Đền Gióng Phù Đổng lần đầu tiên được tu bổ. Đền trở thành địa điểm tổ chức lễ hội Gióng hàng năm.",
-          "Thế kỷ XVII: Trong thời kỳ Lê Trung Hưng, Thủy đình của đền được xây dựng, ứng dụng nghệ thuật chạm khắc tinh vi.",
-          "Hiện nay, Đền Gióng Phù Đổng đang lưu giữ 21 đạo sắc phong từ nhiều triều đại như triều đại Lê, Tây Sơn và Nguyễn."
-        ]
+          "Cuối thế kỷ XI: Dưới triệu đại của Vua Lý Thái Tổ, Đền Gióng Phù Đổng lần đầu tiên được tu bổ. Đền trở thành địa điểm tổ chức lễ hội Gióng hàng năm nhằm tưởng nhớ công lao của Thánh Gióng trong việc đánh đuổi giặc Ân..",
+          "Thế kỷ XVII: Trong thời kỳ Lê Trung Hưng, Thủy đình của đền được xây dựng, ứng dụng nghệ thuật chạm khắc tinh vi về những cảnh sinh hoạt dân gian quen thuộc..",
+          "Thế kỷ XVII – XVIII: Điền Quận công Nguyễn Huy và Trạng nguyên Đặng Công Chất có công xây dựng các nhà Tiền tế của đền và cũng đóng góp nhiều hiện vật quý giá khác.",
+          "Hiện nay, Đền Gióng Phù Đổng đang lưu giữ 21 đạo sắc phong từ nhiều triều đại như triều đại Lê, Tây Sơn và Nguyễn được biết phong sắc cũ nhất là từ năm 1634. Tại đền đang bảo tồn nhiều hiện vật quý giá khác như ngai thờ, nghê đồng, bình hương và đôi chim hạc đậm chất Trung Hoa."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220011.png"
       },
       {
         "title": "Truyền thuyết Thánh Gióng",
@@ -3793,82 +4005,104 @@
           "Chuyện kể rằng, có một người phụ nữ 60 tuổi sau khi bước vào dấu chân khổng lồ đã mang thai và sinh ra cậu bé Gióng. Lên ba tuổi, cậu bé Gióng vẫn không biết nói, biết đi.",
           "Khi giặc Ân xâm lược, Gióng bất ngờ yêu cầu Vua Hùng rèn cho mình ngựa, gươm, giáp sắt. Sau khi được ăn no, Gióng lớn nhanh như thổi và lên đường đánh bại giặc Ân.",
           "Sau khi chiến thắng, ông cởi giáp và bay thẳng lên trời. Về sau, ông được người dân tôn thờ thành biểu tượng anh hùng của dân tộc."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220031.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215909.png",
     "activities": [
       {
         "title": "Tham quan",
         "content": [
-          "Kiến trúc độc đáo: Kiến trúc của Đền Gióng Phù Đổng mang hình chữ 'công', có quy mô rộng lớn, kết hợp giữa các yếu tố cổ kính và thiên nhiên.",
-          "Xem cổ vật: Đền Gióng Phù Đổng là nơi lưu giữ nhiều cổ vật có giá trị lịch sử cao. Trong đó, cổ vật nổi bật trong đền phải nhắc đến là 37 đạo sắc phong, các bia đá, tượng thờ, long ngai, kiệu.",
-          "Tham gia lễ hội: Lễ hội Đền Phù Đổng diễn ra từ ngày 6 đến ngày 9 tháng 4 Âm lịch hằng năm, thu hút đông đảo người dân địa phương và du khách tham gia."
-        ]
+          "Kiến trúc độc đáo: Kiến trúc của Đền Gióng Phù Đổng mang hình chữ 'công', có quy mô rộng lớn, kết hợp giữa các yếu tố cổ kính và thiên nhiên. Đền thờ Thánh Gióng được thiết kế theo phong cách đình làng Bắc Bộ, mỗi một hạng mục đều thể hiện nghệ thuật điêu khắc truyền thống của dân tộc. Đền thờ Thánh Gióng được thiết kế theo phong cách đình làng Bắc Bộ, mỗi một hạng mục đều thể hiện nghệ thuật điêu khắc truyền thống của dân tộc. Bên trong đền là các họa tiết chạm khắc gỗ, hoành phi và câu đối tô điểm cho không gian thêm linh thiêng. Điện chính đền thờ pho tượng Thánh Gióng có kích thước lớn. Bên cạnh đó là các tượng quan văn, quan võ và bốn viên cận binh. Đền có thủy định nằm giữa ao nước trước đền và được xây dựng theo kết cấu chồng rường hai tầng tám mái."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220052.png"
+      },
+      {
+        "content": [
+          "Xem cổ vật: Đền Gióng Phù Đổng là nơi lưu giữ nhiều cổ vật có giá trị lịch sử cao. Trong đó, cổ vật nổi bật trong đền phải nhắc đến là 37 đạo sắc phong, các bia đá, tượng thờ, long ngai, kiệu và nhiều tác phẩm điêu khắc tinh xảo khác. Các cổ vật này mang ý nghĩa phản ánh sự phát triển của nghệ thuật điêu khắc ở Việt Nam qua các thời kỳ."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215909.png"
+      },
+      {
+        "title": "Tham quan",
+        "content": [
+          "Tham gia lễ hội: Lễ hội Đền Phù Đổng diễn ra từ ngày 6 đến ngày 9 tháng 4 Âm lịch hằng năm, thu hút đông đảo người dân địa phương và du khách tham gia. Đặc biệt, lễ hội này đã được UNESCO công nhận là Di sản văn hóa phi vật thể của nhân loại. Du khách đến đây có thể trải nghiệm tái hiện cuộc chiến của Thánh Gióng khi chống giặc Ân cùng nhiều trò chơi thú vị khác."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220230.png"
       },
       {
         "title": "Di chuyển",
         "content": [
-          "Xe buýt: Bạn có thể chọn đi bằng xe buýt với xe buýt 10B từ Long Biên đến Trung Mầu (điểm kế cuối là Phù Đổng).",
+          "Đền Phù Đổng nằm cách trung tâm Thủ đô Hà Nội khoảng 21 km nên khá thuận tiện để du khách đến tìm hiểu về lịch sử, văn hóa Việt Nam. Để đến với Đền Gióng Phù Đổng Hà Nội, du khách có nhiều lựa chọn di chuyển khác nhau.",
+          "Xe buýt: Bạn có thể chọn đi bằng xe buýt với xe buýt 10B từ Long Biên đến Trung Mầu (điểm kế cuối là Phù Đổng). Bạn có thể xuống tại trạm dừng chân và tiếp tục di chuyển khoảng 10 đến 15 phút đi bộ để đến đền.",
           "Phương tiện cá nhân: Đền Gióng Phù Đổng cách trung tâm thành phố khoảng 17km. Xuất phát từ khu vực Hồ Gươm, di chuyển theo đường Trần Quang Khải, qua cầu Chương Dương, đi thẳng theo Quốc lộ 5 khoảng 8km, rẽ phải vào Quốc lộ 1A (đường Phù Đổng)."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220319.png"
       },
       {
         "title": "Lưu ý",
         "content": [
-          "Trang phục lịch sự khi tham quan đền",
-          "Đi nhẹ nói khẽ, giữ yên tĩnh",
-          "Không chụp ảnh khu vực điện thờ",
-          "Không chạm tay vào hiện vật",
-          "Bảo quản tư trang cá nhân cẩn thận"
-        ]
+          "Bạn cần chuẩn bị trang phục lịch sự khi tham quan đền, ưu tiên chọn các trang phục dài tay, nếu váy thì quá gối. Bạn cũng cần tránh những bộ đồ quá mỏng hoặc quá bó sát.",
+          "Du khách cần đi nhẹ nói khẽ, tránh có những hành động ồn ào hay đùa giỡn quá mức. Không gian đền là nơi linh thiêng, cần sự yên tĩnh và trang nghiêm",
+          "Khu vực điện thờ không cho phép chụp ảnh nên bạn cần hết sức lưu ý điểm này. Nếu muốn lưu giữ những hình ảnh tại đền thì bạn cần xin phép ban quản lý để biết được vị trí được phép chụp ảnh.",
+          "Du khách tránh chạm tay vào hiện vật, không làm mất vệ sinh và có hành động làm hư hại đến cây cối trong khuôn viên. Vì đền là di sản văn hóa phi vật thể nên cần được mọi người chung tay bảo vệ.",
+          "Du khách cần cẩn thận trong việc bảo quản tư trang cá nhân, đề phòng kẻ gian lợi dụng đông đúc, đặc biệt trong mùa lễ hội để thực hiện các hành vi trộm cắp, móc túi."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220351.png"
       }
     ]
   },
   "SUGAR CANE PAGODA": {
-    "name": "CHÙA MÍA",
-    "map": "xã Đường Lâm, thị xã Sơn Tây, Hà Nội",
-    "type": "Di tích lịch sử, Chùa cổ",
+    "name": "SUGAR CANE PAGODA",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.7719550267916!2d105.46494177515633!3d21.161471783207418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134f5bd11ccd161%3A0xfb9b75c53a44174e!2zQ2jDuWEgTcOtYQ!5e0!3m2!1svi!2s!4v1760887047107!5m2!1svi!2s",
+    "type": "spirituality",
     "introduction": "Chùa Mía Sơn Tây là viên ngọc cổ kính ở làng cổ Đường Lâm. Nơi đây nổi bật với kiến trúc truyền thống và hệ thống tượng Phật phong phú. Không chỉ là điểm đến tâm linh, ngôi chùa còn mang đậm dấu ấn lịch sử và văn hóa.",
     "location": "xã Đường Lâm, thị xã Sơn Tây, Hà Nội",
     "description": [
       {
         "title": "Giới thiệu chung",
         "content": [
-          "Chùa Mía hay còn gọi là Sùng Nghiêm Tự tọa lạc trên khu đất cao gần sông Tích. Ngôi chùa quay hướng Tây Nam, mang ý nghĩa vừa hướng đến trí tuệ (Nam) vừa mong thần linh yên vị (Tây).",
+          "Chùa Mía hay còn gọi là Sùng Nghiêm Tự tọa lạc trên khu đất cao gần sông Tích. Ngôi chùa quay hướng Tây Nam, mang ý nghĩa vừa hướng đến trí tuệ (Nam) vừa mong thần linh yên vị (Tây). Chùa Mía làng cổ Đường Lâm​ là một trong số ít ngôi chùa ở Hà Nội vẫn lưu giữ được nét kiến trúc truyền thống. Nơi đây còn gắn liền với sự linh thiêng và những giai thoại về bà chúa Mía.",
           "Đây là một trong những ngôi cổ tự tiêu biểu của xứ Đoài, vẫn giữ được kiến trúc truyền thống nguyên bản đến ngày nay.",
           "Chùa Mía gắn liền với vùng đất sinh ra nhiều danh nhân như Ngô Quyền, Phùng Hưng, Lý Bí.",
           "Chùa còn nổi tiếng là nơi lưu giữ số lượng tượng nghệ thuật lớn nhất Việt Nam với 287 pho tượng."
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20221930.png"
       },
       {
         "title": "Lịch sử",
         "content": [
-          "Ban đầu, Chùa Mía chỉ là một ngôi chùa nhỏ, có từ rất lâu đời. Đến năm 1632, nơi đây rơi vào tình trạng hoang phế.",
-          "Năm 1632, phi tần Ngô Thị Ngọc Diệu (còn gọi là Nguyễn Thị Ngọc Dong) – ở làng Nam Nguyễn (Nam An), đã cùng cha mẹ và người dân trong vùng đứng ra trùng tu, mở rộng quy mô chùa.",
-          "Nhờ công lao trùng tu, bà được nhân dân tôn kính gọi là 'Bà Chúa Mía'.",
-          "Trải qua nhiều lần tu bổ, nhưng đến nay, kiến trúc từ thời Bà Chúa Mía vẫn được giữ gìn nguyên vẹn."
-        ]
+          "Ban đầu, Chùa Mía chỉ là một ngôi chùa nhỏ, có từ rất lâu đời. Đến năm 1632, nơi đây rơi vào tình trạng hoang phế. Năm 1632, phi tần Ngô Thị Ngọc Diệu (còn gọi là Nguyễn Thị Ngọc Dong) – ở làng Nam Nguyễn (Nam An), đã cùng cha mẹ và người dân trong vùng đứng ra trùng tu, mở rộng quy mô chùa. Nhờ công lao trùng tu, bà được nhân dân tôn kính gọi là \"Bà Chúa Mía\". Trải qua nhiều lần tu bổ, nhưng đến nay, kiến trúc từ thời Bà Chúa Mía vẫn được giữ gìn nguyên vẹn."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222039.png"
       },
       {
         "title": "Kiến trúc",
         "content": [
-          "Chùa Mía mang đậm dấu ấn kiến trúc chùa Việt truyền thống, với bố cục hài hòa và quy mô bề thế.",
-          "Chùa được xây dựng theo dáng chữ Mục, chia thành ba khu vực riêng biệt: khoảng sân vườn thoáng đãng, khu nội điện trang nghiêm và dãy hành lang La Hán bao quanh.",
-          "Bước qua cổng tam quan, du khách sẽ thấy dãy nhà thụ trai – nơi các nhà sư sinh hoạt.",
-          "Khu vực chính điện gồm nhiều hạng mục quan trọng như Bái đường, chùa Hạ, chùa Trong và Thượng điện."
-        ]
+          "Chùa Mía mang đậm dấu ấn kiến trúc chùa Việt truyền thống, với bố cục hài hòa và quy mô bề thế. Chùa được xây dựng theo dáng chữ Mục, chia thành ba khu vực riêng biệt: khoảng sân vườn thoáng đãng, khu nội điện trang nghiêm và dãy hành lang La Hán bao quanh.",
+          "Bước qua cổng tam quan, du khách sẽ thấy dãy nhà thụ trai – nơi các nhà sư sinh hoạt. Khu vực chính điện gồm nhiều hạng mục quan trọng như Bái đường, chùa Hạ, chùa Trong và Thượng điện, tạo nên một tổng thể hài hòa, mang đậm dấu ấn kiến trúc chùa Việt truyền thống.",
+          "Tiến sâu vào trong là khu nội điện, bao gồm tiền đường, bảo điện, đại hùng và thượng điện. Kiến trúc nơi đây mang đặc trưng của kiểu “nội công ngoại quốc” – phong cách truyền thống trong xây dựng chùa chiền Việt Nam. Một trong những điểm nhấn ấn tượng của chùa Mía là dãy hành lang La Hán dài 140 mét, nơi đặt tượng Thập Bát La Hán. Những bức tượng bằng đá xanh cao khoảng 2,5 mét, mỗi vị có hình dáng và biểu cảm riêng biệt, thể hiện rõ phong cách nghệ thuật thời Lê. Một trong những điểm nhấn ấn tượng của chùa Mía là dãy hành lang La Hán dài 140 mét, nơi đặt tượng Thập Bát La Hán. Những bức tượng bằng đá xanh cao khoảng 2,5 mét, mỗi vị có hình dáng và biểu cảm riêng biệt, thể hiện rõ phong cách nghệ thuật thời Lê."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222056.png"
+      },
+      {
+        "content": [
+          "Bước qua cổng tam quan, du khách sẽ thấy dãy nhà thụ trai – nơi các nhà sư sinh hoạt. Khu vực chính điện gồm nhiều hạng mục quan trọng như Bái đường, chùa Hạ, chùa Trong và Thượng điện, tạo nên một tổng thể hài hòa, mang đậm dấu ấn kiến trúc chùa Việt truyền thống.",
+          "Tiến sâu vào trong là khu nội điện, bao gồm tiền đường, bảo điện, đại hùng và thượng điện. Kiến trúc nơi đây mang đặc trưng của kiểu “nội công ngoại quốc” – phong cách truyền thống trong xây dựng chùa chiền Việt Nam. Một trong những điểm nhấn ấn tượng của chùa Mía là dãy hành lang La Hán dài 140 mét, nơi đặt tượng Thập Bát La Hán. Những bức tượng bằng đá xanh cao khoảng 2,5 mét, mỗi vị có hình dáng và biểu cảm riêng biệt, thể hiện rõ phong cách nghệ thuật thời Lê. Một trong những điểm nhấn ấn tượng của chùa Mía là dãy hành lang La Hán dài 140 mét, nơi đặt tượng Thập Bát La Hán. Những bức tượng bằng đá xanh cao khoảng 2,5 mét, mỗi vị có hình dáng và biểu cảm riêng biệt, thể hiện rõ phong cách nghệ thuật thời Lê."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222118.png"
       },
       {
         "title": "Hệ thống tượng Phật",
         "content": [
-          "Chùa Mía được xem là một kho tàng điêu khắc Phật giáo quý giá với 287 pho tượng nhiều kích thước và chất liệu khác nhau.",
-          "Trong đó, có 6 pho tượng được đúc bằng đồng, 106 pho tượng chạm khắc từ gỗ và 174 pho tượng bằng đất luyện, được sơn son thếp vàng tinh xảo.",
-          "Những pho tượng tiêu biểu: Tượng Tuyết Sơn, Tượng Bá Đại Hòa Thượng, Tượng bà Chúa Mía, Tượng Quan Âm Nam Hải."
-        ]
+          "Chùa Mía được xem là một kho tàng điêu khắc Phật giáo quý giá với 287 pho tượng nhiều kích thước và chất liệu khác nhau. Trong đó, có 6 pho tượng được đúc bằng đồng, 106 pho tượng chạm khắc từ gỗ và 174 pho tượng bằng đất luyện, được sơn son thếp vàng tinh xảo.",
+          "Những pho tượng tiêu biểu: Tượng Tuyết Sơn, Tượng Bá Đại Hòa Thượng, Tượng bà Chúa Mía, Tượng Quan Âm Nam Hải. Tượng Tuyết Sơn: Được tạc từ gỗ mít, cao khoảng 3 mét, thể hiện hình ảnh Đức Phật Thích Ca trong giai đoạn tu khổ hạnh. Pho tượng có thần thái uy nghiêm, dáng vẻ gầy guộc nhưng toát lên sự kiên định, được đặt tại khu vực Thượng điện. ượng Bá Đại Hòa Thượng: Pho tượng cao khoảng 2 mét, khắc họa hình ảnh vị hòa thượng với dáng vẻ phúc hậu, nụ cười hiền từ. Tượng đặt tại trung tâm tiền đường, là một trong những bức tượng được nhiều người chiêm bái. Tượng bà Chúa Mía: Được làm từ gỗ mít, cao khoảng 1,5 mét, thể hiện hình ảnh một người phụ nữ đoan trang, dịu dàng. Tượng được thờ trang trọng trong khám gỗ sát Tam bảo điện, thể hiện lòng tôn kính của người dân với vị nữ nhân đã góp công lớn trong việc trùng tu chùa. Tượng Quan Âm Nam Hải: Pho tượng gỗ mít cao khoảng 2 mét, mang thần thái từ bi, hiền hòa của Đức Quán Thế Âm Bồ Tát. Tượng đặt tại hành lang La Hán, là điểm dừng chân của nhiều Phật tử và du khách khi đến chiêm bái."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20223415.png"
       }
     ],
-    "image": "",
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20221930.png",
     "activities": [
       {
         "title": "Tham quan",
@@ -3877,20 +4111,24 @@
           "Xem hệ thống tượng: Chiêm ngưỡng 287 pho tượng quý giá",
           "Tham quan tháp Cửu Phẩm Liên Hoa: Tháp cao 13 mét, gồm 9 tầng, được xây dựng để thờ vọng Xá Lợi Đức Phật",
           "Dạo quanh hành lang La Hán: Dãy hành lang dài 140 mét, nơi đặt tượng Thập Bát La Hán"
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222137.png"
       },
       {
         "title": "Lễ hội",
         "content": [
           "Thời điểm sôi động và đông vui nhất là vào tháng Giêng đầu năm",
           "Vào những ngày lễ, rằm lớn, chùa Mía thu hút đông đảo người dân đến chiêm bái, cầu nguyện"
-        ]
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222158.png"
       },
       {
         "title": "Di chuyển",
         "content": [
-          "Xe buýt: Tuyến xe buýt số 70A từ Kim Mã đến Sơn Tây, sau đó chuyển sang tuyến xe buýt số 92 đi Phú Cường",
-          "Phương tiện cá nhân: Từ trung tâm Hà Nội di chuyển khoảng 45km về phía Tây"
+          "Xe buýt: Tuyến xe buýt số 70A từ Kim Mã đến Sơn Tây, sau đó chuyển sang tuyến xe buýt số 92 đi Phú Cường. Tuyến xe buýt số 70A: Xuất phát từ Kim Mã đến Sơn Tây. Bạn có thể lên xe tại điểm dừng trên đường Kim Mã hoặc các điểm dừng khác trên lộ trình. Tuyến xe buýt số 92: Từ Sơn Tây, chuyển sang tuyến xe buýt số 92 đi Phú Cường. Xe buýt sẽ dừng lại cổng chợ Mía. Bạn cần đi bộ thêm một đoạn khoảng 600m để đến làng cổ Đường Lâm và chùa Mía.",
+          "Phương tiện cá nhân: Tuyến đường 1: Xuất phát từ Nguyễn Trãi (QL6), đi qua Khuất Duy Tiến, sau đó vào ĐCT08 (Đại lộ Thăng Long). Tiếp tục di chuyển đến ĐCT419 (Thị trấn Quốc Oai), rẽ vào Đường 80, rồi trở lại ĐCT419. Từ đây, đi qua Lạc Trị (QL32), Thị trấn Phúc Thọ và đến Làng cổ Đường Lâm.",
+          "Tuyến đường 2: Bắt đầu từ Nguyễn Trãi (QL6), đi qua Khuất Duy Tiến, vào ĐCT08, sau đó di chuyển qua các khu vực Tiến Xuân và Bình Yên. Tiếp tục đi theo QL21A để đến Làng cổ Đường Lâm.",
+          "Tuyến đường 3: Khởi hành từ Nguyễn Trãi (QL6), đi qua Khuất Duy Tiến và vào ĐCT08. Từ đây, tiếp tục di chuyển đến cầu Yên Bài, sau đó đi qua Xuân Khanh (Thị xã Sơn Tây) trước khi đến Làng cổ Đường Lâm."
         ]
       },
       {
@@ -3900,76 +4138,6 @@
           "Giữ gìn vệ sinh và trật tự",
           "Không tự ý chạm vào hiện vật, tượng thờ",
           "Giờ mở cửa: 07:00 đến 17:00 hàng ngày"
-        ]
-      }
-    ]
-  },
-  "CU DA ANCIENT VILLAGE": {
-    "name": "LÀNG CỔ CỰ ĐÀ",
-    "map": "xã Cự Khê, huyện Thanh Oai, Hà Nội",
-    "type": "Làng cổ, Làng nghề truyền thống",
-    "introduction": "Cự Đà là một ngôi làng cổ thuộc xã Cự Khê, huyện Thanh Oai, thành phố Hà Nội. Nằm bên bờ sông Nhuệ thanh bình, làng Cự Đà mang đậm dấu ấn của làng quê Bắc Bộ Việt Nam với những mái đình, cổng làng, cây đa, đặc biệt là lối kiến trúc kiểu Pháp cổ kính.",
-    "location": "xã Cự Khê, huyện Thanh Oai, Hà Nội",
-    "description": [
-      {
-        "title": "Giới thiệu chung",
-        "content": [
-          "Làng Cự Đà cách trung tâm thành phố chỉ khoảng 20km, một khoảng cách không quá xa thích hợp để bạn lựa chọn làm địa điểm vui chơi cuối tuần ở Hà Nội cùng gia đình, bạn bè.",
-          "Nếu làng cổ Đường Lâm nổi tiếng với lối kiến trúc nhà kiểu nông thôn 'ba gian hai chái' của vùng cận trung du thì làng Cự Đà lại mang phong cách làng nghề ven đô, ven sông điển hình theo kiến trúc Pháp pha trộn với kiểu nhà Việt cổ truyền thống."
-        ]
-      },
-      {
-        "title": "Kiến trúc độc đáo",
-        "content": [
-          "Làng Cự Đà được quy hoạch theo cấu trúc hình xương cá. Từ đường chính toả ra hàng chục con ngõ nhỏ dẫn vào các xóm.",
-          "Trước đây, làng Cự Đà có hàng trăm ngôi nhà cổ nhưng hiện nay chỉ còn lưu giữ khoảng 50 ngôi nhà có tuổi đời hàng trăm năm mang lối kiến trúc độc, lạ.",
-          "Với thiết kế 2 tầng, có ban công, mang phong cách phương tây nhưng nhiều ngôi nhà trong làng lại có mái hiên cong vút như mái đình.",
-          "Phong cách Pháp cổ điển không hề đối lập với phong cách của những ngôi nhà truyền thống. Trái lại nó tạo ra một lối kiến trúc mà không bất cứ ngôi làng nào Việt Nam có được."
-        ]
-      },
-      {
-        "title": "Nghề truyền thống",
-        "content": [
-          "Nghề làm miến dong: Làng Cự Đà được đánh giá là một trong những làng làm miến lớn nhất miền Bắc. Miến làng Cự Đà được làm hoàn toàn từ bột dong riềng với sợi miến nhỏ, đều, thường có màu vàng óng hoặc trắng mịn nấu lên giòn, dai hương vị thơm ngon đậm đà.",
-          "Nghề làm tương: Người dân Cự Đà vẫn luôn tự hào về nghề làm tương đã có từ hàng trăm năm nay với câu ca danh truyền 'Tương Cự Đà, cà làng Đám'. Tương Cự Đà được làm từ hai nguyên liệu chính là nếp và đậu tương, chế thêm nước mưa và muối trắng."
-        ]
-      },
-      {
-        "title": "Điểm tham quan",
-        "content": [
-          "Nhà cổ: Trải qua bao thăng trầm của thời gian, làng cổ Cự Đà dường như vẫn giữ được nguyên vẹn nét thuở ban đầu với những ngôi nhà mái ngói 3 gian, 5 gian lối thiết kế đặc trưng của vùng Bắc Bộ xen kẽ những ngôi nhà 2 tầng mang nét kiến trúc Pháp.",
-          "Cổng làng: Đặt chân tới làng cổ Cự Đà, bất cứ ai cũng cảm thấy ấn tượng với những cổng làng mang đậm nét rêu phong cổ kính được đắp nổi chữ Hán.",
-          "Đình làng Cự Đà: Kiến trúc đình Cự Đà gồm 5 gian, kết cấu gỗ truyền thống theo kiểu chồng rường, kẻ bảy. Trên các kẻ bảy, xà lách đều tinh tế chạm trổ các hoa văn, hoạ tiết như: hình rồng, hoa lá.",
-          "Miếu làng: Miếu làng Cự Đà là bệ thờ trời đất hay còn gọi là Đàn Xã Tắc, nơi thờ vị Thánh Trung Thông.",
-          "Chùa Cự Đà: Chùa Cự Đà hay còn gọi là Linh Minh tự, có niên đại hơn 300 năm, đã được công nhận di tích lịch sử văn hoá, xếp hạng di tích quốc gia vào năm 2000."
-        ]
-      }
-    ],
-    "image": "",
-    "activities": [
-      {
-        "title": "Trải nghiệm",
-        "content": [
-          "Dạo quanh làng cổ: Khám phá những ngôi nhà cổ có tuổi đời hàng trăm năm",
-          "Tìm hiểu nghề làm miến: Chứng kiến quy trình sản xuất miến truyền thống",
-          "Tìm hiểu nghề làm tương: Khám phá bí quyết làm tương nổi tiếng",
-          "Check-in cổng làng: Chụp ảnh với những cổng làng rêu phong cổ kính",
-          "Tham quan đình, chùa: Tìm hiểu kiến trúc và văn hóa tâm linh"
-        ]
-      },
-      {
-        "title": "Di chuyển",
-        "content": [
-          "Xe máy, ô tô: Trung tâm Hà Nội - Nguyễn Trãi - Láng Hạ - Đê La Thành - Đại Cồ Việt - Tôn Thất Tùng - Phạm Ngũ Lão - Ngô Gia Tự - làng Cự Đà",
-          "Xe bus: Các tuyến 103A, 103B, 85 có điểm dừng gần làng Cự Đà"
-        ]
-      },
-      {
-        "title": "Mua sắm",
-        "content": [
-          "Miến dong Cự Đà: Sản phẩm đặc trưng của làng nghề",
-          "Tương Cự Đà: Món quà đặc sản độc đáo",
-          "Các sản phẩm thủ công truyền thống"
         ]
       }
     ]

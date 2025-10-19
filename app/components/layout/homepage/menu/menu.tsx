@@ -12,7 +12,9 @@ import {
   DrawerTrigger,
 } from '~/components/ui/drawer';
 import { section } from '../banner/banner';
+import { useTranslation } from 'react-i18next';
 export default function Menu() {
+  const { t } = useTranslation();
   return (
     <Drawer direction="right">
       <DrawerTrigger className="cursor-pointer">
@@ -26,7 +28,7 @@ export default function Menu() {
           <div className="flex flex-col gap-4 bg-[url(bg_flower.png)] bg-contain bg-right bg-no-repeat p-10 text-lg font-semibold text-gray-700 uppercase">
             {section.map((item, index) => (
               <Link to={`#${item.link}`} key={index}>
-                {item.name}
+                {t(`header.${item.name}`)}
               </Link>
             ))}
           </div>

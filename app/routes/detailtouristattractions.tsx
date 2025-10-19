@@ -36,61 +36,36 @@ export default function PostPage() {
           <div className="mx-auto flex gap-14 px-20 py-12">
             {/* Left Content */}
             <div className="flex w-2/3 flex-col space-y-10">
-              {/* Địa chỉ + bản đồ */}
-              <div className="grid h-fit grid-cols-1 gap-6 md:grid-cols-2">
-                <div className="rounded-xl border-2 border-amber-300 bg-amber-100 p-5">
-                  <h2 className="mb-3 text-xl font-semibold uppercase">📍 {t('common.address')}</h2>
-                  <p className="text-justify text-lg leading-relaxed tracking-wide">{t(`${data.name}.location`)}</p>
-                </div>
-                <iframe
-                  src={data.map}
-                  // height="300"
-                  allowFullScreen
-                  className="min-h-[300px] w-full flex-1 rounded-xl border border-cyan-400"
-                  loading="lazy"
-                  referrerPolicy="no-referrer-when-downgrade"
-                ></iframe>
-              </div>
-
-              {/* Mô tả chi tiết */}
-              <div className="space-y-8">
-                {data.description.map((item, index) => (
-                  <div key={index} className="space-y-4 rounded-xl">
-                    {item.title && (
-                      <h3 className="text-2xl font-semibold text-amber-700">
-                        {t(`${data.name}.description.${index}.title`)}
-                      </h3>
-                    )}
-                    <ul className="space-y-2">
-                      {item.content.map((c, idx) => (
-                        <li key={idx} className="text-justify text-lg leading-relaxed tracking-wide">
-                          {t(`${data.name}.description.${index}.content.${idx}`)}
-                        </li>
-                      ))}
-                    </ul>
-                    {item.image && (
-                      <div className="flex justify-center">
-                        <img
-                          src={item.image}
-                          alt=""
-                          className="h-[550px] w-[80%] rounded-lg border object-cover shadow"
-                        />
-                      </div>
-                    )}
+              <div className="flex flex-col space-y-10">
+                {/* Địa chỉ + bản đồ */}
+                <div className="grid h-fit grid-cols-1 gap-6 md:grid-cols-2">
+                  <div className="rounded-xl border-2 border-amber-300 bg-amber-100 p-5">
+                    <h2 className="mb-3 text-xl font-semibold uppercase">📍 {t('common.address')}</h2>
+                    <p className="text-justify text-lg leading-relaxed tracking-wide">{t(`${data.name}.location`)}</p>
                   </div>
-                ))}
-              </div>
+                  <iframe
+                    src={data.map}
+                    // height="300"
+                    allowFullScreen
+                    className="min-h-[300px] w-full flex-1 rounded-xl border border-cyan-400"
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                  ></iframe>
+                </div>
 
-              {/* Hoạt động */}
-              {data.activities && (
+                {/* Mô tả chi tiết */}
                 <div className="space-y-8">
-                  <h3 className="text-2xl font-semibold text-cyan-700">🎯 {t('common.activities')}</h3>
-                  {data.activities.map((item, index) => (
+                  {data.description.map((item, index) => (
                     <div key={index} className="space-y-4 rounded-xl">
+                      {item.title && (
+                        <h3 className="text-2xl font-semibold text-amber-700">
+                          {t(`${data.name}.description.${index}.title`)}
+                        </h3>
+                      )}
                       <ul className="space-y-2">
                         {item.content.map((c, idx) => (
                           <li key={idx} className="text-justify text-lg leading-relaxed tracking-wide">
-                            {t(`${data.name}.activities.${index}.content.${idx}`)}
+                            {t(`${data.name}.description.${index}.content.${idx}`)}
                           </li>
                         ))}
                       </ul>
@@ -106,7 +81,42 @@ export default function PostPage() {
                     </div>
                   ))}
                 </div>
-              )}
+
+                {/* Hoạt động */}
+                {data.activities && (
+                  <div className="space-y-8">
+                    <h3 className="text-2xl font-semibold text-cyan-700">🎯 {t('common.activities')}</h3>
+                    {data.activities.map((item, index) => (
+                      <div key={index} className="space-y-4 rounded-xl">
+                        {item.title && (
+                          <h2 className="text-2xl font-semibold text-amber-700">
+                            {t(`${data.name}.activities.${index}.title`)}
+                          </h2>
+                        )}
+                        <ul className="space-y-2">
+                          {item.content.map((c, idx) => (
+                            <li key={idx} className="text-justify text-lg leading-relaxed tracking-wide">
+                              {t(`${data.name}.activities.${index}.content.${idx}`)}
+                            </li>
+                          ))}
+                        </ul>
+                        {item.image && (
+                          <div className="flex justify-center">
+                            <img
+                              src={item.image}
+                              alt=""
+                              className="h-[550px] w-[80%] rounded-lg border object-cover shadow"
+                            />
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                )}
+              </div>
+              <div className="mt-10 w-full">
+                <Feedback />
+              </div>
             </div>
 
             {/* Sidebar */}
@@ -116,9 +126,6 @@ export default function PostPage() {
                   🔗{t('common.Same category')}
                 </h2>
                 <List resources={TOURISTATTRACTIONS} />
-                <div className="mt-10 w-full">
-                  <Feedback />
-                </div>
               </div>
             </aside>
           </div>

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Titlecontent from '~/components/common/titlecontent';
 import image from './Thiếu-nữ-Chăm-Huỳnh-Phú-Photo-tour-2020.jpg';
 import image1 from './Hạ-Long-Võ-Rin-Photo-tour-2015.jpg';

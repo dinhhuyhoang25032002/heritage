@@ -1,4 +1,3 @@
-import React from 'react';
 import { RiTempColdLine } from 'react-icons/ri';
 import { IoWaterOutline } from 'react-icons/io5';
 import Autoplay from 'embla-carousel-autoplay';

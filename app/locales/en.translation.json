@@ -27,6 +27,29 @@
     "When to Visit": "When to Visit",
     "detail": "Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are experiences you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam."
   },
+  "footer": {
+    "detail": "Explore the beauty of Vietnam with memorable journeys. We bring the best travel experiences with professional and dedicated service.",
+    "Quick link": "Quick link",
+    "Home": "Home",
+    "Hotel": "Hotel",
+    "Restaurant": "Restaurant",
+    "About Us": "About Us",
+    "Popular destination": "Popular destination",
+    "Ha Long Bay": "Ha Long Bay",
+    "Hoi An ancient town": "Hoi An ancient town",
+    "Quang Ninh": "Quang Ninh",
+    "Quang Nam": "Quang Nam",
+    "Lao Cai": "Lao Cai",
+    "Contact & Newsletter": "Contact & Newsletter",
+    "Address": "Address",
+    "Rights": "All rights reserved",
+    "Privacy": "Privacy Policy",
+    "Terms of Use": "Terms of Use",
+    "Payment Methods": "Payment Methods",
+    "Cookie Policy": "Cookie Policy",
+    "Ha Noi": "Ha Noi",
+    "Viet Nam": "Viet Nam"
+  },
   "Travel Destinations": {
     "Travel Destinations": "Travel Destinations",
     "The Temple of Literature": "The Temple of Literature",
@@ -2395,5 +2418,1544 @@
   },
   "Gallery": {
     "Gallery": "Gallery"
+  },
+  "Hoan Kiem Lake": {
+    "name": "Hoan Kiem Lake (Sword Lake)",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.097617496516!2d105.84978977515314!3d21.028779737778155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab953357c995%3A0x1babf6bb4f9a20e!2zSOG7kyBIb8OgbiBLaeG6v20!5e0!3m2!1svi!2s!4v1760722403345!5m2!1svi!2s",
+    "type": "rest",
+    "introduction": "Hoan Kiem Lake (Sword Lake) is a cultural and historical symbol of Hanoi capital and a favorite destination for domestic and international tourists. Located in the center of the city, the lake is not only an ideal relaxing place but also associated with many legends and ancient architectural works.",
+    "location": "Hoan Kiem Lake is located right in the center of Hoan Kiem district, surrounded by Hang Khay, Le Thai To, and Dinh Tien Hoang streets, Hanoi.",
+    "description": [
+      {
+        "title": "Location of Hoan Kiem Lake",
+        "content": [
+          "Hoan Kiem Lake (Sword Lake) is located right in the center of Hoan Kiem district, so it is very convenient for tourists to visit the scenery and explore many interesting experiences at any time of the day.",
+          "Because it is located in a prime location, connecting the Old Quarter area such as Hang Ngang, Hang Dao, Cau Go, Luong Van Can... with the Western Quarter area including Nha Tho, Trang Thi, Hang Bai, Trang Tien, Hang Khay..., Hoan Kiem Lake attracts many domestic and international tourists to visit and explore during their Hanoi trip."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20020219.png"
+      },
+      {
+        "title": "History of Hoan Kiem Lake",
+        "content": [
+          "The lake has existed for a very long time, about several thousand years ago. Before officially being named Hoan Kiem, the lake had many different names such as Luc Thuy Lake because the lake water was blue all year round, or Thuy Quan Lake because the former court used this place to review naval forces.",
+          "The name Hoan Kiem appeared in the early 15th century, associated with the legend of King Le Thai To returning the sacred sword to the Golden Turtle after using it to defeat the Ming invaders, opening a prosperous Le dynasty.",
+          "The legend recounts that when King Le Loi was boating on Luc Thuy Lake, a golden turtle surfaced, grabbed the Thuan Thien sword, and dove to the bottom of the lake. The King believed it was the will of heaven, so he renamed the lake Ho Hoan Kiem – meaning returning the sword.",
+          "By the end of the 16th century, Lord Trinh divided the lake into left and right parts, called Vong Lake. In 1884, the Huu Vong part of the lake was filled to expand the capital, and the Ta Vong part is today's Hoan Kiem Lake."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20020426.png?t=1760727949906"
+      },
+      {
+        "title": "Transportation to Hoan Kiem Lake",
+        "content": [
+          "If tourists stay at hotels around the Old Quarter area, it only takes a few minutes walk to reach Hoan Kiem Lake, Ngoc Son Temple, or the pedestrian street around the lake.",
+          "If staying far from the center, tourists can take a taxi or bus. Bus routes passing Hoan Kiem Lake include numbers 09, 14, and 16 with a frequency of 15–20 minutes/trip (from 5:05 AM to 9:05 PM).",
+          "When taking a taxi, tourists should choose reputable companies like Mai Linh, Thanh Cong to avoid being overcharged."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20020658.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20004213.png",
+    "activities": [
+      {
+        "content": [
+          "Walking around the lake and taking photos with Turtle Tower – the symbol of Hanoi capital.",
+          "Visiting Ngoc Son Temple and the bright red The Huc Bridge stretching out into the middle of the lake.",
+          "Enjoying Trang Tien ice cream, Old Quarter coffee, or experiencing the vibrant atmosphere at the pedestrian street around the lake on weekends."
+        ]
+      }
+    ]
+  },
+  "Ngoc Son Temple": {
+    "name": "Ngoc Son Temple",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.049800072293!2d105.84981117515318!3d21.0306932877124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abc000809ea7%3A0xbb2716ec0282371d!2zxJDhu4FuIE5n4buNYyBTxqFu!5e0!3m2!1svi!2s!4v1760723454577!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Ngoc Son Temple is a famous spiritual and cultural symbol of Hanoi capital, attracting tourists thanks to its ancient beauty and long-standing historical value. With a prime location in the heart of Sword Lake, this is an unmissable destination in the journey to explore Hanoi's thousand-year civilization.",
+    "location": "Dinh Tien Hoang Street, Hang Trong Ward, Hoan Kiem District, Hanoi",
+    "description": [
+      {
+        "title": "Location of Ngoc Son Temple",
+        "content": [
+          "Ngoc Son Temple is located on a mound of land called Ngoc Son Islet in the northeast of Sword Lake.",
+          "The temple gate is located at Dinh Tien Hoang Street, Hang Trong Ward, Hoan Kiem District, Hanoi capital.",
+          "Ngoc Son Temple was built in the 19th century to worship Quan De to help suppress evil and bring good things to the people.",
+          "During the Tran Dynasty, the temple was renamed Ngoc Son – a place to worship soldiers and generals who sacrificed in the resistance war against the Yuan-Mongol invaders."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20005215.png"
+      },
+      {
+        "title": "Formation History",
+        "content": [
+          "During the reign of King Le Vinh Huu (1735–1739), Lord Trinh Giang built Khanh Thuy Palace on the old foundation of Ngoc Son Temple and built two earthen mounds on the eastern bank, called Dao Tai Mountain and Ngoc Boi Mountain.",
+          "At the end of the Le Dynasty, the palace was partially destroyed. Later, the philanthropist Tin Trai built Ngoc Son Pagoda to worship Buddha, which later became a temple worshiping Van Xuong De Quan – the god protecting academic success and fame.",
+          "In 1865, the scholar Nguyen Van Sieu extensively renovated the temple, adding Trấn Ba Pavilion, The Huc Bridge, the Inkstone Tower and the Pen Tower, turning this place into a unique cultural and academic symbol of Hanoi.",
+          "In 2013, Ngoc Son Temple was ranked as a Special National Monument, affirming its great historical and cultural value."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20005316.png"
+      },
+      {
+        "title": "Unique Architecture of Ngoc Son Temple",
+        "content": [
+          "Ngoc Son Temple is designed in the Tam character style consisting of three main compartments: the Ceremonial Hall, the Central Hall, and the Sanctuary.",
+          "The Ceremonial Hall is the first place for rituals, the Central Hall worships Van Xuong, Quan Vu, and La To – gods of learning; the Sanctuary worships Tran Hung Dao – a national hero.",
+          "To the south of the temple is Trấn Ba Pavilion with a square architecture, two floors, eight roofs, representing the characteristics of ancient Vietnamese architecture.",
+          "Surrounding the temple are three famous structures: the Pen Tower, the Inkstone Tower, and The Huc Bridge – symbolizing the studious spirit and honoring the knowledge of the Vietnamese people."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20005446.png"
+      },
+      {
+        "title": "Cultural Symbols around the Temple",
+        "content": [
+          "The Pen Tower is 9m high, built in 1865, with three words 'Ta Thanh Thien' (Write on the blue sky) carved on the body, expressing the spirit of learning.",
+          "At the foot of the Pen Tower is the Inkstone Tower made of blue stone placed on the backs of three toads, carved with Nguyen Van Sieu's inscription, praising knowledge and literature.",
+          "The Huc Bridge is made of wood, curved like a shrimp, meaning 'the place where the morning sun rays stop', symbolizing luck and prosperity.",
+          "The harmonious combination of the Pen Tower, Inkstone Tower, and The Huc Bridge creates a beautiful landscape, symbolizing the philosophy of Yin-Yang harmony and the Vietnamese tradition of studiousness."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20005535.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20004936.png"
+  },
+  "Turtle Tower": {
+    "name": "Turtle Tower",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.049550786968!2d105.84981117493851!3d21.030703263136587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab952ba31a31%3A0xe4182b099be6c860!2zVGjDoXAgUsO5YQ!5e0!3m2!1svi!2s!4v1760723921200!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Turtle Tower is a famous historical and cultural symbol of Hanoi capital, majestically located in the heart of Hoan Kiem Lake. With its ancient beauty and unique architecture combining Western and Vietnamese styles, Turtle Tower has become an image associated with Hanoi's thousand-year civilization.",
+    "location": "South of Hoan Kiem Lake, Hoan Kiem District, Hanoi",
+    "description": [
+      {
+        "title": "Location of Turtle Tower",
+        "content": [
+          "Turtle Tower was built on a small islet located in the South of Hoan Kiem Lake, center of Hanoi capital.",
+          "The tower is located in a prime position, surrounded by calm lake water and green trees, creating a peaceful and poetic scene.",
+          "Thanks to its prominent position in the middle of the lake, Turtle Tower attracts many domestic and international tourists to visit, becoming an inseparable part of Hanoi's image."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20010032.png"
+      },
+      {
+        "title": "History of Turtle Tower",
+        "content": [
+          "Turtle Tower was built on a mound of land about 350m² wide, also called Turtle Mound – where the Sword Lake turtles used to come up to sunbathe or lay eggs.",
+          "According to historical records, Turtle Mound has existed since the time of King Le Thanh Tong and was once the place to build Dieu Dai for the king to fish. By the time of the Restored Le Dynasty, Lord Trinh built Ta Vong Pavilion on the mound, but by the Nguyen Dynasty it was no more.",
+          "In 1886, Mr. Nguyen Ngoc Kim (Ba Ho Kim) asked permission from the French government to build a tower on Turtle Mound to bury his father's remains, thanks to the location considered favorable according to feng shui.",
+          "Initially, the construction was called Ba Ho Kim Tower, later renamed Turtle Tower – associated with the legend of King Le Loi returning the sword to the Golden Turtle after defeating the Ming invaders.",
+          "Although only over 130 years old, the history of building a tower on Turtle Mound dates back more than 500 years, from the time of King Le Thai Tong (1435)."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20010158.png"
+      },
+      {
+        "title": "Ideal Time to Visit Turtle Tower",
+        "content": [
+          "Autumn (August to November) is considered the most beautiful time to visit Turtle Tower.",
+          "At this time, Hanoi has cool weather, fresh air, the faint fragrance of milk flowers and yellow leaves falling everywhere creating a poetic and romantic scene.",
+          "In addition, evening is also an ideal time to admire Turtle Tower with dazzling lights reflecting on the lake surface, offering an unforgettable magical beauty."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20010315.png"
+      },
+      {
+        "title": "How to Get to Turtle Tower",
+        "content": [
+          "Tourists can come to Hanoi by various means such as plane, train, coach, or motorbike.",
+          "From Noi Bai Airport, you can travel by taxi, bus, or airport shuttle service to the Hoan Kiem Lake area.",
+          "Bus routes passing the lake include: 09, 14, 08, 31, 36, 04,… In addition, taxis from companies like Mai Linh, Ba Sao, Thanh Cong all operate around this area.",
+          "If staying in the Old Quarter, you only need to walk a few minutes to admire Turtle Tower right in the middle of Sword Lake."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20010418.png"
+      },
+      {
+        "title": "Unique Architecture of Turtle Tower",
+        "content": [
+          "Turtle Tower is a harmonious combination of European Gothic style and ancient Vietnamese architecture.",
+          "The tower was built on a rectangular earthen mound with four floors, total height of 8.8m.",
+          "Floor 1 has a foundation 0.8m high, length 6.28m, width 4.54m, with a total of 14 arched doors – creating an open and airy space.",
+          "Floors 2 and 3 have gradually smaller sizes, with floor 3 having a circular door 0.6m in diameter facing East.",
+          "Floor 4 is a small watchtower, each side about 2m. On the eastern face, three words 'Quy Son Thap' (Turtle Mountain Tower) are carved. The tower roof has traditional Vietnamese features with curved upswept eaves and dragons flanking the moon.",
+          "The overall architecture of Turtle Tower creates a solemn, ancient beauty while still harmonizing with the surrounding natural landscape."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20010502.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20005735.png"
+  },
+  "One Pillar Pagoda": {
+    "name": "One Pillar Pagoda",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.921351789057!2d105.83104567515325!3d21.03583268753582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba1728475ed%3A0xdbe7366fe9dfc2ae!2zQ2jDuWEgTeG7mXQgQ-G7mXQ!5e0!3m2!1svi!2s!4v1760724531706!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "One Pillar Pagoda – a sacred symbol and unique architecture of Hanoi, built in 1049 during the reign of King Ly Thai Tong. The pagoda has the shape of a lotus rising from the water, expressing the profound philosophy of Buddhism about purity and enlightenment.",
+    "location": "Ong Ich Khiem Street, Ba Dinh District, Hanoi",
+    "description": [
+      {
+        "title": "Introduction to One Pillar Pagoda",
+        "content": [
+          "One Pillar Pagoda, also known as Dien Huu Pagoda, was built in 1049 during the reign of King Ly Thai Tong.",
+          "The pagoda is located in the Ba Dinh area, near Ho Chi Minh Mausoleum, and is a cultural-spiritual symbol of Hanoi."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011541.png"
+      },
+      {
+        "title": "Meaning and Legend of its Formation",
+        "content": [
+          "According to legend, King Ly Thai Tong dreamed that the Goddess of Mercy Quan Am gave him a bright lotus flower.",
+          "After waking up, the king built a pagoda on Linh Chieu Lake, with architecture resembling a lotus flower blooming on the water surface, to commemorate the grace of the Goddess and pray for national peace and people's safety.",
+          "During the reign of King Ly Nhan Tong, the pagoda was renovated, Linh Chieu Lake was built and a gilded lotus tower was added at the top of the pillar."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011639.png"
+      },
+      {
+        "title": "Unique Architecture",
+        "content": [
+          "One Pillar Pagoda is a symbol of architectural, sculptural art and Buddhist philosophy.",
+          "The structure consists of a large stone pillar supporting a small pagoda above, with curved roof shaped like a dragon, creating the image of a pure lotus blooming in the middle of a tranquil lake.",
+          "The architecture expresses the harmony between heaven and earth, humans and the universe."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011746.png"
+      },
+      {
+        "title": "Prominent Areas in the Pagoda",
+        "content": [
+          "The stone steps leading to the main hall consist of 13 stone steps built from the Ly Dynasty, still intact after hundreds of years.",
+          "The altar of Quan The Am Bo Tat is placed in the middle of Lien Hoa Dai, the statue is gilded and placed on a meticulously carved wooden lotus pedestal.",
+          "The bodhi tree next to the pagoda is a gift from Indian President Rajendra Prasad to President Ho Chi Minh, propagated from the bodhi tree where Buddha attained enlightenment.",
+          "The Three-Entrance Gate has traditional Vietnamese architecture, symbolizing the three views of Buddhism: Existence view, Emptiness view, and Middle view."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011902.png"
+      },
+      {
+        "title": "Opening Hours and Ticket Prices",
+        "content": [
+          "Opening hours: 7:00 – 18:00 daily.",
+          "Free for Vietnamese citizens coming to visit the scenery, worship Buddha, or make offerings.",
+          "Entrance fee for foreign visitors: 25,000 VND/person.",
+          "Average visiting duration: 1 – 3 hours."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011951.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20011424.png",
+    "activities": [
+      {
+        "content": [
+          "Visiting and taking photos at Lien Hoa Dai – the symbol of the pagoda.",
+          "Burning incense, praying for peace and luck at the main hall.",
+          "Learning about the history of the Ly Dynasty and the ancient architectural value of Hanoi.",
+          "Walking around the nearby Ho Chi Minh Mausoleum area and Ba Dinh Square."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012031.png"
+      }
+    ]
+  },
+  "Imperial Citadel of Thang Long": {
+    "name": "Imperial Citadel of Thang Long",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9364640247854!2d105.83768447515334!3d21.03522808755661!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135aba3381d7c49%3A0xb521a7d98f582937!2zSG_DoG5nIFRow6BuaCBUaMSDbmcgTG9uZw!5e0!3m2!1svi!2s!4v1760725453275!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "The Imperial Citadel of Thang Long is a typical historical relic complex of Vietnam, associated with the formation and development of Thang Long - Hanoi capital for 13 centuries. This was the political, cultural, and administrative center of Vietnamese feudal dynasties and was recognized by UNESCO as a World Cultural Heritage in 2010.",
+    "location": "19C Hoang Dieu Street, Ba Dinh District, Hanoi City",
+    "description": [
+      {
+        "title": "Location and Transportation Guide",
+        "content": [
+          "The Imperial Citadel of Thang Long is located right in the center of Hanoi Capital, at 19C Hoang Dieu Street, Ba Dinh District.",
+          "Tourists can easily travel by motorbike, bicycle, or car. From Hoan Kiem Lake, follow Trang Thi Street, turn into Dien Bien Phu Street, then enter Hoang Dieu Street to reach the main gate.",
+          "Alternatively, you can travel by bus route number 22 to reach the relic site.",
+          "Opening hours: 8:00 AM – 5:00 PM daily."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012538.png"
+      },
+      {
+        "title": "Formation History and Architecture",
+        "content": [
+          "The Imperial Citadel of Thang Long has a history spanning 13 centuries, through many feudal dynasties such as Ly, Tran, Le, Mac, Nguyen, and the period of resistance against the French.",
+          "Ly Dynasty (11th–12th centuries): King Ly Thai To moved the capital from Hoa Lu to Thang Long, building the Capital Citadel with three walled rings: Dai La Citadel, Imperial Citadel, and Forbidden Citadel.",
+          "Tran Dynasty (13th–14th centuries): The Tran kings built many new works, expanding the palace area.",
+          "Early Le Dynasty (15th century): The Imperial Citadel was expanded to double the scale, becoming the largest power center in the country.",
+          "Mac Dynasty (16th century): The Mac dynasty reinforced the city gates, built more earthen ramparts, but were destroyed by the Trinh army when they occupied it.",
+          "Restored Le Dynasty (17th–18th centuries): Lord Trinh Doanh rebuilt a new citadel on the foundation of Dai La, naming it Dai Do.",
+          "Tay Son Period (18th century): King Quang Trung still had it repaired and added some works here even though he moved the capital to Phu Xuan (Hue).",
+          "Nguyen Dynasty (19th–20th centuries): Thang Long became the Northern Citadel post, with reduced scale compared to before.",
+          "French Colonial Period: The French changed the structure of the Imperial Citadel, building more military barracks.",
+          "In 2002, the relic site was excavated over an area of 19,000m², discovering many valuable cultural layers.",
+          "In 2010, UNESCO recognized the Central Sector of the Imperial Citadel of Thang Long as a World Cultural Heritage."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012635.png"
+      },
+      {
+        "title": "Historical and Cultural Significance",
+        "content": [
+          "The Imperial Citadel of Thang Long is a symbol of the nation-building and defense process throughout over a millennium.",
+          "The central area and the archaeological site at 18 Hoang Dieu preserve many layers of relics showing the succession between dynasties.",
+          "Although many ancient structures are no longer intact, the remaining traces carry great historical, cultural, and architectural value, demonstrating the mettle and intelligence of the Vietnamese nation."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012731.png"
+      },
+      {
+        "title": "Prominent Structures in the Relic Site",
+        "content": [
+          "Hanoi Flag Tower: Built in 1812 during the reign of King Gia Long, consisting of 3 pyramidal base floors and a high pillar body, a prominent symbol on Dien Bien Phu Street.",
+          "Northern Gate (Chinh Bac Mon): The only remaining city gate, built in 1805, worships two famous generals Nguyen Tri Phuong and Hoang Dieu.",
+          "Kinh Thien Palace: The center for ceremonies and royal courts of the former court, now only the palace foundation, stone steps, and a pair of exquisitely carved dragons remain.",
+          "Doan Mon: The main gate leading to Kinh Thien Palace, consisting of 5 arched stone gates, bearing ancient majestic features."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012814.png"
+      },
+      {
+        "title": "Night Tour – Decoding the Imperial Citadel of Thang Long",
+        "content": [
+          "The 'Decoding the Imperial Citadel of Thang Long' tour is a prominent activity for tourists, taking place on Saturday and Sunday evenings every week.",
+          "The tour lasts 90 minutes, departing at 6:00 PM, 6:30 PM, and 7:00 PM.",
+          "Tourists can admire the palatial space shimmering under lantern light, explore ancient architecture, precious artifacts, and enjoy special royal court dances."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012858.png"
+      },
+      {
+        "title": "Archaeological Area and Check-in Activities",
+        "content": [
+          "The Imperial Citadel Archaeological Area at 18 Hoang Dieu includes 4 main areas, preserving relic layers through many periods.",
+          "Here, visitors can tour ancient wells, palace foundations, and many valuable excavated artifacts.",
+          "This area is also a famous photo spot, attracting many tourists and young people to check-in with traditional costumes and ao dai."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012538.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20012333.png",
+    "activities": [
+      {
+        "content": [
+          "Visiting prominent structures: Hanoi Flag Tower, Northern Gate, Kinh Thien Palace, Doan Mon.",
+          "Participating in the exciting night tour 'Decoding the Imperial Citadel of Thang Long'.",
+          "Exploring the archaeological area at 18 Hoang Dieu and admiring precious artifacts.",
+          "Taking souvenir photos with Vietnamese traditional costumes.",
+          "Learning about the history and culture of Thang Long – Hanoi through exhibitions and displayed artifacts."
+        ],
+        "image": "/images/thanglong/activities.jpg"
+      }
+    ]
+  },
+  "Co Loa Citadel": {
+    "name": "Co Loa Citadel",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.0093731347138!2d105.86886257515512!3d21.112192484907943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313500b2ffacb0a3%3A0x952a436b3aab36de!2zRGkgdMOtY2ggVGjDoG5oIEPhu5UgTG9h!5e0!3m2!1svi!2s!4v1760725934191!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Co Loa Citadel (also known as Loa Thanh) is a famous ancient citadel associated with the legend of An Duong Vuong and the story of My Chau – Trong Thuy. Built in the 3rd century BC, Co Loa was once the capital of Au Lac, demonstrating the outstanding technical level and creativity of the ancient Vietnamese.",
+    "location": "Co Loa Commune, Dong Anh District, Hanoi City",
+    "description": [
+      {
+        "title": "Introduction to Co Loa Citadel",
+        "content": [
+          "Co Loa Citadel was built in the 3rd century BC, the capital of Au Lac nation founded by An Duong Vuong.",
+          "The entire relic site currently has about 60 ancient relics, of which 7 are ranked National level.",
+          "Co Loa is considered the largest and most uniquely structured citadel in Vietnam, while preserving many special historical, architectural, and intangible cultural values.",
+          "Many structures such as Thuong Temple, Co Loa Communal House, Ba Chua Shrine, Ngoc Well... are still preserved and attract domestic and international tourists."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20013343.png"
+      },
+      {
+        "title": "Ticket Prices and Opening Hours",
+        "content": [
+          "Opening hours: 8:00 AM – 5:00 PM daily.",
+          "Entrance fee: 5,000 – 10,000 VND/person.",
+          "Free for children under 15 and people with revolutionary merits.",
+          "Incense offering ceremony cost: 600,000 VND/group.",
+          "Tour guide fee: about 300,000 VND/turn."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014418.png"
+      },
+      {
+        "title": "Ideal Time to Visit",
+        "content": [
+          "Tourists can visit Co Loa at any time of the year, but the most beautiful is summer when flamboyant and Lagerstroemia flowers bloom profusely.",
+          "If you want to experience the festival atmosphere, come on the 5th–6th of the Lunar January, when the Co Loa Festival takes place honoring the merits of An Duong Vuong.",
+          "Additionally, on the 1st, 6th, 11th, 16th, 21st, and 26th of the lunar month, this area holds the traditional Sa market – a unique folk culture feature only held 5 days each month."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014519.png"
+      },
+      {
+        "title": "Transportation and How to Get There",
+        "content": [
+          "Co Loa Citadel is located more than 20 km from central Hanoi, in Dong Anh district.",
+          "Bus is the most convenient and economical means, fare from 7,000 – 9,000 VND/trip.",
+          "Bus routes to Co Loa: routes 15, 17 (Long Bien), 43 (Hanoi Station), 46 (My Dinh), 59 (Nhu Quynh – Agriculture).",
+          "Besides buses, tourists can go by motorbike or car via directions: Thang Long Bridge, Chuong Duong Bridge, or Nhat Tan Bridge."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014619.png"
+      },
+      {
+        "title": "Unique Architecture of Co Loa Citadel",
+        "content": [
+          "Co Loa Citadel has a spiral shape, hence also called Loa Thanh.",
+          "According to historical records, the citadel had a total of 9 spiral rings, today only 3 main rings remain: the Inner Citadel, the Middle Citadel, and the Outer Citadel.",
+          "The Outer Citadel has a circumference of about 8 km, built of earth, 4–5 m high, some places up to 12 m high, with a total earth volume of about 2.3 million m³.",
+          "The Middle Citadel circumference is 6.5 km, more solid, while the Inner Citadel is 2 km² wide – where King An Duong Vuong lived with the royal family.",
+          "Today, many sections of the citadel and moats still exist, testifying to the unique military technical level of the ancient Vietnamese."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014726.png"
+      },
+      {
+        "title": "Prominent Visiting Sites",
+        "content": [
+          "Thuong Temple (An Duong Vuong Temple): Built on the old palace foundation, worships King Thuc Phan – who built Co Loa Citadel. Inside there is a bronze statue of the king and many valuable ancient artifacts.",
+          "Ngoc Well: Located in front of Thuong Temple, associated with the legend of My Chau – Trong Thuy. Legend has it that the well water can brighten pearls.",
+          "Ba Chua Shrine (My Chau's Tomb): Located behind an ancient banyan tree, worships Princess My Chau – a symbol of loyalty and love tragedy.",
+          "Cao Lo Temple: A place worshiping the talented general who helped An Duong Vuong build the citadel and create the legendary Lien Chau crossbow.",
+          "Ngu Trieu Di Quy Communal House: Located on the foundation of the former royal court, has solid architecture, currently a place displaying many valuable archaeological artifacts.",
+          "Archaeological Exhibition House: Exhibits excavated ancient artifacts, including the ancient Co Loa map, bronze arrowheads, and a model of the divine crossbow."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014859.png"
+      },
+      {
+        "title": "Cuisine and Specialties at Co Loa",
+        "content": [
+          "Mach Trang Noodles – a specialty of Dong Anh region, with thick, slightly opaque strands, crispy and characteristically chewy.",
+          "Co Loa Mussel Porridge – a famous dish, cooked from mussels of Hoang Giang river, sweet and light taste, eaten with fried breadsticks and pickled eggplant, price only from 15,000 VND/bowl.",
+          "Besides, Co Loa market also sells many other rustic dishes such as steamed rice cake, rolled rice cake, crab noodle soup, bearing the typical Northern flavor."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20014859.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20013254.png",
+    "activities": [
+      {
+        "content": [
+          "Visiting historical structures: Thuong Temple, Ngoc Well, Ba Chua Shrine, Cao Lo Temple, Ngu Trieu Di Quy Communal House.",
+          "Learning about the legend of An Duong Vuong – My Chau – Trong Thuy through the relics.",
+          "Participating in the Co Loa Festival in the Lunar January with traditional palanquin processions, rituals.",
+          "Exploring the unique spiral citadel architecture and ancient moat system.",
+          "Enjoying local specialties such as Mach Trang noodles, mussel porridge, steamed rice cake."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20015321.png"
+      }
+    ]
+  },
+  "Temple of Literature - Imperial Academy": {
+    "name": "Temple of Literature - Imperial Academy",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.1140404633256!2d105.83309427515317!3d21.02812248780075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab9926e7bd67%3A0x580e078874d5df1e!2zVsSDbiBNacOqzIF1IOKAkyBRdcO0zIFjIFTGsMyJIEdpYcyBbQ!5e0!3m2!1svi!2s!4v1760728357702!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Coming to Hanoi, everyone must visit and experience the historical and cultural relic site, the complex of relics about the first university of our country, which is the Temple of Literature - Imperial Academy.",
+    "location": "58 Quoc Tu Giam, Dong Da District, Hanoi",
+    "description": [
+      {
+        "title": "General Overview of Temple of Literature - Imperial Academy",
+        "content": [
+          "The Temple of Literature - Imperial Academy is not only considered a historical and cultural relic site but also a place where many students and pupils come to pray for luck in exams and studies.",
+          "Where is the Temple of Literature - Imperial Academy located? The Temple of Literature is located in the Dong Da area, Hanoi and is situated within 4 main streets including Nguyen Thai Hoc, Ton Duc Thang, Van Mieu, and Quoc Tu Giam. The entrance gate to the Temple of Literature - Imperial Academy is at 58 Quoc Tu Giam, Dong Da, Hanoi.",
+          "When traveling to Hanoi with its thousand-year civilization, this is definitely a place you should visit."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021557.png"
+      },
+      {
+        "title": "Directions and Transportation Guide",
+        "content": [
+          "If moving from Hoan Kiem Lake, you just need to go along Le Thai To Street, turn right into Truong Thi Street, go towards Cua Nam Street, Nguyen Khuyen Street then turn left into Van Mieu Street to arrive. Ensure traffic safety laws and avoid going into one-way streets!",
+          "If traveling by bus, routes 02, 23, 38, 25, 41 are buses that have stops near here."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021650.png"
+      },
+      {
+        "title": "Opening Hours and Ticket Prices",
+        "content": [
+          "Opening hours: All days of the week, from Monday to Sunday.",
+          "Hot season (from April 15 to October 15): From 7:30 AM to 5:30 PM.",
+          "Cold season (from October 16 to April 14): From 8:00 AM to 5:00 PM.",
+          "Currently, tourists and locals visiting must buy entrance tickets. For adults it is 30,000 VND and for children it is 20,000 VND. This price is quite cheap and applies to both Vietnamese and foreign visitors."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021757.png"
+      },
+      {
+        "title": "Overall Map of Temple of Literature - Imperial Academy",
+        "content": [
+          "The Temple of Literature - Imperial Academy is divided into 15 basic areas including: Van Lake, Ha Ma Stele, Four Pillars, Giam Garden, Temple of Literature Gate, Dai Trung Gate, Khue Van Pavilion, Thien Quang Well, Doctor Stelae, Dai Thanh Gate, Dai Thanh Area, Thai Hoc Gate, Thai Hoc Area, Bell Tower, Drum Tower."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021830.png"
+      },
+      {
+        "title": "History of Temple of Literature - Imperial Academy",
+        "content": [
+          "The Temple of Literature was built in 1070 during the reign of King Ly Thanh Tong, this was the place to worship Confucius, Chu Cong, Tu Phoi.",
+          "In 1076, King Ly Nhan Tong established the Imperial Academy next to it as a university exclusively for the king's children and noble families. By the time of King Tran Thai Tong, this place was renamed Quoc Hoc Vien and also admitted commoners' children with excellent academic achievements.",
+          "History of development of the Temple of Literature - During the Later Le period, King Le Thanh Tong began to erect stelae of those who passed the doctoral exams. During the Nguyen Dynasty, the Imperial Academy was established in Hue, Thang Long Temple of Literature was repaired to become only the Temple of Literature of the Northern Citadel, later renamed Hanoi Temple of Literature.",
+          "The Temple of Literature - Imperial Academy is located in a campus of about 54,331 m2 including many different architectural works. Having undergone many renovations, this complex still includes Van Lake, Van Mieu Gate, Dai Trung Gate, Khue Van Pavilion, Thien Quang Well, doctoral stelae, Dai Thanh Gate, Thai Hoc House.",
+          "This place has been recognized by the Prime Minister as a Special National Monument. Khue Van Pavilion at the Temple of Literature - Imperial Academy was chosen as the symbol of the Capital according to the Capital Law, the 82 Doctor Stelae here were recognized by UNESCO as a Documentary Heritage and inscribed in the Memory of the World Global Register."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021913.png"
+      },
+      {
+        "title": "Visiting Areas at Temple of Literature - Imperial Academy",
+        "content": [
+          "Notable are the surrounding walls built of brick and inside divided into 5 compartments, each area has separating walls and connecting gates.",
+          "First area - Main Gate of Temple of Literature: The main Van Mieu Mon gate leading to Dai Trung Mon gate is built in the Tam Quan style with ancient Chinese characters, with two small gates on the sides being Thanh Duc Mon and Dat Tai Mon.",
+          "Second area - Khue Van Pavilion: From Dai Trung Mon into Khue Van Pavilion, the architectural works here are not massive but the proportions are very harmonious and beautiful. The architecture includes 4 square brick pillars (85cm x 85cm) below supporting the upper floor and has very beautiful wooden structures.",
+          "The upper floor has 4 round doors, handrail balustrades and wooden brackets supporting the simple, rustic roof. The tile roof has two layers forming an 8-roof structure, with flat roof edges and roof surface. The pavilion is a square two-story eight-roof tower, the four surrounding walls are round sun-shaped windows radiating light. On the left and right of Khue Van Pavilion are Bi Van Mon and Suc Van Mon leading to two areas of Doctor Stelae houses.",
+          "Third area - Doctor Stelae area: Includes Thien Quang Tinh lake, square shaped, on both sides of the lake are the Doctor Stelae houses, each made of stone, engraved with the names of those who passed Trang Nguyen, Bang Nhan, Tham Hoa, Hoang Giap, Tien Si and placed on turtle backs. The most valuable relics of this relic site today are 82 stelae from various exam sessions.",
+          "Fourth area - Central area: Belonging to the main architecture of the Temple of Literature, there are large works with parallel and consecutive layouts. The outer building is the Ceremonial Hall, the inner building is the Upper Sanctuary, this is the area used to worship Confucius, Tu Phoi (Nhan Tu, Tang Tu, Tu Tu, Manh Tu).",
+          "Fifth area - Thai Hoc House: During the Nguyen Dynasty, the Imperial Academy was abolished, the Thai Hoc house was converted into Khai Thanh house, worshiping the father and mother of Confucius. This house was destroyed during the resistance against the French and was newly rebuilt in 1999. This place also has Tien Duong - Hau Duong houses, which are places for Ly Thanh Tong, Ly Nhan Tong, Le Thanh Tong and the rector of the Imperial Academy Chu Van An."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20022000.png"
+      },
+      {
+        "title": "Characteristic Meaning of Temple of Literature - Imperial Academy",
+        "content": [
+          "Dubbed as the first university of our country and a place preserving the studious traditions of the Vietnamese people.",
+          "Being further motivated by the golden achievements of our ancestors in the journey of striving to learn and explore human knowledge.",
+          "Today, this place is also a place to organize poetry festivals, reward excellent, outstanding students, and is a famous tourist attraction visited by domestic and foreign tourists.",
+          "This is also the 'letter asking' meeting point for Hanoi residents during traditional Tet holidays with wishes for a peaceful new year, during the exam season of students."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20022047.png"
+      },
+      {
+        "title": "Some Notes When Visiting Temple of Literature - Imperial Academy",
+        "content": [
+          "Respect the relic, comply with the regulations of the management units, do not damage artifacts, relic landscapes, do not rub the turtle heads, write, draw, stand, or sit on the Doctor Stelae,...",
+          "Clothing should be neat, clean, do not wear too short skirts or revealing clothes indoors. Do not smoke, wear hats, caps in the worship hall,...",
+          "Practice civilized behavior in places of worship.",
+          "Do not abuse the freedom of belief to perform superstitious, fraudulent activities,...",
+          "Maintain hygiene, protect the environmental landscape.",
+          "Do not bring weapons, explosives, flammable substances into the relic."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20022131.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20021533.png",
+    "activities": [
+      {
+        "content": [
+          "Visiting, taking check-in photos at Khue Van Pavilion – the symbol of Hanoi.",
+          "Learning about Vietnamese education history through the Doctor Stelae.",
+          "Attending festivals, spring poetry festivals and asking for calligraphy at the beginning of the year."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20022204.png"
+      }
+    ]
+  },
+  "TRAN QUOC PAGODA": {
+    "name": "TRAN QUOC PAGODA",
+    "map": "46 Thanh Nien Street, Yen Phu Ward, Tay Ho District, Hanoi",
+    "type": "Spiritual Tourist Destination",
+    "introduction": "Tran Quoc Pagoda - A famous spiritual tourist destination in Hanoi. If you have the opportunity to travel to Hanoi, visit Tran Quoc Pagoda, a unique ancient pagoda located at 46 Thanh Nien Street, Yen Phu Ward, Tay Ho District. With an age of up to 1500 years, this is one of the oldest pagodas in Vietnam and was honored to be in the Top '10 most beautiful pagodas in the world'.",
+    "location": "46 Thanh Nien Street, Yen Phu Ward, Tay Ho District, Hanoi",
+    "description": [
+      {
+        "content": [
+          "Tran Quoc Pagoda shimmeringly reflects on West Lake Hanoi",
+          "Hanoi Capital is still famous as a land with rich culture, history and countless famous scenic spots and sacred temple and shrine works. When traveling to Hanoi, tourists should take some time to visit Tran Quoc Pagoda - a pagoda with 1500 years of age carrying both ancient architectural beauty and long-standing historical and spiritual value."
+        ]
+      },
+      {
+        "title": "Who is worshiped at Tran Quoc Pagoda?",
+        "content": [
+          "If you are planning a spiritual tour to visit pagodas in Hanoi, you cannot miss Tran Quoc Pagoda. Once the center of Buddhism of Thang Long during the Ly - Tran period, Tran Quoc Pagoda on West Lake has now become an attractive spiritual destination, attracting a large number of tourists to visit and worship annually.",
+          "Tran Quoc Pagoda follows the Northern sect. Inside the temple worships Amitabha Buddha, Shakyamuni Buddha, and Quan Am Buddha. The pagoda also has altars for Quan Binh, Quan Vu, Chu Thuong, Duc Ong and the attendants."
+        ]
+      },
+      {
+        "title": "History of Tran Quoc Pagoda",
+        "content": [
+          "According to historical records and documents, Tran Quoc Pagoda was built in 541 during the Early Ly period and was initially named Khai Quoc Pagoda. In the early days, the pagoda was located at the land of Yen Hoa village, which is today's Yen Phu village.",
+          "In 1440, King Le Thai Tong renamed the pagoda to An Quoc Pagoda with the wish for a peaceful and lasting country. In 1615, during the reign of King Le Kinh Tong, the pagoda was moved to the Yen Phu embankment area, built on the old foundation of the Han Nguyen Palace of the Tran Dynasty and the Thuy Hoa Palace of the Ly Dynasty. In 1639, Lord Trinh had two-sided corridors built and the three-entrance gate repaired. By the time of King Le Hy Tong, the pagoda was renamed once again to Tran Quoc Pagoda. The pagoda had bells cast, more statues added, and was magnificently renovated in the early Nguyen Dynasty. In 1821, King Minh Mang visited the pagoda and granted 20 taels of silver to expand and renovate the pagoda. In 1842, King Thieu Tri granted 200 quan money and 1 large gold coin and also renamed the pagoda to Tran Bac Pagoda. But the people from the past were still accustomed to calling the pagoda Tran Quoc, thanks to which this name has been kept until today. Through many ups and downs, Tran Quoc Pagoda continued to be preserved, maintained, and renovated by later generations to build a solemn beauty for this pagoda."
+        ]
+      },
+      {
+        "title": "Value and Meaning of Tran Quoc Pagoda",
+        "content": [
+          "According to historical records, during the French colonial period, the French School of the Far East had conducted in-depth research and highly appreciated this ancient pagoda. In particular, Tran Quoc Pagoda was also ranked among the 10 historical works of the entire Indochina. Through many historical fluctuations, the pagoda has been protected, renovated, preserving the architectural and cultural beauty. In 1962, Tran Quoc Pagoda was recognized by the Ministry of Culture - Information as a National Historical - Cultural Relic. For Vietnamese Buddhism, Tran Quoc Pagoda is truly a pride, a precious heritage possessing beauty in architecture, history and culture. To this day, this work is still one of the sacred Buddhist places, a famous spiritual destination of Hanoi, attracting many tourists and monks and Buddhists to perform rituals."
+        ]
+      },
+      {
+        "title": "Where is Tran Quoc Pagoda? How to get there",
+        "content": [
+          "Located on the eastern island of West Lake, Tran Quoc Pagoda is the most sacred ancient pagoda in Hanoi with an age of up to 1500 years. Tran Quoc Pagoda is located at 46 Thanh Nien Street, Yen Phu Ward, Tay Ho District, Hanoi.",
+          "Only about 4km from the city center, you can easily travel to Tran Quoc Pagoda by personal vehicles such as motorbikes, cars or public vehicles such as taxis, grab, buses. If traveling by bus, you can choose route number 33 and route number 50, both have stops very close to the pagoda."
+        ]
+      },
+      {
+        "title": "Opening Hours and Entrance Fee to Tran Quoc Pagoda",
+        "content": [
+          "Tran Quoc Pagoda opens to welcome visitors to visit and worship from 8 AM - 4 PM daily. Specifically, on the 1st and Full Moon days of the lunar month, the pagoda opens from 6 AM - 6 PM and on Lunar New Year's Eve, the pagoda opens all night.",
+          "Tran Quoc Pagoda does not charge entrance fees for both Hanoi residents and tourists. Therefore, you are free to visit, enjoy the scenery, and worship at the pagoda."
+        ]
+      },
+      {
+        "title": "Exploring the Architecture of Tran Quoc Pagoda",
+        "content": [
+          "The image of Tran Quoc Pagoda clearly shows Eastern decorative patterns and natural landscapes arranged according to the strict principles and sequence of Buddhism. Having undergone many renovations and repairs, Tran Quoc Pagoda currently has a total area of over 3000m2 including 3 main houses: the Incense Burning House, the Upper Palace, and the Front Hall connected to form the shape of the Chinese character 'Cong' (工).",
+          "The Front Hall is built facing West, located in the middle of the pagoda's campus. On both sides are the Incense Burning House and the Upper Palace with two long corridors. Behind is a three-compartment house with stacked roofs, then the bell tower located on the main hall axis. On the left is the stele house preserving 14 stelae carrying many cultural and historical values, and on the right is the Ancestral House. In the 18th century during the reign of King Le Y Tong, many towers were added behind Tran Quoc Pagoda.",
+          "In 1998, the Abbot of Tran Quoc Pagoda, Venerable Kim Cuong Tu, had the Lục Độ Đài Sen (Six Paramitas Lotus Tower) built, prominent in the ancient tower garden. The tower is placed symmetrically with the bodhi tree - a gift from Indian President Rajendra Prasad presented in 1959 when he visited the Capital. With these massive historical values and unique architecture, in 1989, Tran Quoc Pagoda was honored to be recognized as a National Historical and Cultural Relic."
+        ]
+      }
+    ],
+    "image": "",
+    "activities": [
+      {
+        "content": [
+          "Visiting the ancient pagoda architecture",
+          "Worshiping at the altars",
+          "Visiting the ancient tower garden and the Lục Độ Đài Sen Tower",
+          "Enjoying the scenery of West Lake"
+        ]
+      }
+    ]
+  },
+  "QUAN THANH TEMPLE": {
+    "name": "QUAN THANH TEMPLE",
+    "map": "190 Quan Thanh Street, Quan Thanh Ward, Ba Dinh District, Hanoi",
+    "type": "Historical Cultural Relic, Spiritual Destination",
+    "introduction": "Quan Thanh Temple - a cultural and spiritual symbol of Hanoi. If you are a person who loves spiritual tourism, you definitely cannot miss the famous ancient temples and shrines in Hanoi such as Tran Quoc Pagoda, Bach Ma Temple, One Pillar Pagoda... Among them, a spiritual cultural symbol of the Imperial Capital that has entered the history books is Quan Thanh Temple.",
+    "location": "190 Quan Thanh Street, Quan Thanh Ward, Ba Dinh District, Hanoi",
+    "description": [
+      {
+        "title": "Information about Quan Thanh Temple",
+        "content": [
+          "Quan Thanh Temple is an unmissable Hanoi tourist coordinate. Historical relics such as Van Nien Pagoda, Tran Quoc Pagoda, Tay Ho Palace... and many temples in the West Lake area along with Quan Thanh Temple have contributed to creating a unique, harmonious architectural beauty for the Capital. Besides, they also contain many precious spiritual cultural values. Quan Thanh Temple is one of the Thang Long Four Guardian Temples including 4 temples: Quan Thanh Temple guarding the North, Kim Lien Temple guarding the South, Voi Phuc Temple guarding the West, Bach Ma Temple guarding the East.",
+          "Where is Quan Thanh Temple? Quan Thanh Temple is located at the end of Thanh Nien Street, in Quan Thanh Ward, Ba Dinh District, Hanoi. Also known as Tran Vu Quan. With its ancient beauty and historical depth, Quan Thanh Temple is a prominent spiritual destination, attracting a large number of local people and tourists from everywhere to visit and worship."
+        ]
+      },
+      {
+        "title": "Who is worshiped at Quan Thanh Temple?",
+        "content": [
+          "Quan Thanh Temple is a place to worship Huyen Thien Tran Vu – one of the four sacred gods of Thang Long Four Guardian Temples, protecting the four directions of the ancient Thang Long capital. According to legend, Huyen Thien Tran Vu is the northern god, with the power to subdue demons and protect innocent people. He once helped subdue the turtle demon during the 14th Hung King period, defeated the nine-tailed fox in West Lake, assisted An Duong Vuong in suppressing the white chicken spirit to build Co Loa Citadel, and destroyed the fox spirit on the Red River during the reign of King Ly Thanh Tong. During the Le period, the temple was also a place where kings often came to pray for rain during droughts."
+        ]
+      },
+      {
+        "title": "History of Quan Thanh Temple",
+        "content": [
+          "According to records found on epigraphs and historical documents, Quan Thanh Temple was built in the early Ly Dynasty. The temple was renovated and restored many times in the years 1677, 1768, 1838, 1841, 1856, 1893.",
+          "During the reign of King Le Hy Tong, Lord Trinh Tac assigned his son Trinh Can to recast the statue of Saint Tran Vu and Tran Vu Quan. At that time, craftsman Vu Cong Chan was the person directly in charge of casting the Huyen Thien Tran Vu statue at Quan Thanh Temple from black bronze to replace the previous wooden statue.",
+          "In 1794, during the reign of King Canh Thinh, Tay Son Marshal Le Van Ngu had a large bronze bell cast to place right in the main hall. During an inspection tour of the Northern Citadel, King Minh Mang renamed the temple to Chan Vu Quan. The name 'Chan Vu Quan' was engraved in Chinese characters placed on the roof of the three-entrance gate. However, inside the Ceremonial Hall, there is still a plaque with the name Tran Vu Quan.",
+          "King Thieu Tri visited Quan Thanh Temple and granted money to cast a gold ring to put on the statue of Saint Tran Vu in 1842.",
+          "Today, Quan Thanh Temple is still known by two different names: Quan Thanh Temple and Tran Vu Quan. The word 'Quan' in the phrase 'Dao Quan' is a place of worship of Taoism.",
+          "In early 1962, Quan Thanh Temple along with Tran Quoc Pagoda were honored to be recognized as national historical and cultural relics. In August 2024, Quan Thanh Temple was officially ranked as a Special National Monument."
+        ]
+      },
+      {
+        "title": "Architecture of Quan Thanh Temple",
+        "content": [
+          "The architecture of Quan Thanh Temple includes the three-entrance gate, front platform, middle platform, ceremonial courtyard, and back sanctuary, designed in the traditional Chinese architectural style.",
+          "The temple gate is located on Thanh Nien Street with a design of four square pillars with phoenixes back-to-back and a kneeling unicorn on top. Around the pillars are carved images of fish transforming into dragons, fierce tigers descending the mountain, and pairs of red couplets that are very prominent.",
+          "Behind the outer gate is the three-entrance gate with 2 floors and 3 doors. A special point is that in the middle gate of the three-entrance gate, there is a relief image of the god Rahu - an Indian god. This detail partly shows the integration of beliefs of the Vietnamese people since ancient times. Besides, on the main three-entrance gate tower, a bronze bell cast from the time of King Le Hy Tong in 1677 is placed. This is the bell sound that has entered Vietnamese folk songs and poetry 'The wind blows the bamboo branches swaying. The sound of Tran Vu bell, the crow of Tho Xuong chicken'.",
+          "Passing through the three-entrance gate, you will reach the stele house with many epigraphs carved recording the renovation periods of the temple. Behind the stele house is the martyrs' temple built in the style of a square pavilion. Inside are the altar and photos of soldiers who sacrificed themselves in the war in the Quan Thanh Temple area.",
+          "The ceremonial courtyard area is where offerings are arranged and displayed. In front of the ceremonial hall, there is a table to prepare offerings and two large incense burners. In the back sanctuary, there is a board introducing the bronze statue of Huyen Thien Tran Vu. On the porch of the ceremonial hall, carvings of fish transforming into dragons, tigers descending the mountain are sculpted. The statue of Huyen Thien Tran Vu is a unique artistic sculpture work of Vietnam. The work proves and affirms the skillful statue carving and bronze casting art of the Vietnamese people over 3 centuries ago.",
+          "In the ceremonial hall, there is also a smaller black bronze statue. In Quan Thanh Temple, there is also a bronze sounding stone cast from the time of Lord Trinh. The images in the temple are all meticulously and exquisitely carved, bearing the strong imprint of Le Dynasty art."
+        ]
+      }
+    ],
+    "image": "",
+    "activities": [
+      {
+        "title": "Visiting Information",
+        "content": [
+          "Opening hours: Weekdays: 8 AM - 5 PM, 1st and 15th of the lunar month: 6 AM - 8 PM, Open overnight on New Year's Eve",
+          "Ticket price: 10,000 VND/adult, 5,000 VND/student, elderly, disabled person, Free for children under 15 years old"
+        ]
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "Personal vehicles: From Hanoi city center follow the route: Trang Tien → Trang Thi → Cua Nam → Nguyen Thai Hoc → Thuy Khue → Thanh Nien Street",
+          "Bus: routes 41, 50, E05, HNCITYTOUR, HNCITYTOURCT",
+          "Taxi, ride-hailing services"
+        ]
+      },
+      {
+        "title": "Unmissable Experiences",
+        "content": [
+          "Four Guardian Temples ritual in the order East - West - South - North",
+          "Asking for blessings at the Huyen Thien Tran Vu statue",
+          "Participating in the special Quan Thanh Temple festival on the 3rd day of the 3rd lunar month",
+          "Experiencing the night tour 'The Sound of Tran Vu Bell' (scheduled to launch in August 2025)",
+          "Visiting famous spots near the temple: Ba Dinh Square, Kinh Thien Palace, Hang Dau Fort, One Pillar Pagoda"
+        ]
+      }
+    ]
+  },
+  "Huong Pagoda": {
+    "name": "HUONG PAGODA",
+    "map": "Huong Son Commune, My Duc District, Hanoi",
+    "type": "Spiritual Tourist Destination",
+    "introduction": "Spiritual tourism is one of the types of tourism that attracts a large number of tourists in our country. Located in the North, there is a pagoda famous far and wide, all Buddhists wish to set foot in this pagoda at least once. That is Huong Pagoda, a sacred place amidst majestic mountains.",
+    "location": "Huong Son Commune, My Duc District, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction to Huong Pagoda",
+        "content": [
+          "Huong Pagoda, also known as Huong Son Pagoda, is a complex of famous scenic spots located in Huong Son Commune, My Duc District, Hanoi. The Huong Pagoda complex has been given the title 'Uniquely occupying the Southern sky' by pilgrims from everywhere, being one of the most beautiful scenic spots in Vietnam. This place was once considered a symbol of Buddhist belief of Hanoi capital in particular and the Northern region in general.",
+          "Built in the late 17th century, however, due to the impact of the resistance war against the French, the pagoda was almost completely destroyed, the current pagoda is partly restored and renovated under the guidance of the late Venerable Thich Thanh Chan in 1988."
+        ]
+      },
+      {
+        "title": "Architecture of Huong Pagoda",
+        "content": [
+          "Surrounded by the Yen stream valley, the entire Huong Pagoda complex includes the Outer Pagoda and the Inner Pagoda. The Outer Pagoda, also called Cho Pagoda, has the three-entrance gate built on a large courtyard and the bell tower built in the third courtyard.",
+          "If the Outer Pagoda was remodeled by human hands, the Inner Pagoda located in Huong Tich Cave is a marvelous work of creation with ancient, majestic, and heart-stirringly beautiful caves. The path to visit Huong Tich Cave requires tourists to go through precarious stone steps, folk belief holds that one must go through suffering to reach enlightenment. Therefore, this place has never been hindered by the difficulty of the terrain from preventing the footsteps of devotees coming here on pilgrimage.",
+          "Huong Tich Cave in the past was also a place where kings often visited to enjoy the scenery. In 1770, Tinh Do Vuong Trinh Sam left here 5 Chinese characters 'Nam thien de nhat dong' (First cave of the Southern sky), since then this title has been passed down to this day."
+        ]
+      },
+      {
+        "title": "Huong Pagoda Festival",
+        "content": [
+          "Huong Pagoda usually attracts a large number of pilgrims in the spring, peaking in the 2nd and 3rd lunar months because at this time the scenery and weather are the most beautiful for tourists to enjoy the scenery.",
+          "The Huong Pagoda festival opens on the 6th day of the first lunar month every year and ends in the last ten days of the 3rd lunar month. The festival takes place with many special artistic activities such as cheo singing, van singing, and there are also sports competitions like mountain climbing, boat racing,... In the past, people held the Huong Pagoda festival with the meaning of opening the mountain, opening the forest. Today, the Huong Pagoda festival also carries the meaning of opening the pagoda, opening the temple for people to come here to pray for wealth, luck, and peace for their families."
+        ]
+      }
+    ],
+    "image": "",
+    "activities": [
+      {
+        "content": [
+          "Visiting the Huong Pagoda complex",
+          "Exploring Huong Tich Cave",
+          "Participating in the Huong Pagoda festival",
+          "Mountain climbing, boat racing"
+        ]
+      }
+    ]
+  },
+  "ELEPHANT PHUC TEMPLE": {
+    "name": "ELEPHANT PHUC TEMPLE",
+    "map": "362 Kim Ma, Ngoc Khanh Ward, Ba Dinh District, Hanoi",
+    "type": "Historical Relic, Spiritual Destination",
+    "introduction": "Voi Phuc Temple - one of the famous 'four guardians' of ancient Thang Long, is an unmissable destination when exploring Hanoi. This is not only a place to worship the majestic god Linh Lang but also preserves many unique historical and cultural values.",
+    "location": "362 Kim Ma, Ngoc Khanh Ward, Ba Dinh District, Hanoi",
+    "description": [
+      {
+        "title": "History and Spiritual Meaning of Voi Phuc Temple",
+        "content": [
+          "Voi Phuc Temple is one of the temples in the Thang Long Four Guardian Temples of ancient Thang Long citadel. The temple is located at 362 Kim Ma, Ngoc Khanh Ward, Ba Dinh District, Hanoi and is located near the entertainment area of Thu Le Park. This location is also near the University of Transport and Communications and the Le Duan Party School.",
+          "Voi Phuc Temple is one of the 'Thang Long Four Guardian Temples,' built during the reign of King Ly Thai Tong (1028–1054). This is a famous historical relic of Hanoi, worshiping the god Linh Lang – a prince who sacrificed in the resistance war against the Song invaders. After sacrificing in 1076 at the Cai River defense line, he was conferred as the Great King, Upper Grade Blessed Spirit to honor his great contributions.",
+          "Voi Phuc Temple worships the god Linh Lang.",
+          "The temple is located in the west of Thang Long capital, in the area of ancient Thu Le village, now Ngoc Khanh Ward, Ba Dinh District, Hanoi. Because of this special position, the temple is also called 'Tran Doai' or 'Tran Tay,' corresponding to the Western direction in the eight trigrams in feng shui. This is also one of the distinctive features that make Voi Phuc Temple a prominent destination among spiritual places in Hanoi.",
+          "As a long-standing cultural landmark in Hanoi, Voi Phuc Temple not only attracts pilgrims from everywhere to worship but also is a place to explore special historical and belief values. Don't forget to add this destination to your itinerary to better understand the culture and traditions of the Capital!"
+        ]
+      },
+      {
+        "title": "Architecture of Voi Phuc Temple",
+        "content": [
+          "Voi Phuc Temple is not only famous for its historical value but also attracts attention thanks to its unique architecture imbued with Vietnamese culture. The special highlight is the two kneeling elephant statues in front of the temple gate – an image symbolizing solemnity and respect for the god Linh Lang. From there, the temple has the name 'Voi Phuc' (Kneeling Elephants), both showing feng shui meaning and highlighting the characteristics of the relic.",
+          "Voi Phuc Temple is built in the shape of the Chinese character 'Cong' with three ways up to the courtyard, of which the middle way has 12 wide stone steps for palanquin procession ceremonies. The temple includes main items such as: Three-entrance gate, Campus and brick courtyard, Main hall, Back sanctuary.",
+          "The harmonious combination between architecture and the prime location in the west of Thang Long helps Voi Phuc Temple become an irreplaceable cultural – belief symbol in the hearts of Hanoi people. This is not only a place to pray for peace and worship but also an ideal destination for those who want to explore traditional cultural beauty."
+        ]
+      },
+      {
+        "title": "Voi Phuc Temple Festival",
+        "content": [
+          "However, if you want to participate in the festival at the temple, you should come to the temple on the 9th - 11th of the 2nd lunar month.",
+          "On these days, the temple has many activities such as lion dance, dragon dance, ceremonial offerings, palanquin processions, chess playing, incense burning, cockfighting, cultural performances,... The specific schedule is as follows: The 9th: This is the day of reporting ceremony to report and invite the saint to attend the festival. The 10th: the day when all the central rituals of the festival such as ceremonies, palanquin processions are performed most splendidly. The 11th: The day of total Ha Hao Nam procession carrying the royal palanquin up to Voi Phuc Temple for closing ceremony. The 12th: People carry the royal palanquin up to Total Thuong Thuy Chuong. The 13th: Carry the royal palanquin of total Ha Hao Nam for closing ceremony."
+        ]
+      },
+      {
+        "title": "Visiting Information",
+        "content": [
+          "The opening time to enter Voi Phuc Temple starts from 8:00 AM to 5:00 PM every week. Especially, on New Year's Eve, the temple opens until the end of the night.",
+          "According to known information, currently when entering Voi Phuc Temple you will not have to pay an entrance fee. However, if you want to buy offerings, you will have to pay a fee for this."
+        ]
+      }
+    ],
+    "image": "",
+    "activities": [
+      {
+        "title": "How to Get There",
+        "content": [
+          "For personal vehicles: You can travel by following the map directions. You can use Google Map so you don't get lost.",
+          "For buses: You choose bus routes such as 16, 27, 32, 49, 34.",
+          "For taxis, ride-hailing services: With this form of travel, you just need to contact the service providers. Then provide them with information about your destination and departure time. Upon receiving the information, you will be picked up and dropped off right at Voi Phuc Temple, very convenient and safe."
+        ]
+      }
+    ]
+  },
+  "KIM LIEN TEMPLE": {
+    "name": "KIM LIEN TEMPLE",
+    "map": "Phuong Lien Ward, Dong Da District, Hanoi",
+    "type": "Historical Relic, Spiritual Destination",
+    "introduction": "Kim Lien Communal House is known as one of the 'Thang Long Four Guardian Temples' - meaning the 4 sacred temples worshiping 4 gods guarding the east, west, south, north of the ancient Thang Long capital. This is also an extremely meaningful destination on the Hanoi tourist map that any tourist wants to visit once.",
+    "location": "Phuong Lien Ward, Dong Da District, Hanoi",
+    "description": [
+      {
+        "title": "Introduction to Kim Lien Communal House",
+        "content": [
+          "Kim Lien Communal House, Kim Lien Temple or Cao Son Temple is the southern guardian in the 'Thang Long four guardians'. The communal house formerly belonged to Dong Tac ward, Tho Xuong district, Hoai Duc prefecture, now is Phuong Lien ward, Dong Da district, Hanoi.",
+          "The temple opens to welcome guests all week, from 8 AM to 6 PM and always free of entrance fee."
+        ]
+      },
+      {
+        "title": "Legend of Kim Lien Temple Hanoi",
+        "content": [
+          "Kim Lien Temple is also called Cao Son Temple because inside the temple worships Cao Son Dai Vuong. Legend has it that in the 16th century, when King Le Tuong Duc was leading troops to suppress rebellions to restore the Le dynasty's legacy, he passed through the territory of Phung Hoa district. Seeing the dense mountainous landscape, and an ancient temple engraved with 4 words 'Cao Son dai vuong', the king prayed for the god's support. Indeed, after 10 days he successfully suppressed the rebellion. After that, King Le Tuong Duc immediately had a temple built to worship the god Cao Son in Phung Hoa.",
+          "In 1509, the king had the temple rebuilt more spaciously and beautifully in Kim Hoa ward, now Kim Lien. Later, Kim Lien villagers built an additional three-entrance gate in front of the temple gate and some new architectures, forming Kim Lien Communal House as we still see today.",
+          "Currently, besides the god Cao Son, Kim Lien Communal House also worships the Mother Goddess, Tam Phu and President Ho Chi Minh."
+        ]
+      },
+      {
+        "title": "Unique Architecture",
+        "content": [
+          "The Thang Long Four Guardians in the past were 4 extremely sacred temples: Bach Ma Temple guarding the East, Voi Phuc Temple guarding the West, Kim Lien Temple guarding the South and Quan Thanh Temple guarding the North.",
+          "Kim Lien Communal House is built on a high mound of land near Kim Lien pond. The communal house gate and main door both face West. The architecture of the communal house consists of 2 main parts: the part in front of the mound has a pillar gate and two rows of solution houses on both sides of the brick courtyard, the main architecture is the entire communal house construction on the high mound. Passing through the wide courtyard are 9 high brick steps built with large-sized bricks from the Restored Le period.",
+          "The main communal house includes 3 parts: the Ceremonial Gate, the Ceremonial Hall and the Sanctuary. The Ceremonial Gate is a 3-compartment house built in the style of sealed gable walls, the architecture and decorative patterns are vividly and meticulously expressed in the Nguyen Dynasty artistic style. The Ceremonial Hall has 5 compartments renovated with traditional architectural style. The Sanctuary is a 3-compartment house, the last compartment is the place to worship Cao Son Dai Vuong, the daughter of King Le and Princess Huet Minh.",
+          "The most important ancient artifact at Kim Lien Communal House is the stone stele 'Cao Son Dai Vuong than tu bi minh' talking about the merits of the god Cao Son, composed by the historian Le Tung in 1510. Besides, there are an additional 39 ordination conferments for the god Cao Son."
+        ]
+      },
+      {
+        "title": "Kim Lien Communal House Festival",
+        "content": [
+          "Kim Lien Communal House Festival is held from the 15th-16th of the 3rd lunar month every year and the 16th is the main festival day. Besides the main ceremony, there are also monthly ceremonies on the 1st and full moon days, the Ky An ceremony and the anniversary of the god's death on the 12th day of the 8th lunar month every year.",
+          "On the morning of the 15th, a hair cutting contest takes place, the atmosphere is bustling and exciting throughout Kim Lien village. This village is also famous for barbers who can cut hair and perform skillful scissor dances like artists. After the contest are folk games like breaking pots, stick pushing... in the evening, singing and dancing parties are held, extremely lively.",
+          "The main festival day is the 16th of the 3rd lunar month. Early in the morning, the villagers will perform the Ceremony at the main hall, read the Kim Lien Communal House prayer, then the incense offering ceremony respectfully in front of the communal house courtyard, then the clans offer elaborate and beautiful trays of offerings. Finally is the procession ceremony with 4 solemn palanquins: the royal palanquin, the male palanquin, the female palanquin and the hammock palanquin. People walk in long lines from Kim Hoa street to Dao Duy Anh street then return to Kim Lien Communal House, creating an extremely magnificent image.",
+          "During the festival, people also organize many traditional games such as bird fighting, human chess, martial arts, catching ducks in the pond..."
+        ]
+      }
+    ],
+    "image": "",
+    "activities": [
+      {
+        "title": "Notes When Visiting",
+        "content": [
+          "Pay attention to the incense sticking place. Only stick incense into the incense bowl, do not stick arbitrarily on the statue's hand, tree roots or offerings.",
+          "Arrange money neatly into the donation box, do not scatter in many places.",
+          "Do not step on the door sill, do not enter from the middle door but should enter from the two side doors.",
+          "Do not make noise, do not point around indiscriminately, do not speak disrespectful words, do not walk in front of someone who is kneeling and bowing.",
+          "Do not bring offerings from the communal house to place on your home altar."
+        ]
+      }
+    ]
+  },
+  "Bach Ma Temple": {
+    "name": "Bach Ma Temple",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9224790971684!2d105.84843347515333!3d21.035787587537406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135abbf47ca8df5%3A0xe66fe1153b046b!2zxJDhu4FuIELhuqFjaCBNw6M!5e0!3m2!1svi!2s!4v1760759065242!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Bach Ma Temple is one of the famous historical relics in Hanoi. Like Quan Thanh Temple, Bach Ma Temple is also in the Thang Long Four Guardian Temples complex. This is a sacred temple, carrying within itself the history and distinctive culture of the nation.",
+    "location": "76 Hang Buom Street, Hoan Kiem District, Hanoi",
+    "description": [
+      {
+        "title": "General Information",
+        "content": [
+          "Bach Ma Temple is one of the 'Four Guardians' of the ancient Thang Long capital. The temple's location is in Tho Xuong district, Hoai Duc prefecture, now at 76 Hang Buom Street, Hoan Kiem District, Hanoi City.",
+          "From Hanoi city center, you can get to Bach Ma Temple by means of: Car or motorbike, Bus: take bus routes number 18, 32, 34 to get to the Tran Nhat Duat bus stop."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105016.png"
+      },
+      {
+        "title": "Who is worshiped at Bach Ma Temple? History of Bach Ma Temple Hanoi",
+        "content": [
+          "Bach Ma Temple was built in the 9th century to worship and honor the god Long Do. In the 10th century, while fighting enemies and suppressing rebellions, Dinh Bo Linh came to Bach Ma Temple east of Dai La citadel to pray and promised to confer the god if his wish was granted.",
+          "After defeating the enemy and unifying the country, Dinh Tien Hoang - the first king of the Dinh dynasty, dreamed of a god calling himself the White Horse God reminding him that he had not organized the proper rituals to honor the god. Upon waking up, the king immediately conferred the White Horse God temple the name Ho Quoc Bao Canh Linh Thong The The, Do Dai Thanh Hoang Linh Lang Bach Ma Dai Vuong Thuong Dang Phuc Thanh and had an additional temple built for the God Linh Lang Bach Ma in the hometown of Queen Duong Thi Nguyet.",
+          "During the Nguyen Dynasty, King Dong Khanh conferred the title Ham Quang Thuong Dang Than for the god Bach Ma.",
+          "In 1010, when King Ly Thai To moved the capital from Hoa Lu to Thang Long, the citadel was built many times but still collapsed until the king prayed at the temple of the god Long Do and was guided by a white horse coming out from the temple. The king followed the horse's footprints and built the new Thang Long citadel. At this time, the god was conferred as the Capital's tutelary god.",
+          "Up to now, the temple has been repaired many times, of which the two largest renovations were in the Chinh Hoa era of King Le Hy Tong and the 20th year of Minh Menh. Bach Ma Temple today is a famous tourist spot in the sacred land with a solemn landscape."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105044.png"
+      },
+      {
+        "title": "Exploring the Architecture of Bach Ma Temple",
+        "content": [
+          "Just setting foot at Bach Ma Temple, visitors will immediately be attracted by the prominent yellow wall background and the red wooden door carved with golden dragon patterns, creating an ancient, solemn beauty for the temple.",
+          "The distinctive architectural feature inside the temple is the entire wooden house frame with a system of large ironwood columns, the roof support system is crafted in the 'gia chieng chong ruong con nhi' style with meticulous and firm carvings.",
+          "The Ceremonial Hall of Bach Ma Temple places the altar, impressing with the image of gilded dragons and phoenixes carved extremely delicately. The details of dragon heads, parallel sentences, and couplets are not only shiny gilded and beautiful but also very subtle and lively."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105120.png"
+      },
+      {
+        "content": [
+          "The interior of this temple includes the square pavilion inside, on the left is the incense burner, altar, Te Vuong Phi shrine, and on the right worships Be Nui. At the Incense Burning Hall and the Sanctuary, there are altars and ceremonial objects, all arranged neatly and solemnly.",
+          "Besides, here also preserves many valuable artifacts carrying great historical value, including ordinations, a pair of phoenixes, bronze bell, palanquin, vase, 15 epigraphs with典故, myths telling about the temple construction, worship rituals along with renovations over more than 1000 years."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105407.png"
+      },
+      {
+        "title": "Bach Ma Temple Festival",
+        "content": [
+          "The Bach Ma Temple festival lasts for two days, from the 12th to 13th of the second lunar month every year to commemorate the merits of the god Long Do. On the first day, the procession team moves from Ma May Temple to Bach Ma Temple with full teams such as dragon dance team, male ceremonial team, female ceremonial team and buffalo model to perform the Tien Xuan Ngu ceremony. The festival opens with the reporting ceremony and then the Saint ceremony.",
+          "On the second day, the male ceremonial teams and female incense offering teams of neighboring villages come to worship the Saint, ending with the closing ceremony of the male ceremonial team of Bach Ma Temple. Besides, the festival also organizes many entertainment programs and special ethnic art performances."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20105428.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20104926.png",
+    "activities": [
+      {
+        "title": "Nearby Visiting Places",
+        "content": [
+          "Ba Kieu Temple 1.6 km away",
+          "National Museum of History 1.7 km away",
+          "Hoan Kiem Lake 2.3 km away",
+          "Hang Dau Fort 2.6 km away",
+          "Vincom Mega Mall Times City about 6 km away"
+        ]
+      }
+    ]
+  },
+  "LANG PAGODA": {
+    "name": "LANG PAGODA",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.266565106311!2d105.80650807515302!3d21.022017488010306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab02b1d6a17b%3A0x106cfbbf587d062!2zQ2jDuWEgbMOhbmc!5e0!3m2!1svi!2s!4v1760760010559!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Lang Pagoda is a famous spiritual tourist destination in Hanoi. Thang Long - Hanoi has long been known as the political and religious center of the country. Through thousands of years of history, this place has preserved many ancient temples and pagodas, playing an important role in the spiritual life of the people. Among them, we cannot fail to mention the pagoda named The First Tung Lam - Lang Pagoda.",
+    "location": "116 Chua Lang Street, Lang Thuong Ward, Dong Da District, Hanoi",
+    "description": [
+      {
+        "title": "General Information",
+        "content": [
+          "Lang Pagoda is also known by another name as Chieu Thien Tu. This Hanoi pagoda is about 5km from the city center.",
+          "Opening hours: 8:30 AM - 8:00 PM every day. On special days such as full moon, first day of the lunar month, and holidays, Tet, the opening time will be extended longer than usual.",
+          "Lang Pagoda is right near the Capital center so traveling there is very convenient. You can choose means such as car, motorbike, bus or taxi to get to the pagoda. If using the bus, there will be routes number 09 BCT, 55A, 55B, 26, 28 that have stops near Lang Pagoda."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110153.png"
+      },
+      {
+        "title": "Who is worshiped at Lang Pagoda? History of Lang Pagoda Dong Da Hanoi",
+        "content": [
+          "According to legend, Lang Pagoda started construction during the reign of King Ly Anh Tong (reigned from 1138 - 1175), worshiping Zen master Tu Dao Hanh. According to folklore, this Zen master was reincarnated as the son of the nobleman Sung Hien Hau (younger brother of King Ly Nhan Tong), then succeeded to the throne as King Ly Than Tong (reigned from 1128 - 1138) when the king had no children.",
+          "Because of that story, Ly Anh Tong, son of Ly Than Tong, had Lang Pagoda built to worship his father and his predecessor, Zen master Tu Dao Hanh. The pagoda has undergone many repairs, of which the most important times were in the years 1656, 1901 and 1989."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110226.png"
+      },
+      {
+        "title": "Exploring the Architecture of Lang Pagoda",
+        "content": [
+          "According to recorded documents, Lang Pagoda previously had a total of 100 compartments, built in the style of 'inner công ngoại quốc' architecture. This architectural style has been popular in Vietnam since ancient times, with the characteristic of having two long corridors connecting the front hall and the back hall forming a closed rectangular frame, in the middle can be the incense burning hall or the upper hall."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110253.png"
+      },
+      {
+        "content": [
+          "Currently, Lang Pagoda still maintains its majesty and grandeur with a harmonious and balanced complex of works with the surrounding space. The subtle combination of pagoda architecture with nature, gardens and ancient trees creates a peaceful and quiet space. Lang Pagoda was once dubbed 'The First Tung Lam', meaning the place with the most beautiful pine forest in the West area of Thang Long capital."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110344.png"
+      },
+      {
+        "content": [
+          "When visiting the pagoda, visitors will first see the three-entrance gate. The three-entrance gate of the pagoda has four square pillars, above are 3 arched roofs attached to the pillar frame, not covering the top. This architectural style has similarities with the gate inside the palace of kings' mansions."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110418.png"
+      },
+      {
+        "content": [
+          "The Octagonal House is built with a stacked roof of 2 floors, 16 roofs, on the top are embossed 8 dragon statues symbolizing the 8 generations of Ly kings. Then come the main works of the pagoda such as the Ceremonial Hall, the Upper Palace, the incense burning hall, the Ancestral House and the Monks' Quarters."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110447.png"
+      },
+      {
+        "content": [
+          "In addition, Lang Pagoda is also famous far and wide for possessing 198 large and small valuable statues, of which the statue of King Ly Than Tong sitting on the throne and the statue of Zen Master Tu Dao Hanh are the most impressive. Besides, the pagoda also preserves many other valuable artifacts such as 31 couplets, 39 horizontal lacquered boards, 15 stone steles…"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110517.png"
+      },
+      {
+        "title": "Lang Pagoda Festival Hanoi",
+        "content": [
+          "Every year, on the 7th day of the 3rd lunar month, people in Lang Thuong ward organize the Lang Pagoda festival with solemn rituals. This is also the birthday of Zen Master Tu Dao Hanh. The festival includes many interesting activities, but especially the part of carrying the Saint's palanquin from Lang Pagoda to Hoa Lang Pagoda to visit his mother. At the festival, people also reenact the divine battle between Zen Master Tu Dao Hanh and monk Dai Dien.",
+          "Not only are there solemn rituals, the festival also has many special folk games such as 'blindfolded pot breaking', 'cooking rice competition'… bringing joy, building solidarity for the villagers as well as attending tourists."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110548.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110124.png",
+    "activities": [
+      {
+        "title": "Cuisine around Lang Pagoda",
+        "content": [
+          "Boiled snails at Lang Pagoda: The characteristic dish of Lang Pagoda that you definitely cannot miss is boiled snails. By boiling snails with lemon leaves, lemongrass, chili, it creates a characteristic, irresistible attractive aroma.",
+          "Grilled meat skewers: The grilled meat skewers at Lang Pagoda are considered a dish 'loved by thousands', of which Hoang Duc is the most famous meat skewer shop here."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110618.png"
+      },
+      {
+        "content": [
+          "Vietnamese pancake: The pancake shops at Lang Pagoda are especially loved by young people and frequently visited.",
+          "Sour rib noodles: The faint, light aroma of noodles combined with soft, sweet ribs and rich broth.",
+          "Seafood noodles: Unlike seafood noodle soup, seafood noodles will bring you a new and unique culinary experience."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110658.png"
+      },
+      {
+        "title": "Cuisine around Lang Pagoda",
+        "content": [
+          "Seafood noodles: Unlike seafood noodle soup, seafood noodles will bring you a new and unique culinary experience."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20110720.png"
+      }
+    ]
+  },
+  "BA TRIEU TEMPLE": {
+    "name": "BA TRIEU TEMPLE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3750.848591351744!2d105.81620277512798!3d19.930784224582965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31365f1af3bfa26d%3A0xaaf9ce54e1ee9e6d!2zxJDhu4FuIELDoCBUcmnhu4d1!5e0!3m2!1svi!2s!4v1760760725224!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Ba Trieu Temple is a famous historical relic, close to many Thanh Hoa tourist spots. The sacred temple over time has been tinged with the moss of time, ancient, however, this is still an ideal stop for worship, sightseeing and exploring unique architecture.",
+    "location": "on Gai mountain, in the territory of Phu Dien village, Hau Loc district, Thanh Hoa",
+    "description": [
+      {
+        "title": "General Information",
+        "content": [
+          "Ba Trieu Temple, or also known by another name as the temple of Ba Trieu Thi Trinh – one of the heroic generals with great merits in driving away Chinese invaders who came to invade our country's territory in the 3rd century (BC).",
+          "The temple is built in the architecture of the North Central region, both solemn, ancient but also very subtle. Currently, this place also preserves many artifacts, treasuries of stories, folk songs, legends and even rare artifacts.",
+          "Reference visiting ticket price: Free"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111413.png"
+      },
+      {
+        "title": "History of Ba Trieu Temple Thanh Hoa",
+        "content": [
+          "Ba Trieu Temple was built by King Ly Nam De in the 6th century. The work is a place to commemorate Ba Trieu Thi Trinh - a heroic female general who contributed in the uprising of 248 against the invading Wu army.",
+          "During the reign of King Minh Mang (18th century), this work was moved to the current location and kept until now. Over time, the work has also been tinged with the moss of time, ancient, however, the locality also has annual renovation projects to meet the visiting needs of tourists inside and outside the province."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111438.png"
+      },
+      {
+        "title": "Architecture of Ba Trieu Temple Hau Loc",
+        "content": [
+          "The historical relic of Ba Trieu Temple has unique architecture, each area has its own design style, collectively forming a large-scale work, imbued with the traditional cultural features of the North Central region. Specifically:",
+          "Outer Ceremonial Gate: This area is built of monolithic stone with a unique four-pillar style. The top of the column has phoenix leaves, the lantern detail is carved with four sacred animals, the two side walls are carved in relief with elephants worshiping."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111504.png"
+      },
+      {
+        "content": [
+          "Lake: The length and width of the lake are 29.8m and 42.2m respectively. The lake is located opposite the Inner Ceremonial Gate, with steps up and down for convenient visiting.",
+          "Screen wall: This detail is made of monolithic stone, placed in front of the Middle Ceremonial Gate.",
+          "Middle Ceremonial Gate: Built in the four-pillar architecture, similar to the architecture of the outer ceremonial gate.",
+          "Lower courtyard: Located in the front part of the inner ceremonial gate, the length and width are 49.8m and 12m respectively."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111526.png"
+      },
+      {
+        "title": "Architecture of Ba Trieu Temple Hau Loc",
+        "content": [
+          "Inner Ceremonial Gate: Designed similarly to the Tam Quan area, on both sides of the main door are placed two ancient stone kneeling unicorn statues.",
+          "Left/Right houses: Located in the front courtyard of the Front Hall, each house is built with 5 compartments, the frame is made of ironwood, the floor is paved with ancient bat bricks.",
+          "Front Hall: Structure of 3 compartments 2 wings, every detail inside the house, the roof is delicately carved, beautifully decorated."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111550.png"
+      },
+      {
+        "title": "Architecture of Ba Trieu Temple Hau Loc",
+        "content": [
+          "Middle Hall: Built in the wooden architecture of 5 compartments 2 floors and has a curved roof, separated from the Front Hall area by the upper courtyard. The work is decorated with leaves, transformed dragons, cloud-veined stone...",
+          "Back Sanctuary: Architecture of 3 compartments 2 wings, length 2.45m and width 6.9m. The frame system in the back sanctuary is also decorated with many elaborate and beautiful relief carvings."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111611.png"
+      },
+      {
+        "title": "Ba Trieu Temple Festival",
+        "content": [
+          "Not only a spiritual tourism and worship destination, Ba Trieu Temple is also a place to organize many famous Thanh Hoa festivals. Specifically, the festivals are usually held around from the 21st – 24th of the 2nd lunar month every year, containing many traditional cultural activities of the Vietnamese people.",
+          "During the festival events, visitors and people can participate in many activities such as: palanquin procession, ceremonies, female ceremonies... or folk games such as: cooking rice, wrestling, chess playing..."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111634.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111340.png",
+    "activities": [
+      {
+        "title": "Tourist spots near Ba Trieu Temple",
+        "content": [
+          "Ba Trieu Tomb Area: Located on the top of Tung mountain, in the territory, the territory of Trieu Loc commune, Hau Loc district, Thanh Hoa",
+          "Ba Trieu Tomb area was built including Ba Trieu Tomb, the grave and the princess tower. The tomb part is made from monolithic blue stone, inside places an incense bowl. This is a place for visitors to burn incense to show respect, both to visit and enjoy the scenery on the top of Tung mountain."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111705.png"
+      },
+      {
+        "content": [
+          "Ham Rong Mountain: Territory of Duong Xa village, belonging to Thieu Duong commune, Thieu Hoa district, Thanh Hoa",
+          "The beauty of Ham Rong Mountain is mentioned a lot in poetic works, therefore this is also one of the famous scenic spots that you should connect the itinerary with Ba Trieu Temple. Not only possessing nature as beautiful as a painting, this is also evidence of the glory and feats in the nation's history"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111754.png"
+      },
+      {
+        "content": [
+          "Hai Tien Beach: Belonging to the territory of Hoang Hoa district, Thanh Hoa province",
+          "Hai Tien beach is a still very wild coastal area, so the space here is green, cool, peaceful, very suitable for rest and relaxation. This is also a place near Ba Trieu Temple, visitors coming here can enjoy many fresh seafood dishes at extremely cheap prices. Currently, tourism services in this beach area are also focused on development, meeting the needs of visitors."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111340.png"
+      },
+      {
+        "content": [
+          "Sam Son Beach: Belonging to the territory of Sam Son city, Thanh Hoa province",
+          "When it comes to Thanh Hoa beaches, we cannot fail to mention the famous Sam Son beach, this address is 32.4km from Ba Trieu Temple, so visitors will take about 41 minutes to travel. As a bustling beach tourist spot, you will have fun with many attractive activities such as: swimming, playing, enjoying seafood…"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111832.png"
+      },
+      {
+        "content": [
+          "Ba Trieu Temple to date is over 2000 years old, time may erode the work but the historical and cultural values are still passed down to this day. Therefore, if you have the opportunity to visit the land of Thanh, visitors can schedule to come to the temple on the majestic Gai mountain, listen to many historical stories and learn about the unique construction architecture of the North Central region in the old days. Hopefully the above shares will help you easily plan your upcoming trip!"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-18%20111903.png"
+      }
+    ]
+  },
+  "DUONG LAM ANCIENT VILLAGE": {
+    "name": "DUONG LAM ANCIENT VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.8750524654074!2d105.46998037515618!3d21.157370183349006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134f5651ec5a1fb%3A0xbf4c62a0fffd9d50!2zTMOgbmcgY-G7lSDEkMaw4budbmcgTMOibQ!5e0!3m2!1svi!2s!4v1760879346030!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Duong Lam Ancient Village - the ancient village of Hanoi. Coming to Hanoi tourism, visiting architectural works, exploring unique culture, then Duong Lam ancient village is the place you must definitely visit.",
+    "location": "Duong Lam Commune, Son Tay, Hanoi",
+    "description": [
+      {
+        "title": "General Information",
+        "content": [
+          "Duong Lam ancient village belongs to Son Tay town, only about 44km from Hanoi capital center. This ancient village in Hanoi is located south of the Red River, right next to the intersection between the Ho Chi Minh trail and national highway 32.",
+          "Not too far from the Capital, traveling to Duong Lam ancient village is also very convenient and easy."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201131.png"
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "Bus: is the safest and most economical way to get to Duong Lam. From Hanoi you can choose one of the bus routes to Duong Lam ancient village such as bus number 71 (My Dinh - Son Tay bus station), bus number 73 (My Dinh - Thay Pagoda), bus number 89 (Yen Nghia bus station - Son Tay bus station)... The fare is very reasonable, only from 9,000 - 20,000 VND/trip.",
+          "Personal motorbikes, cars: this is a suitable choice for those who like to be proactive. The road to the ancient village is also quite easy and convenient.",
+          "Coach: this is also one of the means of transportation chosen by many tourists. Departing from Hanoi, you can take the My Dinh - Phu Tho route to get to Duong Lam ancient village."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201210.png"
+      },
+      {
+        "title": "Prominent Visiting Points",
+        "content": [
+          "Mong Phu Village Gate: This place was built in 1833 with arched architecture and a layer of laterite, imbued with the cultural architecture of the Le Dynasty. Next to the gate, there is also a over 300-year-old banyan tree shading for people to rest, this scene creates a truly peaceful, ancient landscape and imbued with the soul of the countryside.",
+          "Duong Lam Ancient Village Communal House: Built since 1684, imbued with Vietnamese - Muong architecture with stilt houses and wooden floors above the ground. This place includes the Ceremonial Gate, the communal house courtyard, two Ta Mac and Huu Mac buildings on both sides, in the middle is the Dai Dinh building. Stepping inside, you will admire many ancient parallel sentences and couplets that are hundreds of years old."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201254.png"
+      },
+      {
+        "content": [
+          "Duong Lam Ancient Well: Traveling to Duong Lam ancient village, you can come across many ancient wells. The water here is very clear and is also where people get daily living water. After hundreds of years, the ancient wells in Duong Lam village are still intact and extremely solid."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201321.png"
+      },
+      {
+        "content": [
+          "Giang Van Minh Temple: This place was built during the time of King Tu Duc, is a place to worship and remember the merits of Tham Hoa Giang Van Minh. Ancient House of Mrs. Dien: The house is 200 years old, deeply imprinted with the mark of time through the clinging moss, broken tiles, faded colors or even the house decoration style also bears strong ancient features. Ancient House of Mr. Hung: This place is nearly 400 years old and has gone through 12 generations living."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201358.png"
+      },
+      {
+        "content": [
+          "Tomb and Temple of Ngo Quyen: The complex of temple and tomb of Ngo Quyen is built on Cam hill, although small in area, the campus is meticulously cared for."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201432.png"
+      },
+      {
+        "title": "Cuisine",
+        "content": [
+          "Mia Chicken: a type of chicken with small legs, yellow feathers, when boiled the meat is white, the skin is yellow and crispy. In the past, this was a precious dish only used to offer to the king or used during village festivals. When traveling to Duong Lam ancient village, don't forget to enjoy this specialty dish.",
+          "Roasted Pork on a Pole: famous not only for its distinct flavor but also for its extremely unique and elaborate processing method. The highlight of this delicious dish is the non-guava leaves that are minced and marinated with the meat. Enjoying a piece of meat that is crispy on the outside, sweet and tender on the inside, fatty and fragrant with guava aroma is really wonderful, isn't it?",
+          "Green Bean Sweet Paste: made from steamed green beans, then added sugar, using a large chopstick to stir evenly until the beans are crushed, smooth and glossy. The sweet paste will be more delicious when eaten cold, eating small pieces slowly, while sipping a bit of green tea, you will feel a gentle sweet fragrance spreading very pleasantly.",
+          "Rice Soy Sauce: is a rustic, popular dish made from rice, soybeans, salt, water taken from the village well... Soy sauce is used to dip vegetables, dip fried tofu, braised fish, braised meat... giving an irresistible aroma and flavor.",
+          "Sesame, Peanut Candy: a type of candy made from rustic ingredients such as: peanuts, sesame, sugar, malt... Sitting and enjoying a few pieces of candy with a cup of slightly bitter green tea is truly delicious.",
+          "Steamed Rice Cake: steamed rice cake is available everywhere but in Duong Lam it has many differences compared to other regions. Here, the cake is wrapped with dong leaves, long and slender, the filling is evenly spread along the leaf spine. When eaten, the cake has a very characteristic taste, chewy and fragrant."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201512.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201050.png",
+    "activities": [
+      {
+        "title": "Visiting Information",
+        "content": [
+          "The entrance fee to Duong Lam ancient village is 20,000 VND/adult, 20,000 VND/child over 14 years old, free for children under 14 years old. If you want to save time, you can buy online tickets in advance at home and when you come to the ancient village, you just need to present the QR code to the ticket checker to enter the gate without having to wait to buy tickets. If you forget to book tickets or don't want to buy online tickets, you can also choose to buy tickets at the gate.",
+          "Best time to go: you can come to visit Duong Lam ancient village at any time of the year. However, the festival season and the ripe rice season are the most ideal, beautiful and interesting times."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203404.png"
+      }
+    ]
+  },
+  "BAT TRANG POTTERY VILLAGE": {
+    "name": "BAT TRANG POTTERY VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.3803854423363!2d105.90875208046155!3d20.977383939692846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135afa57ac82a29%3A0xbb2f62a917c8830!2zTMOgbmcgZ-G7kW0gQsOhdCBUcsOgbmc!5e0!3m2!1svi!2s!4v1760880622202!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Bat Trang Pottery Village was formed from the Ly Dynasty, located on the left bank of the Red River. After nearly 1000 years of existence and development, Bat Trang Pottery Village today has become a professional-scale ceramic production center, with many large companies established alongside small household production units.",
+    "location": "Bat Trang Commune, Gia Lam District, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction",
+        "content": [
+          "According to the Complete Annals of Dai Viet and Nguyen Trai's Geography, Bat Trang Pottery Village was formed from the Ly Dynasty.",
+          "Besides products serving the spiritual life and worship of the Vietnamese people, the pottery kilns in Bat Trang also produce consumer, decorative, and display products with more modern designs, styles, and materials.",
+          "The masterpieces of Bat Trang ceramics today have been present everywhere in the Vietnamese market, and are also exported to many countries in Europe and Asia.",
+          "The most interesting thing when coming to Bat Trang Pottery Village is to watch the artisans perform the intricate and meticulous ceramic manufacturing process. In addition, you also get to experience making your favorite ceramic products."
+        ]
+      },
+      {
+        "title": "History",
+        "content": [
+          "Bat Trang Pottery Village is located in Bat Trang Commune, including Giang Cao Hamlet and Bat Trang Hamlet, in Gia Lam District, Hanoi City.",
+          "According to historical records, when the Ly Dynasty moved the capital from Hoa Lu to Thang Long, the people of Bat Trang migrated along. When they reached near the capital, seeing the fertile alluvial land on the Red River bank, they decided to settle there and together created the pottery making craft.",
+          "Throughout nearly 1000 years of history, the pottery village has gone through many events and ups and downs. However, thanks to the perseverance and hard work of the people and artisans here, the pottery village still exists and develops to this day."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203436.png"
+      },
+      {
+        "title": "Visiting Points",
+        "content": [
+          "Bat Trang Ancient Village: Walking around the ancient village area, along the dyke road, or going into the small alleys is one of the interesting things when coming to Bat Trang Pottery Village. The ceramic drying racks along the village road, the moss-covered walls, the village gate, the communal house yard, the stone pillars... will definitely be the background for your vintage-style photos."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203506.png"
+      },
+      {
+        "content": [
+          "Bat Trang Ceramic Market: This 6,000m2 market sells a lot of ceramic and porcelain products, from decorative fine art items, souvenirs, to consumer goods, worship items, miniature landscape rockeries. You can completely own an item from Bat Trang Ceramic Market at an affordable price."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203531.png"
+      },
+      {
+        "content": [
+          "Van Van Ancient House: A place preserving products of craft villages, the most being Bat Trang ceramics. Located at the end of Bat Trang village, the ancient house is suitable for you to stop by, admire the collection of over 400 valuable ancient ceramic and porcelain items dating back about 500 years. Visiting hours: From 8 AM - 5:30 PM on weekdays"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203553.png"
+      },
+      {
+        "content": [
+          "Bat Trang Ceramic Museum: Located in Hamlet 5, Bat Trang Commune, Bat Trang Ceramic Museum is a new check-in spot with 7 giant spirals stacked together, based on the idea of the pottery shaping wheel, with multi-faceted curved surfaces, forming a very soft undulating architectural block. In addition, this work also makes full use of local materials such as Bat Trang baked bricks and tiles to honor the rustic and simple beauty of the traditional craft village."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203615.png"
+      },
+      {
+        "content": [
+          "Ancient Bầu Kilns: Today, in Bat Trang Pottery Village, there are still 5 long-standing ancient bầu kilns, which have existed for nearly 100 years and are considered the last heritages of this pottery village. These bầu kilns were previously used to fire ceramics by manual methods, making an important contribution to the traditional ceramic production process."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203644.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20201548.png",
+    "activities": [
+      {
+        "title": "Experiences",
+        "content": [
+          "Pottery making experience: Register to play pottery making for about 10,000 VND/turn. With a rotating pottery table and careful instructions on shaping and creating patterns, you can try your hand at molding pottery and creating according to your own ideas.",
+          "Visiting the ceramic production process: To create a perfect Bat Trang ceramic product, Bat Trang artisans must go through two main stages: creating the ceramic body and patterns, then glazing. Bat Trang products always have their own quality and stand out with a glossy glaze, sharp patterns, with very high durability, not worrying about damage or fading over time.",
+          "Enjoying cuisine: Bat Trang not only has ceramic specialties, but is also known for its bamboo shoot squid soup - a dish 'going to the forest and down to the sea' when combining bamboo shoots and squid very uniquely. This dish seems to be indispensable on the tray of Bat Trang people on every festival or Tet occasion. In addition, you can also enjoy delicious dishes of Hanoi or treat your stomach with super attractive snacks.",
+          "Bat Trang Pottery Village is like a living museum, where you can visit cultural relics, antiques, brick houses, as well as temples and communal houses from the 19th century, to better understand the spiritual life, customs, and festivals of the pottery village people.",
+          "Especially, during the visit to the craft village, you also get to experience the shaping process of your favorite ceramic products. The artisans in Bat Trang will advise on the types of pottery and porcelain, types of glazes as well as introduce both traditional and industrial products that the kilns in Bat Trang are producing."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20203703.png"
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "Bus: From the central area (Long Bien bus station), take bus number 47A or electric bus Ecopark 02, both routes have stops right at the gate of Bat Trang village.",
+          "Car or Motorbike: From Cau Giay District, you should choose the direction through Long Bien Bridge or Chuong Duong Bridge. After crossing the bridge, turn right and continue along the Red River dyke road to reach the gate of Bat Trang village."
+        ]
+      }
+    ]
+  },
+  "VAN PHUC SILK VILLAGE": {
+    "name": "VAN PHUC SILK VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7450.6386620680505!2d105.77019809191444!3d20.97983289024553!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31345331fc47aee7%3A0x578be675ac809ead!2zbMOgbmcgVuG6oW4gUGjDumMsIFbhuqFuIFBow7pjLCBIw6AgxJDDtG5nLCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1760882309009!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Van Phuc Village is a craft village in Hanoi, possessing ancient beauty, famous for high-quality silk products and owning many photo spots that attract young people and tourists.",
+    "location": "Van Phuc Ward, Ha Dong District, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction",
+        "content": [
+          "Van Phuc Silk Weaving Village belongs to Ha Dong Ward, Hanoi. The silk village has existed for over 1000 years and is among the most famous and beautiful silk weaving villages in Vietnam.",
+          "The road to Van Phuc Village is a concrete road so you can easily get here. From the city center, you can choose the route going Nguyen Trai - Ha Dong Post Office then turn right to reach the village."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210641.png"
+      },
+      {
+        "title": "History",
+        "content": [
+          "As one of the famous traditional craft villages in Hanoi, Van Phuc Silk Village has a long history, existing for over 1000 years. The former name of the village was Van Bao, but due to taboo, it was changed to Van Phuc.",
+          "1931 was the milestone marking the first time the silk weaving products of the village were promoted and introduced to the international market. At the first introduction, the silk weaving products of Van Phuc Village were highly appreciated by the French, commented as one of the most exquisite silks of Indochina.",
+          "In 1958, the silk products of the village were officially exported to Eastern European countries."
+        ]
+      },
+      {
+        "title": "Products",
+        "content": [
+          "Following the long-standing historical flow, the products of Van Phuc Silk Village to this day still maintain traditional beauty and are transformed and improved to become more diverse and eye-catching every day.",
+          "Van Phuc silk products are always well evaluated, both beautiful and durable. The material of the product is mainly made from silk so it has characteristic softness and flexibility. Combined with the skillful hands of the workers and many elaborate stages, high-quality products are created.",
+          "The decorative patterns on the silk are subtly and creatively expressed through the workers' skills such as dragons and phoenixes, embroidered silk, longevity peak pattern, four cinnamon branches, flying clouds,... The pattern decoration is symmetrical, the lines are graceful but still carry decisive and liberal features, helping the product stand out and have high aesthetics.",
+          "Each year, Van Phuc Ha Dong silk exports about 2.5 to 3 million square meters of fabric. With outstanding characteristics, Van Phuc Ha Dong silk is also often chosen as a luxurious gift for relatives, friends or partners."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210703.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210548.png",
+    "activities": [
+      {
+        "title": "Experiences",
+        "content": [
+          "Check-in at the umbrella street: The shimmering, colorful umbrella street right at the village gate. The 100m long street above is decorated with plastic umbrellas of full colors. The umbrella street not only has aesthetic meaning but also symbolizes the many-colored fabrics, creating a unique highlight for the silk village. Along both sides of the umbrella street are also shops close to each other displaying the characteristic and diverse products of the craft village. Especially, you can rent ao dai and take check-in photos with the unique umbrella street here."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210548.png"
+      },
+      {
+        "content": [
+          "Visiting Van Phuc Pagoda: Choosing to visit Van Phuc Silk Village, you can both admire the soft, captivating silk strips; the colorful spaces; and enjoy quiet and peaceful time of the countryside at the ancient Van Phuc Pagoda. The pagoda is located right next to the left side of the village gate with the ancient architecture of Northern pagodas. The garden space of Van Phuc Pagoda is paved with red bricks, the root of the ancient banyan tree, lotus pond, waterfall and wooden bridge have all been tinged with time. The sound of the pagoda's wooden fish, chanting mixed with the quiet atmosphere of the pagoda will bring visitors relaxing and comfortable feelings."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210731.png"
+      },
+      {
+        "content": [
+          "Taking photos with the mural wall: Not only the famous colorful umbrella street, coming to Van Phuc Silk Village, you can freely pose and take photos with the mural street. The walls in the village were given a new colorful coat by kindergarten teachers. The mural wall is a giant painting recreating familiar scenes of the craft village from the old days. The location of the mural wall is in the center of the village, the surrounding space is the communal house yard so it is very spacious and airy. The colorful mural stands out in the peaceful and ancient space of the ancient village, definitely helping you have beautiful photos."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210749.png"
+      },
+      {
+        "content": [
+          "Coming to Van Phuc Ha Dong Silk Village, you definitely cannot miss the famous silk market. Exploring Van Phuc Silk Market: The market is a place to introduce and promote the silk products of the village to tourists. In the silk market, there are many different silk shops, each shop is decorated and arranged in its own style but all are brilliant and full of colors.",
+          "In each shop, many product models such as clothes, ao dai or scarves are sold for tourists to choose from. Besides the main material being silk, shops in Van Phuc Village also trade in diverse products combined from other fabrics or unique and eye-catching decorative items."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210810.png"
+      },
+      {
+        "content": [
+          "Besides the above attractive experiences, Van Phuc Silk Village also organizes an extremely special and bustling festival. Participating in the festival: The festival in the village is held in 3 main parts: the ceremony part, the festival part and the promotion part, taking place from October 26 to November 2 every year.",
+          "During the festival, the space of the silk village is decorated extremely brilliantly, full of colors from the prominent umbrella street right from the village gate to the silk shops. The most beautiful festival scene is in the evening, at this time the yellow lights are turned on, blending with the brilliant colors, making many tourists think of a 'miniature Hoi An'.",
+          "Participating in the festival, you will have the opportunity to witness and experience the silk weaving process from A to Z. The lively, bustling atmosphere along with the enthusiasm of the people during the festival in Van Phuc Village will help you feel a happy and impressive festival.",
+          "There are some Van Phuc Silk Village travel experiences that you can refer to for your visit and exploration trip such as: Besides personal vehicles like motorbikes and cars, you can choose public vehicles such as buses, elevated trains to get to Van Phuc Silk Village. When visiting the village by personal vehicle, you can park your vehicle at the parking spot a few meters after passing the village gate. The village is not too wide so parking and walking will help you more comfortable during the visit and shopping. You can come to visit and explore Van Phuc Village at any time of the year. However, the time when the village is most lively and bustling is around the time of the cultural week at the end of October at the end of the year and weekend evenings. If you choose to visit and explore the village on the exact 1st or full moon day of the lunar month, limit bargaining to avoid showing bad intentions to the sellers."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210856.png"
+      },
+      {
+        "content": [
+          "Participating in the festival, you will have the opportunity to witness and experience the silk weaving process from A to Z. The lively, bustling atmosphere along with the enthusiasm of the people during the festival in Van Phuc Village will help you feel a happy and impressive festival.",
+          "There are some Van Phuc Silk Village travel experiences that you can refer to for your visit and exploration trip such as: Besides personal vehicles like motorbikes and cars, you can choose public vehicles such as buses, elevated trains to get to Van Phuc Silk Village. When visiting the village by personal vehicle, you can park your vehicle at the parking spot a few meters after passing the village gate. The village is not too wide so parking and walking will help you more comfortable during the visit and shopping. You can come to visit and explore Van Phuc Village at any time of the year. However, the time when the village is most lively and bustling is around the time of the cultural week at the end of October at the end of the year and weekend evenings. If you choose to visit and explore the village on the exact 1st or full moon day of the lunar month, limit bargaining to avoid showing bad intentions to the sellers."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20210925.png"
+      }
+    ]
+  },
+  "BELL VILLAGE": {
+    "name": "BELL VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3729.041772404806!2d105.75914917514845!3d20.830019594575173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31344ca08188fcdb%3A0x91b7d910e57d138a!2zQ2jDuWEgTMOgbmcgQ2h1w7RuZw!5e0!3m2!1svi!2s!4v1760883785923!5m2!1svi!2s",
+    "type": "culture",
+    "introduction": "Chuong Village is a craft village famous throughout the country with a long tradition of making conical hats through leaf hat products. The people of Chuong Village live mainly by making leaf hats while agricultural activities are not much because this place has limited land and dense population.",
+    "location": "Phuong Trung Commune, Thanh Oai District, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction",
+        "content": [
+          "Chuong Conical Hat Village is located in Quoc Trung Commune, Thanh Oai District, about 30 km from Hanoi capital center. Chuong Village is often known by another name as Thanh Oai Leaf Hat Village with an area of over 481 ha including 8 residential hamlets.",
+          "Chuong Village has two directions to reach: National Highway 21B to the East of the village boundary and the Day River dike to the West of the village boundary."
+        ]
+      },
+      {
+        "title": "History of the Craft Village",
+        "content": [
+          "As a long-standing craft village in Hanoi, no one knows exactly when Chuong Village started making hats. However, according to the elders in the village, from the 8th century the village had started producing hats.",
+          "At that time, Chuong Village was called Trang Thi Trung, specializing in making hats for almost all different classes in society.",
+          "During the development period, Chuong Village Hanoi was a place providing many types of traditional hats such as quai thao hats, old leaf hats with live spines. Among them, quai thao was used for the elderly to wear when going to temples. And old leaf hats with live spines served women doing farming work.",
+          "Hundreds of years have passed, the craft of weaving leaf hats in Chuong Village has become more and more prosperous. The hat weaving craft has been passed down through many generations and is one of the most famous leaf hat cradles in Hanoi. Currently, there are over 4000 households in Chuong Village weaving leaf hats, bringing cheap products and rich designs to domestic and international customers."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213655.png"
+      },
+      {
+        "title": "Characteristics of Chuong Village Hats",
+        "content": [
+          "Coming to Chuong Village, you are directly admiring the production process of the leaf hat, which is a traditional craft, not for business purposes, so the people do not hide their profession. The main material to make the leaf hat is fresh corypha leaves imported from some provinces of Quang Binh, Quang Tri, while the thread and hat frame are woven from bamboo strips available locally.",
+          "Fresh corypha leaves are quite heavy and have high moisture content, so the worker needs to dry them in about 3 strong suns to let the water evaporate before starting production. The next step is to treat the leaves, which folk call roasting the leaves to make the leaves drier and softer. Then, the leaves must be air-dried and then taken for final drying before finishing the leaf treatment. At this time, the young corypha leaves will change from green to yellow.",
+          "To create a beautiful hat, first you need a solid frame. The frame is mainly woven from bamboo strips and this material is abundant along the two banks of the Day River dike. The worker needs to wrap 16 rings in layers from top to bottom according to a certain size. The next steps are sewing the leaves onto the frame and weaving the hat crown. The talent of Chuong Village workers is that the connecting knots of the weaving threads are all hidden by subtle stitching.",
+          "The weaving thread follows the needle paths with 16 layers of rings for the hat to take shape. When the hat is finished weaving, people heat it with match steam to make the hat color white and keep the hat from mold. Or you can also apply oil on the outside to make the hat shiny, glossy and even in color. While making the hat, the girls of Chuong Village decorate by sticking colorful paper flower patterns onto the hat body."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213815.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213619.png",
+    "activities": [
+      {
+        "title": "Experiences",
+        "content": [
+          "Participating in festivals: The biggest annual festival of Chuong Conical Hat Village is the festival on the 10th day of the 3rd lunar month, lasting three days from the 9th to the 11th of the 3rd lunar month. Besides, the unique point at Chuong Village is also the Market. Chuong Village Market usually opens around the 10th day of the Lunar January every year and is also the largest market of the former Ha Dong province. From then until the end of the 10th day of the 3rd lunar month is the village festival, which is also the occasion for a large market. Following the flow of history, in the old days, the market was not simply a place to buy and sell goods but a gathering place and where many folk cultural activities in the region took place. Talking about the festival at Chuong Market, the ancients had a folk song: 'On the 10th, go to Chuong Market to play, Watch human chess, watch rice cooking competition.'"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213846.png"
+      },
+      {
+        "content": [
+          "Visiting Chuong Market: Chuong Village Market opens every day, specifically the hat market has six sessions a month, on the 4th, 10th, 14th, 20th, 24th and 30th of the lunar month. The market mainly sells hats and some hat weaving materials. Chuong Village Market opens quite early, at 6 AM many people in the village have come to buy. The atmosphere around the market, every household eagerly brings their family's products here to sell. The market opens early, crowded and bustling but quickly disperses after about 3 hours. People coming to the market often go quite early, those who like to visit also have to take advantage of coming very early in the morning to enjoy the bustling atmosphere of the hat market. Guests coming to Chuong Village, being present at the hat market sessions will be very excited about this unique cultural feature. It is not clear since when, but for many generations, the people of Chuong Village have maintained the habit of this market session. This is a valuable unique identity of Chuong Village."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213909.png"
+      },
+      {
+        "content": [
+          "Visiting Chuong Village Communal House: Chuong Village Communal House was built long ago in the year Giap Ngo 1894, during the 6th year of King Thanh Thai. Chuong Village Communal House is located in a beautiful position quite close to the national highway, with architecture of the characteristic Nguyen Dynasty 'inner công ngoại quốc' style, including the Trung Cung building, Hau Cung and Dai Bai. Passing through the Four-Pillar style Nghi Mon gate and the wide courtyard at Chuong Village Communal House, visitors will be overwhelmed by the architecture of the Dai Bai building. The column support system at the Dai Bai building of Chuong Village Communal House is all made from old ironwood trees with hard cores, interspersed with delicately carved panels of dragons and the four seasons (long ly quy phung – pine chrysanthemum bamboo apricot). On the panel in front of the communal house courtyard, there are 3 tigers, expressing the full liberal folk art elements. The Trung Dien and Hau Dien of Chuong Village Communal House have a similar structure, built in the stacked roof style with two roof layers. Chuong Village Communal House also preserves and displays many ancient horizontal lacquered boards, scrolls, and couplets,…"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20213941.png"
+      },
+      {
+        "content": [
+          "Walking around Chuong Conical Hat Village Pagoda: Chuong Conical Hat Village wears on itself an ancient beauty tinged with time, characteristic of the ancient villages in Hanoi. From the small alleys to each house with old tiled roofs, they create a nostalgic and peaceful feature of the Northern countryside. This place attracts tourists because it is an address with many photo spots. Any corner, just raise the camera and you can take a set of beautiful sparkling photos. Not only attracting by the ancient beauty, Chuong Conical Hat Village also carries a cultural beauty of the leaf hat craft village. As a traditional Vietnamese craft village, when walking around Chuong Conical Hat Village, you will encounter people and households making leaf hats with many cute traditional styles of the Vietnamese people. This is truly a precious experience for any Vietnamese child."
+        ]
+      },
+      {
+        "title": "Cuisine",
+        "content": [
+          "Chuong Village rolled rice cake: Chuong Conical Hat Village has a very famous rolled rice cake throughout the region.",
+          "Peanut solidified rice cake: At Chuong Market, there is also peanut solidified rice cake sold a lot in each market session, which is also a simple delicious dish associated with the life of the people."
+        ]
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "From Hanoi, tourists go along National Highway 6 in the direction of Hoa Bình. After going in the direction of Huong Pagoda about 2km from Kim Bai town, then turn right at the three-way intersection to reach Chuong Conical Hat Village right on the bank of the Day River. As a long-standing leaf hat village lying quietly next to the Day River, Chuong Conical Hat Village possesses the rustic and traditional beauty of the Northern countryside, combined with the unique beauty that the leaf hat production craft brings. If you are a traveler from afar, remember to come to Chuong Village when you have the opportunity to travel to Hanoi to explore and find the simple and honest ancient beauties of the nation as well as the history of Chuong Conical Hat Village and the formation and development of this village."
+        ]
+      }
+    ]
+  },
+  "PHU DONG VILLAGE": {
+    "name": "PHU DONG VILLAGE",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.450672957844!2d105.95849167515378!3d21.054654986888842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a8707f85a527%3A0xcad75e483eb36f9c!2zxJDDqsyAbiBHacOzbmcgUGjDuSDEkOG7lW5n!5e0!3m2!1svi!2s!4v1760885188756!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Phu Dong Giong Temple is an ancient temple imbued with traditional Vietnamese architecture. This place is associated with the legend of the national hero Saint Giong. Every space in the temple evokes national historical pride in the hearts of visitors.",
+    "location": "Phu Dong Commune, Gia Lam District, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction",
+        "content": [
+          "Phu Dong Giong Temple (Phu Dong Temple) is located in Phu Dong Commune, Gia Lam District, Hanoi. This is a land rich in historical traditions in the Capital.",
+          "The temple faces South, leaning against the Duong River dike, creating a both poetic and ancient scene.",
+          "The temple is a complex of structures including the five-door gate, water pavilion, front hall, middle hall and back sanctuary.",
+          "The temple is a living proof of the interference of architectural styles from the Ly Dynasty to the Nguyen Dynasty. Phu Dong Temple is also a symbolic temple associated with the famous Saint Giong legend."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215951.png"
+      },
+      {
+        "title": "Formation History",
+        "content": [
+          "Phu Dong Giong Temple belongs to the Phu Dong historical relic complex and was built to commemorate Saint Giong - the national hero who contributed to driving away the invading Yin enemies. To this day, Saint Giong Temple still retains its cultural value and becomes a historical symbol, the pride of many Vietnamese children.",
+          "Hung King Period: Phu Dong Giong Temple was built to worship Saint Giong. According to流传 legends, the temple was built on the foundation of Saint Giong's mother's house.",
+          "Late 11th century: Under the dynasty of King Ly Thai To, Phu Dong Giong Temple was renovated for the first time. The temple became a place to organize the annual Giong Festival to commemorate the merits of Saint Giong in defeating the Yin invaders.",
+          "17th century: During the Restored Le period, the water pavilion of the temple was built, applying the art of delicate carving of familiar folk scenes.",
+          "17th – 18th centuries: Dien Quan Cong Nguyen Huy and Trang Nguyen Dang Cong Chat contributed to building the temple's front houses and also contributed many other valuable artifacts.",
+          "Currently, Phu Dong Giong Temple is preserving 21 ordinations from many dynasties such as the Le, Tay Son and Nguyen dynasties, the oldest known ordination is from 1634. The temple is preserving many other valuable artifacts such as the worship throne, bronze unicorns, incense burners and a pair of cranes with strong Chinese characteristics."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220011.png"
+      },
+      {
+        "title": "Legend of Saint Giong",
+        "content": [
+          "Saint Giong, also known as Phu Dong Thien Vuong, is one of the four immortal saints in Vietnamese folk beliefs.",
+          "The legend of Saint Giong is associated with the time of the 6th Hung King and has been passed down by the people for generations.",
+          "The story tells that, a 60-year-old woman after stepping into a giant footprint became pregnant and gave birth to a boy named Giong. At three years old, the boy Giong still could not speak or walk.",
+          "When the Yin invaders invaded, Giong suddenly asked King Hung to forge for him a horse, sword, and iron armor. After eating his fill, Giong grew rapidly and went to defeat the Yin invaders.",
+          "After the victory, he took off his armor and flew straight up to the sky. Later, he was worshiped by the people as a national hero symbol."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220031.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215909.png",
+    "activities": [
+      {
+        "title": "Visiting",
+        "content": [
+          "Unique Architecture: The architecture of Phu Dong Giong Temple has the shape of the Chinese character 'Cong', with a large scale, combining ancient elements and nature. Saint Giong Temple is designed in the style of Northern village communal houses, each item expresses the traditional carving art of the nation. Saint Giong Temple is designed in the style of Northern village communal houses, each item expresses the traditional carving art of the nation. Inside the temple are carved wooden patterns, horizontal lacquered boards and couplets adorning the space more sacred. The main hall of the temple worships a large statue of Saint Giong. Besides are statues of civil mandarins, military mandarins and four close soldiers. The temple has a water pavilion located in the middle of the pond in front of the temple and is built in the structure of two floors and eight roofs stacked on beams."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220052.png"
+      },
+      {
+        "content": [
+          "Viewing Artifacts: Phu Dong Giong Temple is a place to preserve many artifacts with high historical value. Among them, the prominent artifacts in the temple must be mentioned as 37 ordinations, stone steles, worship statues, dragon thrones, palanquins and many other exquisite carving works. These artifacts have the meaning of reflecting the development of carving art in Vietnam through periods."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20215909.png"
+      },
+      {
+        "title": "Visiting",
+        "content": [
+          "Participating in the Festival: The Phu Dong Temple Festival takes place from the 6th to the 9th day of the 4th lunar month every year, attracting a large number of local people and tourists to participate. In particular, this festival has been recognized by UNESCO as an Intangible Cultural Heritage of Humanity. Visitors coming here can experience the reenactment of Saint Giong's battle against the Yin invaders and many other interesting games."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220230.png"
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "Phu Dong Temple is about 21 km from Hanoi Capital center, so it is quite convenient for tourists to come to learn about Vietnamese history and culture. To get to Phu Dong Giong Temple Hanoi, tourists have many different travel choices.",
+          "Bus: You can choose to go by bus with bus 10B from Long Bien to Trung Mau (the next to last stop is Phu Dong). You can get off at the stop and continue moving about 10 to 15 minutes on foot to reach the temple.",
+          "Personal Vehicles: Phu Dong Giong Temple is about 17km from the city center. Starting from the Hoan Kiem Lake area, move along Tran Quang Khai Street, cross Chuong Duong Bridge, go straight on National Highway 5 for about 8km, turn right into National Highway 1A (Phu Dong Street)."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220319.png"
+      },
+      {
+        "title": "Notes",
+        "content": [
+          "You need to prepare polite clothing when visiting the temple, prioritize choosing long-sleeved clothes, if wearing a skirt, it should be below the knee. You also need to avoid clothes that are too thin or too tight.",
+          "Visitors need to walk lightly and speak softly, avoid making noisy actions or joking too much. The temple space is a sacred place, requiring quiet and solemnity.",
+          "The worship hall area does not allow photography, so you need to pay special attention to this point. If you want to keep images at the temple, you need to ask the management board to know the allowed photo locations.",
+          "Visitors avoid touching artifacts with their hands, do not litter and have actions that damage trees in the campus. Because the temple is an intangible cultural heritage, it needs to be protected by everyone.",
+          "Visitors need to be careful in preserving personal belongings, beware of thieves taking advantage of crowds, especially during the festival season to perform theft and pickpocketing."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20220351.png"
+      }
+    ]
+  },
+  "SUGAR CANE PAGODA": {
+    "name": "SUGAR CANE PAGODA",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3720.7719550267916!2d105.46494177515633!3d21.161471783207418!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134f5bd11ccd161%3A0xfb9b75c53a44174e!2zQ2jDuWEgTcOtYQ!5e0!3m2!1svi!2s!4v1760887047107!5m2!1svi!2s",
+    "type": "spirituality",
+    "introduction": "Mia Pagoda Son Tay is an ancient gem in Duong Lam ancient village. This place stands out with traditional architecture and a rich system of Buddha statues. Not only a spiritual destination, the pagoda also carries strong historical and cultural imprints.",
+    "location": "Duong Lam Commune, Son Tay Town, Hanoi",
+    "description": [
+      {
+        "title": "General Introduction",
+        "content": [
+          "Mia Pagoda, also known as Sung Nghiem Tu, is located on high land near Tich River. The pagoda faces Southwest, meaning both towards wisdom (South) and wishing the gods to settle (West). Mia Pagoda in Duong Lam ancient village is one of the few pagodas in Hanoi that still preserves traditional architecture. This place is also associated with the sacredness and anecdotes about the Sugar Cane Princess.",
+          "This is one of the typical ancient pagodas of the Xu Doai region, still preserving the original traditional architecture to this day.",
+          "Mia Pagoda is associated with the land that gave birth to many famous people such as Ngo Quyen, Phung Hung, Ly Bi.",
+          "The pagoda is also famous for being the place that preserves the largest number of artistic statues in Vietnam with 287 statues."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20221930.png"
+      },
+      {
+        "title": "History",
+        "content": [
+          "Initially, Mia Pagoda was only a small pagoda, existing for a very long time. By 1632, this place fell into disrepair. In 1632, the concubine Ngo Thi Ngoc Dieu (also known as Nguyen Thi Ngoc Dong) – from Nam Nguyen village (Nam An), together with her parents and people in the area, stood up to renovate and expand the scale of the pagoda. Thanks to the renovation efforts, she was respectfully called 'Sugar Cane Princess' by the people. Having undergone many repairs, but to this day, the architecture from the time of the Sugar Cane Princess is still preserved intact."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222039.png"
+      },
+      {
+        "title": "Architecture",
+        "content": [
+          "Mia Pagoda bears the strong imprint of traditional Vietnamese pagoda architecture, with a harmonious layout and majestic scale. The pagoda is built in the shape of the Chinese character 'Muc', divided into three separate areas: a spacious garden space, a solemn inner hall area, and a surrounding Arhat corridor.",
+          "Passing through the three-entrance gate, visitors will see the row of vegetarian houses – where monks live. The main hall area includes many important items such as the Ceremonial Hall, the Lower Pagoda, the Inner Pagoda and the Upper Hall, creating a harmonious overall, bearing the strong imprint of traditional Vietnamese pagoda architecture.",
+          "Going deeper inside is the inner hall area, including the front hall, the precious hall, the great hero and the upper hall. The architecture here has the characteristics of the 'inner công ngoại quốc' style – a traditional style in building Vietnamese pagodas. One of the impressive highlights of Mia Pagoda is the 140-meter-long Arhat corridor, where the statues of the Eighteen Arhats are placed. These statues made of blue stone are about 2.5 meters high, each has its own shape and expression, clearly showing the artistic style of the Le period. One of the impressive highlights of Mia Pagoda is the 140-meter-long Arhat corridor, where the statues of the Eighteen Arhats are placed. These statues made of blue stone are about 2.5 meters high, each has its own shape and expression, clearly showing the artistic style of the Le period."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222056.png"
+      },
+      {
+        "content": [
+          "Passing through the three-entrance gate, visitors will see the row of vegetarian houses – where monks live. The main hall area includes many important items such as the Ceremonial Hall, the Lower Pagoda, the Inner Pagoda and the Upper Hall, creating a harmonious overall, bearing the strong imprint of traditional Vietnamese pagoda architecture.",
+          "Going deeper inside is the inner hall area, including the front hall, the precious hall, the great hero and the upper hall. The architecture here has the characteristics of the 'inner công ngoại quốc' style – a traditional style in building Vietnamese pagodas. One of the impressive highlights of Mia Pagoda is the 140-meter-long Arhat corridor, where the statues of the Eighteen Arhats are placed. These statues made of blue stone are about 2.5 meters high, each has its own shape and expression, clearly showing the artistic style of the Le period. One of the impressive highlights of Mia Pagoda is the 140-meter-long Arhat corridor, where the statues of the Eighteen Arhats are placed. These statues made of blue stone are about 2.5 meters high, each has its own shape and expression, clearly showing the artistic style of the Le period."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222118.png"
+      },
+      {
+        "title": "Buddha Statue System",
+        "content": [
+          "Mia Pagoda is considered a precious treasure of Buddhist sculpture with 287 statues of various sizes and materials. Among them, there are 6 statues cast in bronze, 106 statues carved from wood and 174 statues made of mixed earth, exquisitely lacquered and gilded.",
+          "Typical statues: Tuyet Son Statue, Ba Dai Hoa Thuong Statue, Sugar Cane Princess Statue, Nam Hai Quan Am Statue. Tuyet Son Statue: Carved from jackfruit wood, about 3 meters high, depicting the image of Buddha Shakyamuni during the ascetic practice period. The statue has a majestic demeanor, a thin appearance but exuding determination, placed in the Upper Hall area. Ba Dai Hoa Thuong Statue: The statue is about 2 meters high, depicting the image of a monk with a benevolent appearance and a kind smile. The statue is placed in the center of the front hall, one of the statues worshiped by many people. Sugar Cane Princess Statue: Made from jackfruit wood, about 1.5 meters high, depicting the image of a dignified and gentle woman. The statue is worshiped solemnly in the wooden cabinet next to the Three Jewels Hall, showing the respect of the people for the woman who contributed greatly to the pagoda renovation. Nam Hai Quan Am Statue: The jackfruit wood statue is about 2 meters high, carrying the compassionate and kind demeanor of Quan The Am Bo Tat. The statue is placed in the Arhat corridor, a stopping point for many Buddhists and tourists when coming to worship."
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20223415.png"
+      }
+    ],
+    "image": "/app/data/touristattractions/Screenshot%202025-10-19%20221930.png",
+    "activities": [
+      {
+        "title": "Visiting",
+        "content": [
+          "Admiring the architecture: Exploring the unique traditional architecture of Mia Pagoda",
+          "Viewing the statue system: Admiring 287 valuable statues",
+          "Visiting the Nine-Story Lotus Tower: The tower is 13 meters high, consisting of 9 floors, built to worship the Buddha's Relics",
+          "Walking around the Arhat corridor: The 140-meter-long corridor, where the statues of the Eighteen Arhats are placed"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222137.png"
+      },
+      {
+        "title": "Festival",
+        "content": [
+          "The most vibrant and crowded time is in the first lunar month of the year",
+          "On major holidays and full moon days, Mia Pagoda attracts a large number of people to worship and pray"
+        ],
+        "image": "/app/data/touristattractions/Screenshot%202025-10-19%20222158.png"
+      },
+      {
+        "title": "Transportation",
+        "content": [
+          "Bus: Bus route number 70A from Kim Ma to Son Tay, then switch to bus route number 92 to Phu Cuong. Bus route number 70A: Departing from Kim Ma to Son Tay. You can board at the stop on Kim Ma Street or other stops on the route. Bus route number 92: From Son Tay, switch to bus route number 92 to Phu Cuong. The bus will stop at Mia Market gate. You need to walk an additional distance of about 600m to reach Duong Lam ancient village and Mia Pagoda.",
+          "Personal Vehicles: Route 1: Starting from Nguyen Trai (QL6), go through Khuat Duy Tien, then enter ĐCT08 (Thang Long Avenue). Continue moving to ĐCT419 (Quoc Oai Town), turn into Road 80, then return to ĐCT419. From here, go through Lac Tri (QL32), Phuc Tho Town and reach Duong Lam Ancient Village.",
+          "Route 2: Starting from Nguyen Trai (QL6), go through Khuat Duy Tien, enter ĐCT08, then go through Tien Xuan and Binh Yen areas. Continue following QL21A to reach Duong Lam Ancient Village.",
+          "Route 3: Departing from Nguyen Trai (QL6), go through Khuat Duy Tien and enter ĐCT08. From here, continue moving to Yen Bai Bridge, then go through Xuan Khanh (Son Tay Town) before reaching Duong Lam Ancient Village."
+        ]
+      },
+      {
+        "title": "Notes",
+        "content": [
+          "Polite, discreet clothing",
+          "Maintain hygiene and order",
+          "Do not arbitrarily touch artifacts, worship statues",
+          "Opening hours: 07:00 to 17:00 daily"
+        ]
+      }
+    ]
   }
 }
